@@ -1,0 +1,2313 @@
+﻿observation_date,RegionName,Housing Types,House Values
+28-02-2001,California,Bottom Quantile House Values,108633.1838
+28-02-2001,California,Top Quantile House Vales,436108.1192
+28-02-2002,California,Bottom Quantile House Values,122099.1076
+28-02-2002,California,Top Quantile House Vales,479175.1059
+28-02-2003,California,Bottom Quantile House Values,141820.8854
+28-02-2003,California,Top Quantile House Vales,543278.5104
+28-02-2005,California,Bottom Quantile House Values,212422.23
+28-02-2005,California,Top Quantile House Vales,766934.073
+28-02-2006,California,Bottom Quantile House Values,251708.7918
+28-02-2006,California,Top Quantile House Vales,880423.1627
+28-02-2007,California,Bottom Quantile House Values,255084.3282
+28-02-2007,California,Top Quantile House Vales,882616.5949
+28-02-2009,California,Bottom Quantile House Values,162815.9947
+28-02-2009,California,Top Quantile House Vales,634387
+28-02-2010,California,Bottom Quantile House Values,150541.3408
+28-02-2010,California,Top Quantile House Vales,609666.4252
+28-02-2011,California,Bottom Quantile House Values,146905.3198
+28-02-2011,California,Top Quantile House Vales,589169
+28-02-2013,California,Bottom Quantile House Values,155063.7981
+28-02-2013,California,Top Quantile House Vales,617659
+28-02-2014,California,Bottom Quantile House Values,196096.0616
+28-02-2014,California,Top Quantile House Vales,717056.9986
+28-02-2015,California,Bottom Quantile House Values,217369.1654
+28-02-2015,California,Top Quantile House Vales,781501.5369
+28-02-2017,California,Bottom Quantile House Values,257351.701
+28-02-2017,California,Top Quantile House Vales,856447.6671
+28-02-2018,California,Bottom Quantile House Values,291438.5621
+28-02-2018,California,Top Quantile House Vales,939933.717
+28-02-2019,California,Bottom Quantile House Values,312225.1549
+28-02-2019,California,Top Quantile House Vales,996006.7396
+28-02-2021,California,Bottom Quantile House Values,364865.201
+28-02-2021,California,Top Quantile House Vales,1100943.955
+28-02-2022,California,Bottom Quantile House Values,432436.1727
+28-02-2022,California,Top Quantile House Vales,1299920.692
+28-02-2023,California,Bottom Quantile House Values,441664.3711
+28-02-2023,California,Top Quantile House Vales,1290709.104
+29-02-2000,California,Bottom Quantile House Values,96285.94685
+29-02-2000,California,Top Quantile House Vales,379257.6244
+29-02-2004,California,Bottom Quantile House Values,167861.7419
+29-02-2004,California,Top Quantile House Vales,624596.3622
+29-02-2008,California,Bottom Quantile House Values,223369.9294
+29-02-2008,California,Top Quantile House Vales,793018.9176
+29-02-2012,California,Bottom Quantile House Values,138270.805
+29-02-2012,California,Top Quantile House Vales,555952
+29-02-2016,California,Bottom Quantile House Values,235554.3726
+29-02-2016,California,Top Quantile House Vales,827249.6784
+29-02-2020,California,Bottom Quantile House Values,326148.247
+29-02-2020,California,Top Quantile House Vales,1004406.009
+30-04-2000,California,Bottom Quantile House Values,97496.53962
+30-04-2000,California,Top Quantile House Vales,385368.9123
+30-04-2001,California,Bottom Quantile House Values,111022.9822
+30-04-2001,California,Top Quantile House Vales,446937.1726
+30-04-2002,California,Bottom Quantile House Values,124188.2764
+30-04-2002,California,Top Quantile House Vales,486016.0027
+30-04-2003,California,Bottom Quantile House Values,145297.2562
+30-04-2003,California,Top Quantile House Vales,554755.3415
+30-04-2004,California,Bottom Quantile House Values,173806.6853
+30-04-2004,California,Top Quantile House Vales,646230.8688
+30-04-2005,California,Bottom Quantile House Values,220022.4111
+30-04-2005,California,Top Quantile House Vales,790392.3172
+30-04-2006,California,Bottom Quantile House Values,255259.0749
+30-04-2006,California,Top Quantile House Vales,889127.9825
+30-04-2007,California,Bottom Quantile House Values,253227.4554
+30-04-2007,California,Top Quantile House Vales,876610
+30-04-2008,California,Bottom Quantile House Values,212800.1876
+30-04-2008,California,Top Quantile House Vales,764226.5775
+30-04-2009,California,Bottom Quantile House Values,157802.3523
+30-04-2009,California,Top Quantile House Vales,620448
+30-04-2010,California,Bottom Quantile House Values,151619.2945
+30-04-2010,California,Top Quantile House Vales,614312.3169
+30-04-2011,California,Bottom Quantile House Values,145327.9735
+30-04-2011,California,Top Quantile House Vales,583776.865
+30-04-2012,California,Bottom Quantile House Values,138118.0335
+30-04-2012,California,Top Quantile House Vales,554433.2521
+30-04-2013,California,Bottom Quantile House Values,160257.8156
+30-04-2013,California,Top Quantile House Vales,629132.7935
+30-04-2014,California,Bottom Quantile House Values,200262.8766
+30-04-2014,California,Top Quantile House Vales,726392.3657
+30-04-2015,California,Bottom Quantile House Values,219670.7451
+30-04-2015,California,Top Quantile House Vales,789947.9629
+30-04-2016,California,Bottom Quantile House Values,241361.8921
+30-04-2016,California,Top Quantile House Vales,843928.0424
+30-04-2017,California,Bottom Quantile House Values,265353.4603
+30-04-2017,California,Top Quantile House Vales,877774.5346
+30-04-2018,California,Bottom Quantile House Values,296576.1988
+30-04-2018,California,Top Quantile House Vales,961862.385
+30-04-2019,California,Bottom Quantile House Values,313090.6921
+30-04-2019,California,Top Quantile House Vales,983505.0671
+30-04-2020,California,Bottom Quantile House Values,328777.4946
+30-04-2020,California,Top Quantile House Vales,1012531.03
+30-04-2021,California,Bottom Quantile House Values,375835.7663
+30-04-2021,California,Top Quantile House Vales,1127034.988
+30-04-2022,California,Bottom Quantile House Values,450052.2571
+30-04-2022,California,Top Quantile House Vales,1364007.845
+30-04-2023,California,Bottom Quantile House Values,438406.213
+30-04-2023,California,Top Quantile House Vales,1275626.455
+30-06-2000,California,Bottom Quantile House Values,99530.63268
+30-06-2000,California,Top Quantile House Vales,395582.4318
+30-06-2001,California,Bottom Quantile House Values,113683.5682
+30-06-2001,California,Top Quantile House Vales,457089.926
+30-06-2002,California,Bottom Quantile House Values,127108.6426
+30-06-2002,California,Top Quantile House Vales,496441.9465
+30-06-2003,California,Bottom Quantile House Values,149448.7994
+30-06-2003,California,Top Quantile House Vales,566925
+30-06-2004,California,Bottom Quantile House Values,181573.8213
+30-06-2004,California,Top Quantile House Vales,673897.2965
+30-06-2005,California,Bottom Quantile House Values,227643.6233
+30-06-2005,California,Top Quantile House Vales,813222.4648
+30-06-2006,California,Bottom Quantile House Values,258063.7424
+30-06-2006,California,Top Quantile House Vales,895546.9865
+30-06-2007,California,Bottom Quantile House Values,249303.0213
+30-06-2007,California,Top Quantile House Vales,865585.6346
+30-06-2008,California,Bottom Quantile House Values,201167.0132
+30-06-2008,California,Top Quantile House Vales,733807
+30-06-2009,California,Bottom Quantile House Values,153329.7528
+30-06-2009,California,Top Quantile House Vales,609085.4923
+30-06-2010,California,Bottom Quantile House Values,152234.0915
+30-06-2010,California,Top Quantile House Vales,616215
+30-06-2011,California,Bottom Quantile House Values,143113.2379
+30-06-2011,California,Top Quantile House Vales,575858.9277
+30-06-2012,California,Bottom Quantile House Values,139198.7168
+30-06-2012,California,Top Quantile House Vales,557881.2472
+30-06-2013,California,Bottom Quantile House Values,168139.5187
+30-06-2013,California,Top Quantile House Vales,648739.4447
+30-06-2014,California,Bottom Quantile House Values,204626.3966
+30-06-2014,California,Top Quantile House Vales,735867.9672
+30-06-2015,California,Bottom Quantile House Values,222878.419
+30-06-2015,California,Top Quantile House Vales,797778.1993
+30-06-2016,California,Bottom Quantile House Values,245432.9124
+30-06-2016,California,Top Quantile House Vales,848769
+30-06-2017,California,Bottom Quantile House Values,270702.9518
+30-06-2017,California,Top Quantile House Vales,890925.9449
+30-06-2018,California,Bottom Quantile House Values,300549.2568
+30-06-2018,California,Top Quantile House Vales,978743.6493
+30-06-2019,California,Bottom Quantile House Values,313524.7374
+30-06-2019,California,Top Quantile House Vales,978571.8946
+30-06-2020,California,Bottom Quantile House Values,329178.1931
+30-06-2020,California,Top Quantile House Vales,1005927.273
+30-06-2021,California,Bottom Quantile House Values,389850.7573
+30-06-2021,California,Top Quantile House Vales,1169903.444
+30-06-2022,California,Bottom Quantile House Values,461389.488
+30-06-2022,California,Top Quantile House Vales,1395539.455
+30-06-2023,California,Bottom Quantile House Values,442598.864
+30-06-2023,California,Top Quantile House Vales,1288699.713
+30-09-2000,California,Bottom Quantile House Values,103131.4789
+30-09-2000,California,Top Quantile House Vales,411860.8525
+30-09-2001,California,Bottom Quantile House Values,117370.4636
+30-09-2001,California,Top Quantile House Vales,468243
+30-09-2002,California,Bottom Quantile House Values,132886.1663
+30-09-2002,California,Top Quantile House Vales,515813.3183
+30-09-2003,California,Bottom Quantile House Values,156276.8465
+30-09-2003,California,Top Quantile House Vales,586930.379
+30-09-2004,California,Bottom Quantile House Values,194513.7273
+30-09-2004,California,Top Quantile House Vales,714039
+30-09-2005,California,Bottom Quantile House Values,238495.0982
+30-09-2005,California,Top Quantile House Vales,844328.5933
+30-09-2006,California,Bottom Quantile House Values,258329.232
+30-09-2006,California,Top Quantile House Vales,893313.0912
+30-09-2007,California,Bottom Quantile House Values,240658.4281
+30-09-2007,California,Top Quantile House Vales,842445.3203
+30-09-2008,California,Bottom Quantile House Values,183770.4028
+30-09-2008,California,Top Quantile House Vales,691311.0809
+30-09-2009,California,Bottom Quantile House Values,148958.519
+30-09-2009,California,Top Quantile House Vales,598304
+30-09-2010,California,Bottom Quantile House Values,150156.223
+30-09-2010,California,Top Quantile House Vales,605252.7611
+30-09-2011,California,Bottom Quantile House Values,140354.1085
+30-09-2011,California,Top Quantile House Vales,565350.2871
+30-09-2012,California,Bottom Quantile House Values,142633.2458
+30-09-2012,California,Top Quantile House Vales,574721.1472
+30-09-2013,California,Bottom Quantile House Values,180224.5422
+30-09-2013,California,Top Quantile House Vales,678891.3845
+30-09-2014,California,Bottom Quantile House Values,208687.09
+30-09-2014,California,Top Quantile House Vales,745037
+30-09-2015,California,Bottom Quantile House Values,226745.7588
+30-09-2015,California,Top Quantile House Vales,804516.532
+30-09-2016,California,Bottom Quantile House Values,247804.4832
+30-09-2016,California,Top Quantile House Vales,837230.6914
+30-09-2017,California,Bottom Quantile House Values,276429.7951
+30-09-2017,California,Top Quantile House Vales,896789.5931
+30-09-2018,California,Bottom Quantile House Values,306024.2249
+30-09-2018,California,Top Quantile House Vales,995268.1347
+30-09-2019,California,Bottom Quantile House Values,316468.442
+30-09-2019,California,Top Quantile House Vales,984259
+30-09-2020,California,Bottom Quantile House Values,335663.3868
+30-09-2020,California,Top Quantile House Vales,1020460.851
+30-09-2021,California,Bottom Quantile House Values,405636.9156
+30-09-2021,California,Top Quantile House Vales,1213418.883
+30-09-2022,California,Bottom Quantile House Values,458941.3739
+30-09-2022,California,Top Quantile House Vales,1355089.988
+30-09-2023,California,Bottom Quantile House Values,452953.0513
+30-09-2023,California,Top Quantile House Vales,1335816.254
+30-11-2000,California,Bottom Quantile House Values,105530.3924
+30-11-2000,California,Top Quantile House Vales,421868.6593
+30-11-2001,California,Bottom Quantile House Values,119520.7679
+30-11-2001,California,Top Quantile House Vales,473389.7376
+30-11-2002,California,Bottom Quantile House Values,136795.3251
+30-11-2002,California,Top Quantile House Vales,527349.7015
+30-11-2003,California,Bottom Quantile House Values,160961.7149
+30-11-2003,California,Top Quantile House Vales,601182.2487
+30-11-2004,California,Bottom Quantile House Values,202230.8453
+30-11-2004,California,Top Quantile House Vales,736306.1018
+30-11-2005,California,Bottom Quantile House Values,245013.3359
+30-11-2005,California,Top Quantile House Vales,862396.0139
+30-11-2006,California,Bottom Quantile House Values,256977.4689
+30-11-2006,California,Top Quantile House Vales,888423.4401
+30-11-2007,California,Bottom Quantile House Values,234113.7327
+30-11-2007,California,Top Quantile House Vales,824803.3135
+30-11-2008,California,Bottom Quantile House Values,174227.6007
+30-11-2008,California,Top Quantile House Vales,666625.4405
+30-11-2009,California,Bottom Quantile House Values,148413.7503
+30-11-2009,California,Top Quantile House Vales,599305.5367
+30-11-2010,California,Bottom Quantile House Values,148498.7557
+30-11-2010,California,Top Quantile House Vales,596725.7839
+30-11-2011,California,Bottom Quantile House Values,138847.5866
+30-11-2011,California,Top Quantile House Vales,558815.6059
+30-11-2012,California,Bottom Quantile House Values,147041.0005
+30-11-2012,California,Top Quantile House Vales,592903.9724
+30-11-2013,California,Bottom Quantile House Values,188500.988
+30-11-2013,California,Top Quantile House Vales,698084.4476
+30-11-2014,California,Bottom Quantile House Values,212411.408
+30-11-2014,California,Top Quantile House Vales,759670.4563
+30-11-2015,California,Bottom Quantile House Values,229327.5586
+30-11-2015,California,Top Quantile House Vales,809650.2846
+30-11-2016,California,Bottom Quantile House Values,249476.5075
+30-11-2016,California,Top Quantile House Vales,834466
+30-11-2017,California,Bottom Quantile House Values,282084.4141
+30-11-2017,California,Top Quantile House Vales,909185.3869
+30-11-2018,California,Bottom Quantile House Values,309408.329
+30-11-2018,California,Top Quantile House Vales,1005570.985
+30-11-2019,California,Bottom Quantile House Values,320419.5049
+30-11-2019,California,Top Quantile House Vales,992598.8723
+30-11-2020,California,Bottom Quantile House Values,347221.0813
+30-11-2020,California,Top Quantile House Vales,1056148.504
+30-11-2021,California,Bottom Quantile House Values,413409.7747
+30-11-2021,California,Top Quantile House Vales,1234213.734
+30-11-2022,California,Bottom Quantile House Values,452822.934
+30-11-2022,California,Top Quantile House Vales,1325074.458
+30-11-2023,California,Bottom Quantile House Values,457630.7614
+30-11-2023,California,Top Quantile House Vales,1357340.94
+31-01-2000,California,Bottom Quantile House Values,96008.55119
+31-01-2000,California,Top Quantile House Vales,377823.4626
+31-01-2001,California,Bottom Quantile House Values,107679.0754
+31-01-2001,California,Top Quantile House Vales,431556.7616
+31-01-2002,California,Bottom Quantile House Values,121301.8604
+31-01-2002,California,Top Quantile House Vales,477153.4434
+31-01-2003,California,Bottom Quantile House Values,140319.7499
+31-01-2003,California,Top Quantile House Vales,538276.1769
+31-01-2004,California,Bottom Quantile House Values,165411.7674
+31-01-2004,California,Top Quantile House Vales,615833.404
+31-01-2005,California,Bottom Quantile House Values,208947.479
+31-01-2005,California,Top Quantile House Vales,756478.2358
+31-01-2006,California,Bottom Quantile House Values,249805.1633
+31-01-2006,California,Top Quantile House Vales,875255.2834
+31-01-2007,California,Bottom Quantile House Values,255633.8874
+31-01-2007,California,Top Quantile House Vales,884549.4864
+31-01-2008,California,Bottom Quantile House Values,227306.5064
+31-01-2008,California,Top Quantile House Vales,804977.0463
+31-01-2009,California,Bottom Quantile House Values,165889.3872
+31-01-2009,California,Top Quantile House Vales,642781.0352
+31-01-2010,California,Bottom Quantile House Values,150107.9782
+31-01-2010,California,Top Quantile House Vales,607854
+31-01-2011,California,Bottom Quantile House Values,147452.278
+31-01-2011,California,Top Quantile House Vales,591253.7162
+31-01-2012,California,Bottom Quantile House Values,138393.5591
+31-01-2012,California,Top Quantile House Vales,557018.0366
+31-01-2013,California,Bottom Quantile House Values,152510.7312
+31-01-2013,California,Top Quantile House Vales,610910
+31-01-2014,California,Bottom Quantile House Values,194068.6877
+31-01-2014,California,Top Quantile House Vales,712189.6539
+31-01-2015,California,Bottom Quantile House Values,216059.577
+31-01-2015,California,Top Quantile House Vales,775125.351
+31-01-2016,California,Bottom Quantile House Values,232614.3669
+31-01-2016,California,Top Quantile House Vales,817603.9179
+31-01-2017,California,Bottom Quantile House Values,253661.2423
+31-01-2017,California,Top Quantile House Vales,845658.1872
+31-01-2018,California,Bottom Quantile House Values,288296.4808
+31-01-2018,California,Top Quantile House Vales,927791.7006
+31-01-2019,California,Bottom Quantile House Values,311581.0381
+31-01-2019,California,Top Quantile House Vales,1003006.506
+31-01-2020,California,Bottom Quantile House Values,324659.4272
+31-01-2020,California,Top Quantile House Vales,1000416.88
+31-01-2021,California,Bottom Quantile House Values,359555.8
+31-01-2021,California,Top Quantile House Vales,1089372.733
+31-01-2022,California,Bottom Quantile House Values,424701.9384
+31-01-2022,California,Top Quantile House Vales,1271493.826
+31-01-2023,California,Bottom Quantile House Values,445831.1247
+31-01-2023,California,Top Quantile House Vales,1304525.135
+31-01-2024,California,Bottom Quantile House Values,459916.4233
+31-01-2024,California,Top Quantile House Vales,1358896.211
+31-03-2000,California,Bottom Quantile House Values,96664.37619
+31-03-2000,California,Top Quantile House Vales,381141.0259
+31-03-2001,California,Bottom Quantile House Values,109699.0853
+31-03-2001,California,Top Quantile House Vales,441095.9531
+31-03-2002,California,Bottom Quantile House Values,122998.6296
+31-03-2002,California,Top Quantile House Vales,481921.1297
+31-03-2003,California,Bottom Quantile House Values,143421.7035
+31-03-2003,California,Top Quantile House Vales,548632.9481
+31-03-2004,California,Bottom Quantile House Values,170627.9667
+31-03-2004,California,Top Quantile House Vales,634729.5159
+31-03-2005,California,Bottom Quantile House Values,215975.1329
+31-03-2005,California,Top Quantile House Vales,778121.8647
+31-03-2006,California,Bottom Quantile House Values,253549.5313
+31-03-2006,California,Top Quantile House Vales,885051.4242
+31-03-2007,California,Bottom Quantile House Values,254273.0773
+31-03-2007,California,Top Quantile House Vales,880014.9909
+31-03-2008,California,Bottom Quantile House Values,218453.9073
+31-03-2008,California,Top Quantile House Vales,779361.3342
+31-03-2009,California,Bottom Quantile House Values,160219.6612
+31-03-2009,California,Top Quantile House Vales,627016.2571
+31-03-2010,California,Bottom Quantile House Values,151090.7775
+31-03-2010,California,Top Quantile House Vales,611836.1005
+31-03-2011,California,Bottom Quantile House Values,146157.6262
+31-03-2011,California,Top Quantile House Vales,586583
+31-03-2012,California,Bottom Quantile House Values,138153.1643
+31-03-2012,California,Top Quantile House Vales,554884.4558
+31-03-2013,California,Bottom Quantile House Values,157449.402
+31-03-2013,California,Top Quantile House Vales,622982.6674
+31-03-2014,California,Bottom Quantile House Values,198079.0338
+31-03-2014,California,Top Quantile House Vales,721233.1799
+31-03-2015,California,Bottom Quantile House Values,218405.7647
+31-03-2015,California,Top Quantile House Vales,786435.5926
+31-03-2016,California,Bottom Quantile House Values,238702.0853
+31-03-2016,California,Top Quantile House Vales,837272.9092
+31-03-2017,California,Bottom Quantile House Values,261601.1947
+31-03-2017,California,Top Quantile House Vales,868140.9081
+31-03-2018,California,Bottom Quantile House Values,294277.9157
+31-03-2018,California,Top Quantile House Vales,951650
+31-03-2019,California,Bottom Quantile House Values,312701.9898
+31-03-2019,California,Top Quantile House Vales,988674.7756
+31-03-2020,California,Bottom Quantile House Values,327527.5102
+31-03-2020,California,Top Quantile House Vales,1009030.053
+31-03-2021,California,Bottom Quantile House Values,369923.047
+31-03-2021,California,Top Quantile House Vales,1111419.732
+31-03-2022,California,Bottom Quantile House Values,441592.9528
+31-03-2022,California,Top Quantile House Vales,1333838.691
+31-03-2023,California,Bottom Quantile House Values,438775.5222
+31-03-2023,California,Top Quantile House Vales,1278583.997
+31-05-2000,California,Bottom Quantile House Values,98472.38646
+31-05-2000,California,Top Quantile House Vales,390272.5676
+31-05-2001,California,Bottom Quantile House Values,112387.2953
+31-05-2001,California,Top Quantile House Vales,452472.6291
+31-05-2002,California,Bottom Quantile House Values,125570.105
+31-05-2002,California,Top Quantile House Vales,490905
+31-05-2003,California,Bottom Quantile House Values,147419.431
+31-05-2003,California,Top Quantile House Vales,561172
+31-05-2004,California,Bottom Quantile House Values,177469.171
+31-05-2004,California,Top Quantile House Vales,659417.2173
+31-05-2005,California,Bottom Quantile House Values,223887.5993
+31-05-2005,California,Top Quantile House Vales,802449.2669
+31-05-2006,California,Bottom Quantile House Values,256899.7948
+31-05-2006,California,Top Quantile House Vales,893008.4132
+31-05-2007,California,Bottom Quantile House Values,251428.3548
+31-05-2007,California,Top Quantile House Vales,871470.5982
+31-05-2008,California,Bottom Quantile House Values,206892.3918
+31-05-2008,California,Top Quantile House Vales,748658
+31-05-2009,California,Bottom Quantile House Values,155407.8356
+31-05-2009,California,Top Quantile House Vales,614291.5908
+31-05-2010,California,Bottom Quantile House Values,152240.5824
+31-05-2010,California,Top Quantile House Vales,616796
+31-05-2011,California,Bottom Quantile House Values,144174.2179
+31-05-2011,California,Top Quantile House Vales,579355.1759
+31-05-2012,California,Bottom Quantile House Values,138429.5199
+31-05-2012,California,Top Quantile House Vales,555406.5672
+31-05-2013,California,Bottom Quantile House Values,163908.4519
+31-05-2013,California,Top Quantile House Vales,637903.3482
+31-05-2014,California,Bottom Quantile House Values,202622.2765
+31-05-2014,California,Top Quantile House Vales,731698.6422
+31-05-2015,California,Bottom Quantile House Values,221221.26
+31-05-2015,California,Top Quantile House Vales,793720.5623
+31-05-2016,California,Bottom Quantile House Values,243436.4302
+31-05-2016,California,Top Quantile House Vales,846732.6995
+31-05-2017,California,Bottom Quantile House Values,268214.9407
+31-05-2017,California,Top Quantile House Vales,884654.5349
+31-05-2018,California,Bottom Quantile House Values,298720.5297
+31-05-2018,California,Top Quantile House Vales,971353.8631
+31-05-2019,California,Bottom Quantile House Values,313325.8685
+31-05-2019,California,Top Quantile House Vales,980507.2202
+31-05-2020,California,Bottom Quantile House Values,329244.0298
+31-05-2020,California,Top Quantile House Vales,1011147.558
+31-05-2021,California,Bottom Quantile House Values,382623.5928
+31-05-2021,California,Top Quantile House Vales,1147240.312
+31-05-2022,California,Bottom Quantile House Values,456869.893
+31-05-2022,California,Top Quantile House Vales,1385934.742
+31-05-2023,California,Bottom Quantile House Values,439970.8218
+31-05-2023,California,Top Quantile House Vales,1279366.703
+31-07-2000,California,Bottom Quantile House Values,100658.8231
+31-07-2000,California,Top Quantile House Vales,401016.9175
+31-07-2001,California,Bottom Quantile House Values,114934.7373
+31-07-2001,California,Top Quantile House Vales,461152.6828
+31-07-2002,California,Bottom Quantile House Values,128887.0758
+31-07-2002,California,Top Quantile House Vales,502834.205
+31-07-2003,California,Bottom Quantile House Values,151566.8651
+31-07-2003,California,Top Quantile House Vales,572977.272
+31-07-2004,California,Bottom Quantile House Values,185923.7364
+31-07-2004,California,Top Quantile House Vales,688376.7248
+31-07-2005,California,Bottom Quantile House Values,231234.2876
+31-07-2005,California,Top Quantile House Vales,823549.7625
+31-07-2006,California,Bottom Quantile House Values,258620.26
+31-07-2006,California,Top Quantile House Vales,896044.8968
+31-07-2007,California,Bottom Quantile House Values,246616.9953
+31-07-2007,California,Top Quantile House Vales,858268.2904
+31-07-2008,California,Bottom Quantile House Values,195287.5618
+31-07-2008,California,Top Quantile House Vales,718959.2692
+31-07-2009,California,Bottom Quantile House Values,151643.7485
+31-07-2009,California,Top Quantile House Vales,605271.6489
+31-07-2010,California,Bottom Quantile House Values,151801.3602
+31-07-2010,California,Top Quantile House Vales,613364.8343
+31-07-2011,California,Bottom Quantile House Values,142194.1457
+31-07-2011,California,Top Quantile House Vales,572890.3869
+31-07-2012,California,Bottom Quantile House Values,140092.5563
+31-07-2012,California,Top Quantile House Vales,561480.7383
+31-07-2013,California,Bottom Quantile House Values,172192.9844
+31-07-2013,California,Top Quantile House Vales,659367.5238
+31-07-2014,California,Bottom Quantile House Values,206107.1195
+31-07-2014,California,Top Quantile House Vales,738211.5109
+31-07-2015,California,Bottom Quantile House Values,224327.914
+31-07-2015,California,Top Quantile House Vales,800939.7113
+31-07-2016,California,Bottom Quantile House Values,246641.0238
+31-07-2016,California,Top Quantile House Vales,847199.3084
+31-07-2017,California,Bottom Quantile House Values,272501.2086
+31-07-2017,California,Top Quantile House Vales,893482.9919
+31-07-2018,California,Bottom Quantile House Values,302374.293
+31-07-2018,California,Top Quantile House Vales,984081.9242
+31-07-2019,California,Bottom Quantile House Values,314015.3246
+31-07-2019,California,Top Quantile House Vales,978322.3252
+31-07-2020,California,Bottom Quantile House Values,329590.6722
+31-07-2020,California,Top Quantile House Vales,1003060.359
+31-07-2021,California,Bottom Quantile House Values,396622.9775
+31-07-2021,California,Top Quantile House Vales,1190047.501
+31-07-2022,California,Bottom Quantile House Values,463152.8547
+31-07-2022,California,Top Quantile House Vales,1392083.877
+31-07-2023,California,Bottom Quantile House Values,445958.6638
+31-07-2023,California,Top Quantile House Vales,1302561.019
+31-08-2000,California,Bottom Quantile House Values,101874.2987
+31-08-2000,California,Top Quantile House Vales,406512.6396
+31-08-2001,California,Bottom Quantile House Values,116175.2618
+31-08-2001,California,Top Quantile House Vales,464858
+31-08-2002,California,Bottom Quantile House Values,130853.6677
+31-08-2002,California,Top Quantile House Vales,509443.2573
+31-08-2003,California,Bottom Quantile House Values,153830.525
+31-08-2003,California,Top Quantile House Vales,579512.7953
+31-08-2004,California,Bottom Quantile House Values,190285.1444
+31-08-2004,California,Top Quantile House Vales,701748.8313
+31-08-2005,California,Bottom Quantile House Values,234874.5783
+31-08-2005,California,Top Quantile House Vales,833891.4498
+31-08-2006,California,Bottom Quantile House Values,258749.0273
+31-08-2006,California,Top Quantile House Vales,895479.5297
+31-08-2007,California,Bottom Quantile House Values,243770.7806
+31-08-2007,California,Top Quantile House Vales,850833
+31-08-2008,California,Bottom Quantile House Values,189414.9778
+31-08-2008,California,Top Quantile House Vales,704704.391
+31-08-2009,California,Bottom Quantile House Values,150190.0704
+31-08-2009,California,Top Quantile House Vales,601429.157
+31-08-2010,California,Bottom Quantile House Values,150982.0966
+31-08-2010,California,Top Quantile House Vales,609403.9511
+31-08-2011,California,Bottom Quantile House Values,141279.3489
+31-08-2011,California,Top Quantile House Vales,569570.5423
+31-08-2012,California,Bottom Quantile House Values,141181.3256
+31-08-2012,California,Top Quantile House Vales,567278.2467
+31-08-2013,California,Bottom Quantile House Values,176169.2144
+31-08-2013,California,Top Quantile House Vales,669188.0149
+31-08-2014,California,Bottom Quantile House Values,207250.9084
+31-08-2014,California,Top Quantile House Vales,740432
+31-08-2015,California,Bottom Quantile House Values,225545.9045
+31-08-2015,California,Top Quantile House Vales,802826.9751
+31-08-2016,California,Bottom Quantile House Values,247454.021
+31-08-2016,California,Top Quantile House Vales,843194.0939
+31-08-2017,California,Bottom Quantile House Values,274415.0461
+31-08-2017,California,Top Quantile House Vales,895158.263
+31-08-2018,California,Bottom Quantile House Values,304189.068
+31-08-2018,California,Top Quantile House Vales,989325.5983
+31-08-2019,California,Bottom Quantile House Values,315056.4311
+31-08-2019,California,Top Quantile House Vales,980479.4351
+31-08-2020,California,Bottom Quantile House Values,331648.7387
+31-08-2020,California,Top Quantile House Vales,1007660.908
+31-08-2021,California,Bottom Quantile House Values,401788.6267
+31-08-2021,California,Top Quantile House Vales,1204042.778
+31-08-2022,California,Bottom Quantile House Values,462068.8385
+31-08-2022,California,Top Quantile House Vales,1376553.979
+31-08-2023,California,Bottom Quantile House Values,449659.3951
+31-08-2023,California,Top Quantile House Vales,1319218.352
+31-10-2000,California,Bottom Quantile House Values,104340.4156
+31-10-2000,California,Top Quantile House Vales,416837.8738
+31-10-2001,California,Bottom Quantile House Values,118485.8256
+31-10-2001,California,Top Quantile House Vales,471010.6454
+31-10-2002,California,Bottom Quantile House Values,134861.0848
+31-10-2002,California,Top Quantile House Vales,521603.9263
+31-10-2003,California,Bottom Quantile House Values,158682.9642
+31-10-2003,California,Top Quantile House Vales,594125.4731
+31-10-2004,California,Bottom Quantile House Values,198601.5573
+31-10-2004,California,Top Quantile House Vales,725798.2926
+31-10-2005,California,Bottom Quantile House Values,242034.0771
+31-10-2005,California,Top Quantile House Vales,854404.9009
+31-10-2006,California,Bottom Quantile House Values,257684.7169
+31-10-2006,California,Top Quantile House Vales,890934.6508
+31-10-2007,California,Bottom Quantile House Values,237440.5051
+31-10-2007,California,Top Quantile House Vales,833621.4914
+31-10-2008,California,Bottom Quantile House Values,178863.275
+31-10-2008,California,Top Quantile House Vales,679193.1814
+31-10-2009,California,Bottom Quantile House Values,148230.2595
+31-10-2009,California,Top Quantile House Vales,596959.6823
+31-10-2010,California,Bottom Quantile House Values,149250.2701
+31-10-2010,California,Top Quantile House Vales,600959.6888
+31-10-2011,California,Bottom Quantile House Values,139358.033
+31-10-2011,California,Top Quantile House Vales,560828.8834
+31-10-2012,California,Bottom Quantile House Values,144643.4211
+31-10-2012,California,Top Quantile House Vales,583651.7763
+31-10-2013,California,Bottom Quantile House Values,184590.1841
+31-10-2013,California,Top Quantile House Vales,688980.1374
+31-10-2014,California,Bottom Quantile House Values,210407.5692
+31-10-2014,California,Top Quantile House Vales,751506.2409
+31-10-2015,California,Bottom Quantile House Values,228091.3725
+31-10-2015,California,Top Quantile House Vales,807190.9698
+31-10-2016,California,Bottom Quantile House Values,248476.8194
+31-10-2016,California,Top Quantile House Vales,834274.5885
+31-10-2017,California,Bottom Quantile House Values,279203.2386
+31-10-2017,California,Top Quantile House Vales,902452.0708
+31-10-2018,California,Bottom Quantile House Values,307926.0114
+31-10-2018,California,Top Quantile House Vales,1001655.891
+31-10-2019,California,Bottom Quantile House Values,318256.5609
+31-10-2019,California,Top Quantile House Vales,988453.1716
+31-10-2020,California,Bottom Quantile House Values,340930.8623
+31-10-2020,California,Top Quantile House Vales,1036919.646
+31-10-2021,California,Bottom Quantile House Values,409154.9481
+31-10-2021,California,Top Quantile House Vales,1222331.89
+31-10-2022,California,Bottom Quantile House Values,455743.3741
+31-10-2022,California,Top Quantile House Vales,1337059.2
+31-10-2023,California,Bottom Quantile House Values,455651.4677
+31-10-2023,California,Top Quantile House Vales,1348996.765
+31-12-2000,California,Bottom Quantile House Values,106684.5686
+31-12-2000,California,Top Quantile House Vales,426974.899
+31-12-2001,California,Bottom Quantile House Values,120504.3861
+31-12-2001,California,Top Quantile House Vales,475508.9511
+31-12-2002,California,Bottom Quantile House Values,138663.7137
+31-12-2002,California,Top Quantile House Vales,533070.796
+31-12-2003,California,Bottom Quantile House Values,163186.9163
+31-12-2003,California,Top Quantile House Vales,608156.5907
+31-12-2004,California,Bottom Quantile House Values,205763.2476
+31-12-2004,California,Top Quantile House Vales,746804.0759
+31-12-2005,California,Bottom Quantile House Values,247645.0612
+31-12-2005,California,Top Quantile House Vales,869457.7438
+31-12-2006,California,Bottom Quantile House Values,256260.5678
+31-12-2006,California,Top Quantile House Vales,886277.1489
+31-12-2007,California,Bottom Quantile House Values,230739.7771
+31-12-2007,California,Top Quantile House Vales,815027.4456
+31-12-2008,California,Bottom Quantile House Values,169944.3725
+31-12-2008,California,Top Quantile House Vales,654568.3785
+31-12-2009,California,Bottom Quantile House Values,149177.1757
+31-12-2009,California,Top Quantile House Vales,603722.1745
+31-12-2010,California,Bottom Quantile House Values,147928.5314
+31-12-2010,California,Top Quantile House Vales,593570
+31-12-2011,California,Bottom Quantile House Values,138488.644
+31-12-2011,California,Top Quantile House Vales,557671.1985
+31-12-2012,California,Bottom Quantile House Values,149746.7412
+31-12-2012,California,Top Quantile House Vales,602318.2724
+31-12-2013,California,Bottom Quantile House Values,191691.854
+31-12-2013,California,Top Quantile House Vales,706120.7209
+31-12-2014,California,Bottom Quantile House Values,214388.9859
+31-12-2014,California,Top Quantile House Vales,767520.4856
+31-12-2015,California,Bottom Quantile House Values,230535.1919
+31-12-2015,California,Top Quantile House Vales,811777.1921
+31-12-2016,California,Bottom Quantile House Values,250979.3251
+31-12-2016,California,Top Quantile House Vales,838023.9618
+31-12-2017,California,Bottom Quantile House Values,285164.5234
+31-12-2017,California,Top Quantile House Vales,917493.7108
+31-12-2018,California,Bottom Quantile House Values,310752.9411
+31-12-2018,California,Top Quantile House Vales,1006470.872
+31-12-2019,California,Bottom Quantile House Values,322669.5812
+31-12-2019,California,Top Quantile House Vales,996704.9401
+31-12-2020,California,Bottom Quantile House Values,353729.1277
+31-12-2020,California,Top Quantile House Vales,1074616.668
+31-12-2021,California,Bottom Quantile House Values,418282.487
+31-12-2021,California,Top Quantile House Vales,1249601.756
+31-12-2022,California,Bottom Quantile House Values,450020.6277
+31-12-2022,California,Top Quantile House Vales,1317070.686
+31-12-2023,California,Bottom Quantile House Values,459166.4008
+31-12-2023,California,Top Quantile House Vales,1360894.573
+28-02-2001,Texas,Bottom Quantile House Values,58112.4019
+28-02-2001,Texas,Top Quantile House Vales,216500.8847
+28-02-2002,Texas,Bottom Quantile House Values,58516.93842
+28-02-2002,Texas,Top Quantile House Vales,216470.7248
+28-02-2003,Texas,Bottom Quantile House Values,60947.13837
+28-02-2003,Texas,Top Quantile House Vales,222506.3016
+28-02-2005,Texas,Bottom Quantile House Values,68008.02377
+28-02-2005,Texas,Top Quantile House Vales,241747.9394
+28-02-2006,Texas,Bottom Quantile House Values,70506.5856
+28-02-2006,Texas,Top Quantile House Vales,248738.179
+28-02-2007,Texas,Bottom Quantile House Values,74265.90168
+28-02-2007,Texas,Top Quantile House Vales,259250.0829
+28-02-2009,Texas,Bottom Quantile House Values,73672.16637
+28-02-2009,Texas,Top Quantile House Vales,256228.9131
+28-02-2010,Texas,Bottom Quantile House Values,73272.08879
+28-02-2010,Texas,Top Quantile House Vales,254903.9106
+28-02-2011,Texas,Bottom Quantile House Values,71553.19727
+28-02-2011,Texas,Top Quantile House Vales,249271.0502
+28-02-2013,Texas,Bottom Quantile House Values,72635.51046
+28-02-2013,Texas,Top Quantile House Vales,258044.242
+28-02-2014,Texas,Bottom Quantile House Values,78720.08715
+28-02-2014,Texas,Top Quantile House Vales,278077.7826
+28-02-2015,Texas,Bottom Quantile House Values,85617.92057
+28-02-2015,Texas,Top Quantile House Vales,300677.0475
+28-02-2017,Texas,Bottom Quantile House Values,101619.2572
+28-02-2017,Texas,Top Quantile House Vales,331663.6207
+28-02-2018,Texas,Bottom Quantile House Values,108900.4327
+28-02-2018,Texas,Top Quantile House Vales,343984.7541
+28-02-2019,Texas,Bottom Quantile House Values,117593.3767
+28-02-2019,Texas,Top Quantile House Vales,354364.5209
+28-02-2021,Texas,Bottom Quantile House Values,140438.9485
+28-02-2021,Texas,Top Quantile House Vales,399759.558
+28-02-2022,Texas,Bottom Quantile House Values,162294.2527
+28-02-2022,Texas,Top Quantile House Vales,485311.2601
+28-02-2023,Texas,Bottom Quantile House Values,173878.6862
+28-02-2023,Texas,Top Quantile House Vales,508932.9804
+29-02-2000,Texas,Bottom Quantile House Values,57107.16728
+29-02-2000,Texas,Top Quantile House Vales,213787.6428
+29-02-2004,Texas,Bottom Quantile House Values,62911.02985
+29-02-2004,Texas,Top Quantile House Vales,226908.1695
+29-02-2008,Texas,Bottom Quantile House Values,76078.25215
+29-02-2008,Texas,Top Quantile House Vales,263736.8802
+29-02-2012,Texas,Bottom Quantile House Values,70350.47911
+29-02-2012,Texas,Top Quantile House Vales,246417.083
+29-02-2016,Texas,Bottom Quantile House Values,94251.69488
+29-02-2016,Texas,Top Quantile House Vales,320743.3454
+29-02-2020,Texas,Bottom Quantile House Values,125848.7137
+29-02-2020,Texas,Top Quantile House Vales,365032.0365
+30-04-2000,Texas,Bottom Quantile House Values,57165.54981
+30-04-2000,Texas,Top Quantile House Vales,214183.302
+30-04-2001,Texas,Bottom Quantile House Values,57942.5372
+30-04-2001,Texas,Top Quantile House Vales,215692
+30-04-2002,Texas,Bottom Quantile House Values,58786.40908
+30-04-2002,Texas,Top Quantile House Vales,217163.8115
+30-04-2003,Texas,Bottom Quantile House Values,61151.89685
+30-04-2003,Texas,Top Quantile House Vales,222949.461
+30-04-2004,Texas,Bottom Quantile House Values,64271.35676
+30-04-2004,Texas,Top Quantile House Vales,231263.9515
+30-04-2005,Texas,Bottom Quantile House Values,68468.70063
+30-04-2005,Texas,Top Quantile House Vales,242962.3165
+30-04-2006,Texas,Bottom Quantile House Values,70942.26126
+30-04-2006,Texas,Top Quantile House Vales,249862.2968
+30-04-2007,Texas,Bottom Quantile House Values,74465.80614
+30-04-2007,Texas,Top Quantile House Vales,259354.498
+30-04-2008,Texas,Bottom Quantile House Values,75686.80107
+30-04-2008,Texas,Top Quantile House Vales,262291.8699
+30-04-2009,Texas,Bottom Quantile House Values,73573.97319
+30-04-2009,Texas,Top Quantile House Vales,256001.1788
+30-04-2010,Texas,Bottom Quantile House Values,73349.49787
+30-04-2010,Texas,Top Quantile House Vales,255315
+30-04-2011,Texas,Bottom Quantile House Values,71070.39949
+30-04-2011,Texas,Top Quantile House Vales,248054.757
+30-04-2012,Texas,Bottom Quantile House Values,70721.36973
+30-04-2012,Texas,Top Quantile House Vales,247836.3447
+30-04-2013,Texas,Bottom Quantile House Values,73584.49948
+30-04-2013,Texas,Top Quantile House Vales,260946.1345
+30-04-2014,Texas,Bottom Quantile House Values,79989.85318
+30-04-2014,Texas,Top Quantile House Vales,281505.8337
+30-04-2015,Texas,Bottom Quantile House Values,87016.99488
+30-04-2015,Texas,Top Quantile House Vales,304697.9009
+30-04-2016,Texas,Bottom Quantile House Values,95269.5322
+30-04-2016,Texas,Top Quantile House Vales,322684.1126
+30-04-2017,Texas,Bottom Quantile House Values,102758.4238
+30-04-2017,Texas,Top Quantile House Vales,334538.3748
+30-04-2018,Texas,Bottom Quantile House Values,110878.7353
+30-04-2018,Texas,Top Quantile House Vales,346243.6472
+30-04-2019,Texas,Bottom Quantile House Values,118536.6073
+30-04-2019,Texas,Top Quantile House Vales,355793.058
+30-04-2020,Texas,Bottom Quantile House Values,127559.9782
+30-04-2020,Texas,Top Quantile House Vales,368155.9427
+30-04-2021,Texas,Bottom Quantile House Values,144616.2767
+30-04-2021,Texas,Top Quantile House Vales,414062.0405
+30-04-2022,Texas,Bottom Quantile House Values,168846.0524
+30-04-2022,Texas,Top Quantile House Vales,508139.4842
+30-04-2023,Texas,Bottom Quantile House Values,173961.586
+30-04-2023,Texas,Top Quantile House Vales,506217.8487
+30-06-2000,Texas,Bottom Quantile House Values,57237.04263
+30-06-2000,Texas,Top Quantile House Vales,214574.7605
+30-06-2001,Texas,Bottom Quantile House Values,58049.05312
+30-06-2001,Texas,Top Quantile House Vales,215689.8759
+30-06-2002,Texas,Bottom Quantile House Values,59270.16931
+30-06-2002,Texas,Top Quantile House Vales,218459.5948
+30-06-2003,Texas,Bottom Quantile House Values,61399.44887
+30-06-2003,Texas,Top Quantile House Vales,223363.5228
+30-06-2004,Texas,Bottom Quantile House Values,65288.85779
+30-06-2004,Texas,Top Quantile House Vales,234195.5007
+30-06-2005,Texas,Bottom Quantile House Values,68916.0449
+30-06-2005,Texas,Top Quantile House Vales,244345.8615
+30-06-2006,Texas,Bottom Quantile House Values,71648.83719
+30-06-2006,Texas,Top Quantile House Vales,251896.4443
+30-06-2007,Texas,Bottom Quantile House Values,74990.24831
+30-06-2007,Texas,Top Quantile House Vales,260737.3401
+30-06-2008,Texas,Bottom Quantile House Values,75520.07128
+30-06-2008,Texas,Top Quantile House Vales,261830.209
+30-06-2009,Texas,Bottom Quantile House Values,73541.13816
+30-06-2009,Texas,Top Quantile House Vales,255936.2046
+30-06-2010,Texas,Bottom Quantile House Values,73493.33834
+30-06-2010,Texas,Top Quantile House Vales,255796.2316
+30-06-2011,Texas,Bottom Quantile House Values,70716.20784
+30-06-2011,Texas,Top Quantile House Vales,247253.2171
+30-06-2012,Texas,Bottom Quantile House Values,71236.3178
+30-06-2012,Texas,Top Quantile House Vales,249439.054
+30-06-2013,Texas,Bottom Quantile House Values,74723.68526
+30-06-2013,Texas,Top Quantile House Vales,264396.1325
+30-06-2014,Texas,Bottom Quantile House Values,81298.05995
+30-06-2014,Texas,Top Quantile House Vales,284875.5687
+30-06-2015,Texas,Bottom Quantile House Values,88405.52316
+30-06-2015,Texas,Top Quantile House Vales,307949.4337
+30-06-2016,Texas,Bottom Quantile House Values,96312.86624
+30-06-2016,Texas,Top Quantile House Vales,324256.9964
+30-06-2017,Texas,Bottom Quantile House Values,103608.5317
+30-06-2017,Texas,Top Quantile House Vales,336960.2732
+30-06-2018,Texas,Bottom Quantile House Values,112460.7119
+30-06-2018,Texas,Top Quantile House Vales,348733.7848
+30-06-2019,Texas,Bottom Quantile House Values,119840.5742
+30-06-2019,Texas,Top Quantile House Vales,356509.2217
+30-06-2020,Texas,Bottom Quantile House Values,128441.4266
+30-06-2020,Texas,Top Quantile House Vales,368236.1694
+30-06-2021,Texas,Bottom Quantile House Values,149126.9414
+30-06-2021,Texas,Top Quantile House Vales,433301.7276
+30-06-2022,Texas,Bottom Quantile House Values,173845.932
+30-06-2022,Texas,Top Quantile House Vales,527985.6156
+30-06-2023,Texas,Bottom Quantile House Values,175512.2613
+30-06-2023,Texas,Top Quantile House Vales,509022.563
+30-09-2000,Texas,Bottom Quantile House Values,57515.10926
+30-09-2000,Texas,Top Quantile House Vales,215052
+30-09-2001,Texas,Bottom Quantile House Values,58277.41273
+30-09-2001,Texas,Top Quantile House Vales,216202.5697
+30-09-2002,Texas,Bottom Quantile House Values,60096.81346
+30-09-2002,Texas,Top Quantile House Vales,220710.6792
+30-09-2003,Texas,Bottom Quantile House Values,61866.70346
+30-09-2003,Texas,Top Quantile House Vales,224304.9775
+30-09-2004,Texas,Bottom Quantile House Values,66456.11734
+30-09-2004,Texas,Top Quantile House Vales,237508.5681
+30-09-2005,Texas,Bottom Quantile House Values,69565.31076
+30-09-2005,Texas,Top Quantile House Vales,246381.9575
+30-09-2006,Texas,Bottom Quantile House Values,72707.53853
+30-09-2006,Texas,Top Quantile House Vales,255000.0279
+30-09-2007,Texas,Bottom Quantile House Values,75717.81054
+30-09-2007,Texas,Top Quantile House Vales,262927.3987
+30-09-2008,Texas,Bottom Quantile House Values,74956.58659
+30-09-2008,Texas,Top Quantile House Vales,260394.8435
+30-09-2009,Texas,Bottom Quantile House Values,73310.46546
+30-09-2009,Texas,Top Quantile House Vales,255197.1081
+30-09-2010,Texas,Bottom Quantile House Values,72888.974
+30-09-2010,Texas,Top Quantile House Vales,253559.2912
+30-09-2011,Texas,Bottom Quantile House Values,70536.79295
+30-09-2011,Texas,Top Quantile House Vales,246945.9976
+30-09-2012,Texas,Bottom Quantile House Values,71974.9576
+30-09-2012,Texas,Top Quantile House Vales,252344.1395
+30-09-2013,Texas,Bottom Quantile House Values,76105.36535
+30-09-2013,Texas,Top Quantile House Vales,269949.5697
+30-09-2014,Texas,Bottom Quantile House Values,83077.92854
+30-09-2014,Texas,Top Quantile House Vales,290628.905
+30-09-2015,Texas,Bottom Quantile House Values,90700.58272
+30-09-2015,Texas,Top Quantile House Vales,312797.0662
+30-09-2016,Texas,Bottom Quantile House Values,97819.90788
+30-09-2016,Texas,Top Quantile House Vales,325620.8496
+30-09-2017,Texas,Bottom Quantile House Values,105411.6887
+30-09-2017,Texas,Top Quantile House Vales,339019.0753
+30-09-2018,Texas,Bottom Quantile House Values,114517.772
+30-09-2018,Texas,Top Quantile House Vales,351599.6318
+30-09-2019,Texas,Bottom Quantile House Values,121638.6487
+30-09-2019,Texas,Top Quantile House Vales,357773.4699
+30-09-2020,Texas,Bottom Quantile House Values,131873.9096
+30-09-2020,Texas,Top Quantile House Vales,374808.7918
+30-09-2021,Texas,Bottom Quantile House Values,152496.1543
+30-09-2021,Texas,Top Quantile House Vales,452504.8611
+30-09-2022,Texas,Bottom Quantile House Values,176118.2851
+30-09-2022,Texas,Top Quantile House Vales,526211.6101
+30-09-2023,Texas,Bottom Quantile House Values,176329.8721
+30-09-2023,Texas,Top Quantile House Vales,512156.6514
+30-11-2000,Texas,Bottom Quantile House Values,57811.88686
+30-11-2000,Texas,Top Quantile House Vales,215906.9314
+30-11-2001,Texas,Bottom Quantile House Values,58431.16436
+30-11-2001,Texas,Top Quantile House Vales,216477.4186
+30-11-2002,Texas,Bottom Quantile House Values,60528.64152
+30-11-2002,Texas,Top Quantile House Vales,221726.9479
+30-11-2003,Texas,Bottom Quantile House Values,62138.93821
+30-11-2003,Texas,Top Quantile House Vales,224803
+30-11-2004,Texas,Bottom Quantile House Values,67151.51289
+30-11-2004,Texas,Top Quantile House Vales,239466
+30-11-2005,Texas,Bottom Quantile House Values,69985.20711
+30-11-2005,Texas,Top Quantile House Vales,247510.9042
+30-11-2006,Texas,Bottom Quantile House Values,73536.30041
+30-11-2006,Texas,Top Quantile House Vales,257391.8962
+30-11-2007,Texas,Bottom Quantile House Values,76148.03265
+30-11-2007,Texas,Top Quantile House Vales,264166.2888
+30-11-2008,Texas,Bottom Quantile House Values,74343.24619
+30-11-2008,Texas,Top Quantile House Vales,258415.5007
+30-11-2009,Texas,Bottom Quantile House Values,73181.83277
+30-11-2009,Texas,Top Quantile House Vales,254651.925
+30-11-2010,Texas,Bottom Quantile House Values,72317.36598
+30-11-2010,Texas,Top Quantile House Vales,251508.0815
+30-11-2011,Texas,Bottom Quantile House Values,70385.29732
+30-11-2011,Texas,Top Quantile House Vales,246438.345
+30-11-2012,Texas,Bottom Quantile House Values,71977.30045
+30-11-2012,Texas,Top Quantile House Vales,254087.2861
+30-11-2013,Texas,Bottom Quantile House Values,76908.50698
+30-11-2013,Texas,Top Quantile House Vales,273310.3881
+30-11-2014,Texas,Bottom Quantile House Values,83761.42483
+30-11-2014,Texas,Top Quantile House Vales,294146.4086
+30-11-2015,Texas,Bottom Quantile House Values,92078.81241
+30-11-2015,Texas,Top Quantile House Vales,316177.8994
+30-11-2016,Texas,Bottom Quantile House Values,99320.35257
+30-11-2016,Texas,Top Quantile House Vales,327511.5589
+30-11-2017,Texas,Bottom Quantile House Values,106765.0008
+30-11-2017,Texas,Top Quantile House Vales,340939.424
+30-11-2018,Texas,Bottom Quantile House Values,115887.9203
+30-11-2018,Texas,Top Quantile House Vales,352449.7825
+30-11-2019,Texas,Bottom Quantile House Values,123301.408
+30-11-2019,Texas,Top Quantile House Vales,360055.6441
+30-11-2020,Texas,Bottom Quantile House Values,135429.2961
+30-11-2020,Texas,Top Quantile House Vales,384162.6089
+30-11-2021,Texas,Bottom Quantile House Values,154756.5168
+30-11-2021,Texas,Top Quantile House Vales,461730.2909
+30-11-2022,Texas,Bottom Quantile House Values,175974.0821
+30-11-2022,Texas,Top Quantile House Vales,518659.7052
+30-11-2023,Texas,Bottom Quantile House Values,175885.4468
+30-11-2023,Texas,Top Quantile House Vales,510652.4389
+31-01-2000,Texas,Bottom Quantile House Values,57084.05233
+31-01-2000,Texas,Top Quantile House Vales,213666
+31-01-2001,Texas,Bottom Quantile House Values,58126.05284
+31-01-2001,Texas,Top Quantile House Vales,216684.506
+31-01-2002,Texas,Bottom Quantile House Values,58480.26765
+31-01-2002,Texas,Top Quantile House Vales,216451.5773
+31-01-2003,Texas,Bottom Quantile House Values,60856.83731
+31-01-2003,Texas,Top Quantile House Vales,222345.7462
+31-01-2004,Texas,Bottom Quantile House Values,62464.88463
+31-01-2004,Texas,Top Quantile House Vales,225551.3894
+31-01-2005,Texas,Bottom Quantile House Values,67738.11808
+31-01-2005,Texas,Top Quantile House Vales,241031.1484
+31-01-2006,Texas,Bottom Quantile House Values,70344.88864
+31-01-2006,Texas,Top Quantile House Vales,248375.2168
+31-01-2007,Texas,Bottom Quantile House Values,74152.71246
+31-01-2007,Texas,Top Quantile House Vales,259098.5497
+31-01-2008,Texas,Bottom Quantile House Values,76267.78658
+31-01-2008,Texas,Top Quantile House Vales,264440.209
+31-01-2009,Texas,Bottom Quantile House Values,73826.94978
+31-01-2009,Texas,Top Quantile House Vales,256669.4222
+31-01-2010,Texas,Bottom Quantile House Values,73280.61189
+31-01-2010,Texas,Top Quantile House Vales,254931.3922
+31-01-2011,Texas,Bottom Quantile House Values,71812.89868
+31-01-2011,Texas,Top Quantile House Vales,249942.2464
+31-01-2012,Texas,Bottom Quantile House Values,70229.86706
+31-01-2012,Texas,Top Quantile House Vales,246014.4583
+31-01-2013,Texas,Bottom Quantile House Values,72248.48606
+31-01-2013,Texas,Top Quantile House Vales,256491.5162
+31-01-2014,Texas,Bottom Quantile House Values,78038.91894
+31-01-2014,Texas,Top Quantile House Vales,276318.0155
+31-01-2015,Texas,Bottom Quantile House Values,84955.10753
+31-01-2015,Texas,Top Quantile House Vales,298316.621
+31-01-2016,Texas,Bottom Quantile House Values,93416.22188
+31-01-2016,Texas,Top Quantile House Vales,319185.7861
+31-01-2017,Texas,Bottom Quantile House Values,100922.9791
+31-01-2017,Texas,Top Quantile House Vales,330377.5094
+31-01-2018,Texas,Bottom Quantile House Values,108192.2064
+31-01-2018,Texas,Top Quantile House Vales,343158
+31-01-2019,Texas,Bottom Quantile House Values,117177.2382
+31-01-2019,Texas,Top Quantile House Vales,353661.036
+31-01-2020,Texas,Bottom Quantile House Values,125009.9874
+31-01-2020,Texas,Top Quantile House Vales,363203.7893
+31-01-2021,Texas,Bottom Quantile House Values,138629.4393
+31-01-2021,Texas,Top Quantile House Vales,394124.8313
+31-01-2022,Texas,Bottom Quantile House Values,159250.4645
+31-01-2022,Texas,Top Quantile House Vales,475830.9644
+31-01-2023,Texas,Bottom Quantile House Values,174683.0158
+31-01-2023,Texas,Top Quantile House Vales,512104.6319
+31-01-2024,Texas,Bottom Quantile House Values,175517.1094
+31-01-2024,Texas,Top Quantile House Vales,509366.6408
+31-03-2000,Texas,Bottom Quantile House Values,57109.94257
+31-03-2000,Texas,Top Quantile House Vales,213865.3463
+31-03-2001,Texas,Bottom Quantile House Values,58002.55812
+31-03-2001,Texas,Top Quantile House Vales,216020.5325
+31-03-2002,Texas,Bottom Quantile House Values,58607.12906
+31-03-2002,Texas,Top Quantile House Vales,216686.3739
+31-03-2003,Texas,Bottom Quantile House Values,61047.57012
+31-03-2003,Texas,Top Quantile House Vales,222724.4794
+31-03-2004,Texas,Bottom Quantile House Values,63591.31133
+31-03-2004,Texas,Top Quantile House Vales,229088.6794
+31-03-2005,Texas,Bottom Quantile House Values,68257.86736
+31-03-2005,Texas,Top Quantile House Vales,242390.3938
+31-03-2006,Texas,Bottom Quantile House Values,70686.06384
+31-03-2006,Texas,Top Quantile House Vales,249165.2296
+31-03-2007,Texas,Bottom Quantile House Values,74301.44569
+31-03-2007,Texas,Top Quantile House Vales,259100.3959
+31-03-2008,Texas,Bottom Quantile House Values,75811.99862
+31-03-2008,Texas,Top Quantile House Vales,262748.5018
+31-03-2009,Texas,Bottom Quantile House Values,73590.32539
+31-03-2009,Texas,Top Quantile House Vales,256044.2457
+31-03-2010,Texas,Bottom Quantile House Values,73271.99673
+31-03-2010,Texas,Top Quantile House Vales,254965.159
+31-03-2011,Texas,Bottom Quantile House Values,71300.72
+31-03-2011,Texas,Top Quantile House Vales,248636.9263
+31-03-2012,Texas,Bottom Quantile House Values,70526.53036
+31-03-2012,Texas,Top Quantile House Vales,247113.4672
+31-03-2013,Texas,Bottom Quantile House Values,73129.29453
+31-03-2013,Texas,Top Quantile House Vales,259591.3509
+31-03-2014,Texas,Bottom Quantile House Values,79390.75635
+31-03-2014,Texas,Top Quantile House Vales,279907.6604
+31-03-2015,Texas,Bottom Quantile House Values,86286.06895
+31-03-2015,Texas,Top Quantile House Vales,302924.7732
+31-03-2016,Texas,Bottom Quantile House Values,94809.3788
+31-03-2016,Texas,Top Quantile House Vales,321888.9158
+31-03-2017,Texas,Bottom Quantile House Values,102224.0197
+31-03-2017,Texas,Top Quantile House Vales,332947.565
+31-03-2018,Texas,Bottom Quantile House Values,109901.4228
+31-03-2018,Texas,Top Quantile House Vales,345062.5226
+31-03-2019,Texas,Bottom Quantile House Values,118028.8188
+31-03-2019,Texas,Top Quantile House Vales,355112.0045
+31-03-2020,Texas,Bottom Quantile House Values,126704.9418
+31-03-2020,Texas,Top Quantile House Vales,366935.1581
+31-03-2021,Texas,Bottom Quantile House Values,142482.4982
+31-03-2021,Texas,Top Quantile House Vales,406225.5622
+31-03-2022,Texas,Bottom Quantile House Values,165788.0247
+31-03-2022,Texas,Top Quantile House Vales,496524.2024
+31-03-2023,Texas,Bottom Quantile House Values,173621.9527
+31-03-2023,Texas,Top Quantile House Vales,506696.5099
+31-05-2000,Texas,Bottom Quantile House Values,57195.06883
+31-05-2000,Texas,Top Quantile House Vales,214411.3362
+31-05-2001,Texas,Bottom Quantile House Values,57976.09278
+31-05-2001,Texas,Top Quantile House Vales,215629.1279
+31-05-2002,Texas,Bottom Quantile House Values,59006.39409
+31-05-2002,Texas,Top Quantile House Vales,217741.3815
+31-05-2003,Texas,Bottom Quantile House Values,61271.44839
+31-05-2003,Texas,Top Quantile House Vales,223163.585
+31-05-2004,Texas,Bottom Quantile House Values,64863.47853
+31-05-2004,Texas,Top Quantile House Vales,233048
+31-05-2005,Texas,Bottom Quantile House Values,68693.66264
+31-05-2005,Texas,Top Quantile House Vales,243614.3827
+31-05-2006,Texas,Bottom Quantile House Values,71281.39083
+31-05-2006,Texas,Top Quantile House Vales,250827.5057
+31-05-2007,Texas,Bottom Quantile House Values,74706.43651
+31-05-2007,Texas,Top Quantile House Vales,259939.6612
+31-05-2008,Texas,Bottom Quantile House Values,75604.56326
+31-05-2008,Texas,Top Quantile House Vales,262047.7019
+31-05-2009,Texas,Bottom Quantile House Values,73569.4496
+31-05-2009,Texas,Top Quantile House Vales,255996.7396
+31-05-2010,Texas,Bottom Quantile House Values,73454.40396
+31-05-2010,Texas,Top Quantile House Vales,255693
+31-05-2011,Texas,Bottom Quantile House Values,70889.15414
+31-05-2011,Texas,Top Quantile House Vales,247643.3653
+31-05-2012,Texas,Bottom Quantile House Values,70947.41762
+31-05-2012,Texas,Top Quantile House Vales,248553.5025
+31-05-2013,Texas,Bottom Quantile House Values,74114.99348
+31-05-2013,Texas,Top Quantile House Vales,262426.5249
+31-05-2014,Texas,Bottom Quantile House Values,80636.85284
+31-05-2014,Texas,Top Quantile House Vales,283190.7941
+31-05-2015,Texas,Bottom Quantile House Values,87731.86664
+31-05-2015,Texas,Top Quantile House Vales,306413.679
+31-05-2016,Texas,Bottom Quantile House Values,95696.08543
+31-05-2016,Texas,Top Quantile House Vales,323417.516
+31-05-2017,Texas,Bottom Quantile House Values,103175.9079
+31-05-2017,Texas,Top Quantile House Vales,335844.0257
+31-05-2018,Texas,Bottom Quantile House Values,111832.4851
+31-05-2018,Texas,Top Quantile House Vales,347673.092
+31-05-2019,Texas,Bottom Quantile House Values,119179.3429
+31-05-2019,Texas,Top Quantile House Vales,356213.5374
+31-05-2020,Texas,Bottom Quantile House Values,128094.1237
+31-05-2020,Texas,Top Quantile House Vales,368399.488
+31-05-2021,Texas,Bottom Quantile House Values,146822.9876
+31-05-2021,Texas,Top Quantile House Vales,423455.2503
+31-05-2022,Texas,Bottom Quantile House Values,171490.1585
+31-05-2022,Texas,Top Quantile House Vales,519041
+31-05-2023,Texas,Bottom Quantile House Values,174700.5236
+31-05-2023,Texas,Top Quantile House Vales,507173.0614
+31-07-2000,Texas,Bottom Quantile House Values,57272.03235
+31-07-2000,Texas,Top Quantile House Vales,214558.8824
+31-07-2001,Texas,Bottom Quantile House Values,58125.73781
+31-07-2001,Texas,Top Quantile House Vales,215833.1753
+31-07-2002,Texas,Bottom Quantile House Values,59549.70162
+31-07-2002,Texas,Top Quantile House Vales,219204.615
+31-07-2003,Texas,Bottom Quantile House Values,61536.56241
+31-07-2003,Texas,Top Quantile House Vales,223621.2729
+31-07-2004,Texas,Bottom Quantile House Values,65690.20284
+31-07-2004,Texas,Top Quantile House Vales,235298.4437
+31-07-2005,Texas,Bottom Quantile House Values,69128.59119
+31-07-2005,Texas,Top Quantile House Vales,245046.2348
+31-07-2006,Texas,Bottom Quantile House Values,72020.94759
+31-07-2006,Texas,Top Quantile House Vales,252977.9836
+31-07-2007,Texas,Bottom Quantile House Values,75223.70754
+31-07-2007,Texas,Top Quantile House Vales,261447.4359
+31-07-2008,Texas,Bottom Quantile House Values,75435.98603
+31-07-2008,Texas,Top Quantile House Vales,261684.288
+31-07-2009,Texas,Bottom Quantile House Values,73518.93967
+31-07-2009,Texas,Top Quantile House Vales,255923.6226
+31-07-2010,Texas,Bottom Quantile House Values,73389.89035
+31-07-2010,Texas,Top Quantile House Vales,255389.6294
+31-07-2011,Texas,Bottom Quantile House Values,70628.9399
+31-07-2011,Texas,Top Quantile House Vales,247100.7201
+31-07-2012,Texas,Bottom Quantile House Values,71582.36179
+31-07-2012,Texas,Top Quantile House Vales,250430.4488
+31-07-2013,Texas,Bottom Quantile House Values,75222.52574
+31-07-2013,Texas,Top Quantile House Vales,266340.3996
+31-07-2014,Texas,Bottom Quantile House Values,82016.42716
+31-07-2014,Texas,Top Quantile House Vales,286788.3622
+31-07-2015,Texas,Bottom Quantile House Values,89124.89589
+31-07-2015,Texas,Top Quantile House Vales,309537.8413
+31-07-2016,Texas,Bottom Quantile House Values,96802.6177
+31-07-2016,Texas,Top Quantile House Vales,324848
+31-07-2017,Texas,Bottom Quantile House Values,104093.0243
+31-07-2017,Texas,Top Quantile House Vales,337558.906
+31-07-2018,Texas,Bottom Quantile House Values,113139.3458
+31-07-2018,Texas,Top Quantile House Vales,349912.5971
+31-07-2019,Texas,Bottom Quantile House Values,120491.7904
+31-07-2019,Texas,Top Quantile House Vales,356781.5339
+31-07-2020,Texas,Bottom Quantile House Values,129026.9135
+31-07-2020,Texas,Top Quantile House Vales,368849.0212
+31-07-2021,Texas,Bottom Quantile House Values,150978.5925
+31-07-2021,Texas,Top Quantile House Vales,441918.4969
+31-07-2022,Texas,Bottom Quantile House Values,175440.3214
+31-07-2022,Texas,Top Quantile House Vales,531685.9598
+31-07-2023,Texas,Bottom Quantile House Values,175990.6547
+31-07-2023,Texas,Top Quantile House Vales,510634.3263
+31-08-2000,Texas,Bottom Quantile House Values,57380.31245
+31-08-2000,Texas,Top Quantile House Vales,214742.1072
+31-08-2001,Texas,Bottom Quantile House Values,58196.38695
+31-08-2001,Texas,Top Quantile House Vales,215991.8793
+31-08-2002,Texas,Bottom Quantile House Values,59838.72162
+31-08-2002,Texas,Top Quantile House Vales,220022.9994
+31-08-2003,Texas,Bottom Quantile House Values,61705.58426
+31-08-2003,Texas,Top Quantile House Vales,223980.9489
+31-08-2004,Texas,Bottom Quantile House Values,66057.77963
+31-08-2004,Texas,Top Quantile House Vales,236329.3849
+31-08-2005,Texas,Bottom Quantile House Values,69337.49191
+31-08-2005,Texas,Top Quantile House Vales,245710.6141
+31-08-2006,Texas,Bottom Quantile House Values,72348.00379
+31-08-2006,Texas,Top Quantile House Vales,253961.7821
+31-08-2007,Texas,Bottom Quantile House Values,75467.9961
+31-08-2007,Texas,Top Quantile House Vales,262192.458
+31-08-2008,Texas,Bottom Quantile House Values,75236.40467
+31-08-2008,Texas,Top Quantile House Vales,261176.2498
+31-08-2009,Texas,Bottom Quantile House Values,73424.04612
+31-08-2009,Texas,Top Quantile House Vales,255617.7535
+31-08-2010,Texas,Bottom Quantile House Values,73167.93553
+31-08-2010,Texas,Top Quantile House Vales,254561.1835
+31-08-2011,Texas,Bottom Quantile House Values,70565.48787
+31-08-2011,Texas,Top Quantile House Vales,246992.531
+31-08-2012,Texas,Bottom Quantile House Values,71803.6461
+31-08-2012,Texas,Top Quantile House Vales,251447.6234
+31-08-2013,Texas,Bottom Quantile House Values,75765.15195
+31-08-2013,Texas,Top Quantile House Vales,268263.7765
+31-08-2014,Texas,Bottom Quantile House Values,82623.40204
+31-08-2014,Texas,Top Quantile House Vales,288667.9996
+31-08-2015,Texas,Bottom Quantile House Values,89891.85617
+31-08-2015,Texas,Top Quantile House Vales,311062.8999
+31-08-2016,Texas,Bottom Quantile House Values,97287.31862
+31-08-2016,Texas,Top Quantile House Vales,325209.8111
+31-08-2017,Texas,Bottom Quantile House Values,104710.1763
+31-08-2017,Texas,Top Quantile House Vales,338258.2717
+31-08-2018,Texas,Bottom Quantile House Values,113781.3055
+31-08-2018,Texas,Top Quantile House Vales,350831.262
+31-08-2019,Texas,Bottom Quantile House Values,121075.1978
+31-08-2019,Texas,Top Quantile House Vales,357206.5721
+31-08-2020,Texas,Bottom Quantile House Values,130173.308
+31-08-2020,Texas,Top Quantile House Vales,371061.1402
+31-08-2021,Texas,Bottom Quantile House Values,152064.3068
+31-08-2021,Texas,Top Quantile House Vales,448158.8004
+31-08-2022,Texas,Bottom Quantile House Values,176144.0687
+31-08-2022,Texas,Top Quantile House Vales,530645.7623
+31-08-2023,Texas,Bottom Quantile House Values,176329.5577
+31-08-2023,Texas,Top Quantile House Vales,511814.0491
+31-10-2000,Texas,Bottom Quantile House Values,57650.88803
+31-10-2000,Texas,Top Quantile House Vales,215438.8276
+31-10-2001,Texas,Bottom Quantile House Values,58369.033
+31-10-2001,Texas,Top Quantile House Vales,216385.1248
+31-10-2002,Texas,Bottom Quantile House Values,60319.53857
+31-10-2002,Texas,Top Quantile House Vales,221271
+31-10-2003,Texas,Bottom Quantile House Values,62023.2135
+31-10-2003,Texas,Top Quantile House Vales,224605.4688
+31-10-2004,Texas,Bottom Quantile House Values,66825.69829
+31-10-2004,Texas,Top Quantile House Vales,238567.3757
+31-10-2005,Texas,Bottom Quantile House Values,69766.08605
+31-10-2005,Texas,Top Quantile House Vales,246918.1118
+31-10-2006,Texas,Bottom Quantile House Values,73124.88315
+31-10-2006,Texas,Top Quantile House Vales,256234.223
+31-10-2007,Texas,Bottom Quantile House Values,75944.67214
+31-10-2007,Texas,Top Quantile House Vales,263598.9963
+31-10-2008,Texas,Bottom Quantile House Values,74637.16226
+31-10-2008,Texas,Top Quantile House Vales,259409.3142
+31-10-2009,Texas,Bottom Quantile House Values,73177.5317
+31-10-2009,Texas,Top Quantile House Vales,254655.1105
+31-10-2010,Texas,Bottom Quantile House Values,72609.63666
+31-10-2010,Texas,Top Quantile House Vales,252549.112
+31-10-2011,Texas,Bottom Quantile House Values,70476.70153
+31-10-2011,Texas,Top Quantile House Vales,246745.3763
+31-10-2012,Texas,Bottom Quantile House Values,72002.05374
+31-10-2012,Texas,Top Quantile House Vales,253170.7701
+31-10-2013,Texas,Bottom Quantile House Values,76545.43431
+31-10-2013,Texas,Top Quantile House Vales,271769.586
+31-10-2014,Texas,Bottom Quantile House Values,83356.96332
+31-10-2014,Texas,Top Quantile House Vales,292315.198
+31-10-2015,Texas,Bottom Quantile House Values,91489.09748
+31-10-2015,Texas,Top Quantile House Vales,314580.0231
+31-10-2016,Texas,Bottom Quantile House Values,98499.63131
+31-10-2016,Texas,Top Quantile House Vales,326326.5674
+31-10-2017,Texas,Bottom Quantile House Values,106081.2234
+31-10-2017,Texas,Top Quantile House Vales,339953.2002
+31-10-2018,Texas,Bottom Quantile House Values,115145.2352
+31-10-2018,Texas,Top Quantile House Vales,351985.5326
+31-10-2019,Texas,Bottom Quantile House Values,122421.2022
+31-10-2019,Texas,Top Quantile House Vales,358766.6171
+31-10-2020,Texas,Bottom Quantile House Values,133662.0064
+31-10-2020,Texas,Top Quantile House Vales,379257.4814
+31-10-2021,Texas,Bottom Quantile House Values,153260.9961
+31-10-2021,Texas,Top Quantile House Vales,456670.8367
+31-10-2022,Texas,Bottom Quantile House Values,176077.3773
+31-10-2022,Texas,Top Quantile House Vales,522140.2969
+31-10-2023,Texas,Bottom Quantile House Values,176196.6664
+31-10-2023,Texas,Top Quantile House Vales,511586.0425
+31-12-2000,Texas,Bottom Quantile House Values,58003.91412
+31-12-2000,Texas,Top Quantile House Vales,216422.2115
+31-12-2001,Texas,Bottom Quantile House Values,58476.72505
+31-12-2001,Texas,Top Quantile House Vales,216512.3207
+31-12-2002,Texas,Bottom Quantile House Values,60711.67111
+31-12-2002,Texas,Top Quantile House Vales,222079.8291
+31-12-2003,Texas,Bottom Quantile House Values,62239.05831
+31-12-2003,Texas,Top Quantile House Vales,224984.0606
+31-12-2004,Texas,Bottom Quantile House Values,67434.56765
+31-12-2004,Texas,Top Quantile House Vales,240217.9552
+31-12-2005,Texas,Bottom Quantile House Values,70179.92399
+31-12-2005,Texas,Top Quantile House Vales,247991.4158
+31-12-2006,Texas,Bottom Quantile House Values,73922.37483
+31-12-2006,Texas,Top Quantile House Vales,258529.8766
+31-12-2007,Texas,Bottom Quantile House Values,76324.62481
+31-12-2007,Texas,Top Quantile House Vales,264712.9411
+31-12-2008,Texas,Bottom Quantile House Values,74082.99329
+31-12-2008,Texas,Top Quantile House Vales,257499.9238
+31-12-2009,Texas,Bottom Quantile House Values,73243.91412
+31-12-2009,Texas,Top Quantile House Vales,254831.9899
+31-12-2010,Texas,Bottom Quantile House Values,72062.27207
+31-12-2010,Texas,Top Quantile House Vales,250634
+31-12-2011,Texas,Bottom Quantile House Values,70279.24889
+31-12-2011,Texas,Top Quantile House Vales,246089.8031
+31-12-2012,Texas,Bottom Quantile House Values,71991.32545
+31-12-2012,Texas,Top Quantile House Vales,255086.8047
+31-12-2013,Texas,Bottom Quantile House Values,77404.2121
+31-12-2013,Texas,Top Quantile House Vales,274751.7901
+31-12-2014,Texas,Bottom Quantile House Values,84329.2055
+31-12-2014,Texas,Top Quantile House Vales,296003.4357
+31-12-2015,Texas,Bottom Quantile House Values,92709.55248
+31-12-2015,Texas,Top Quantile House Vales,317574.8186
+31-12-2016,Texas,Bottom Quantile House Values,100103.4729
+31-12-2016,Texas,Top Quantile House Vales,328948.8002
+31-12-2017,Texas,Bottom Quantile House Values,107465.5091
+31-12-2017,Texas,Top Quantile House Vales,342091.1455
+31-12-2018,Texas,Bottom Quantile House Values,116600.4966
+31-12-2018,Texas,Top Quantile House Vales,353052.8723
+31-12-2019,Texas,Bottom Quantile House Values,124217.2125
+31-12-2019,Texas,Top Quantile House Vales,361522.3402
+31-12-2020,Texas,Bottom Quantile House Values,137005.8006
+31-12-2020,Texas,Top Quantile House Vales,389028.7123
+31-12-2021,Texas,Bottom Quantile House Values,156589.5783
+31-12-2021,Texas,Top Quantile House Vales,467705.4412
+31-12-2022,Texas,Bottom Quantile House Values,175529.5819
+31-12-2022,Texas,Top Quantile House Vales,515673.2057
+31-12-2023,Texas,Bottom Quantile House Values,175545.6451
+31-12-2023,Texas,Top Quantile House Vales,509550.0181
+28-02-2001,Florida,Bottom Quantile House Values,57309.34448
+28-02-2001,Florida,Top Quantile House Vales,224894.9972
+28-02-2002,Florida,Bottom Quantile House Values,63006.76064
+28-02-2002,Florida,Top Quantile House Vales,248125.0069
+28-02-2003,Florida,Bottom Quantile House Values,69594.10844
+28-02-2003,Florida,Top Quantile House Vales,274880.8506
+28-02-2005,Florida,Bottom Quantile House Values,93883.8624
+28-02-2005,Florida,Top Quantile House Vales,369659
+28-02-2006,Florida,Bottom Quantile House Values,119550.6049
+28-02-2006,Florida,Top Quantile House Vales,466614.0852
+28-02-2007,Florida,Bottom Quantile House Values,128458.5259
+28-02-2007,Florida,Top Quantile House Vales,492936.3214
+28-02-2009,Florida,Bottom Quantile House Values,88701.1991
+28-02-2009,Florida,Top Quantile House Vales,338425.2832
+28-02-2010,Florida,Bottom Quantile House Values,75008.48651
+28-02-2010,Florida,Top Quantile House Vales,296470.3544
+28-02-2011,Florida,Bottom Quantile House Values,68052.66909
+28-02-2011,Florida,Top Quantile House Vales,276326.6737
+28-02-2013,Florida,Bottom Quantile House Values,69419.81573
+28-02-2013,Florida,Top Quantile House Vales,281485
+28-02-2014,Florida,Bottom Quantile House Values,81777.40613
+28-02-2014,Florida,Top Quantile House Vales,315388.1491
+28-02-2015,Florida,Bottom Quantile House Values,90876.86241
+28-02-2015,Florida,Top Quantile House Vales,337846.7511
+28-02-2017,Florida,Bottom Quantile House Values,115570.2791
+28-02-2017,Florida,Top Quantile House Vales,373616.9015
+28-02-2018,Florida,Bottom Quantile House Values,128901.7497
+28-02-2018,Florida,Top Quantile House Vales,391290.6249
+28-02-2019,Florida,Bottom Quantile House Values,141241.4576
+28-02-2019,Florida,Top Quantile House Vales,410193
+28-02-2021,Florida,Bottom Quantile House Values,166756.4206
+28-02-2021,Florida,Top Quantile House Vales,462366.8819
+28-02-2022,Florida,Bottom Quantile House Values,207541.296
+28-02-2022,Florida,Top Quantile House Vales,581661.7571
+28-02-2023,Florida,Bottom Quantile House Values,239798.9818
+28-02-2023,Florida,Top Quantile House Vales,654252.28
+29-02-2000,Florida,Bottom Quantile House Values,53455.25173
+29-02-2000,Florida,Top Quantile House Vales,209921.0914
+29-02-2004,Florida,Bottom Quantile House Values,78542.69113
+29-02-2004,Florida,Top Quantile House Vales,309979.5348
+29-02-2008,Florida,Bottom Quantile House Values,112869.0408
+29-02-2008,Florida,Top Quantile House Vales,427984.1152
+29-02-2012,Florida,Bottom Quantile House Values,63977.45744
+29-02-2012,Florida,Top Quantile House Vales,263085.3764
+29-02-2016,Florida,Bottom Quantile House Values,102768.5802
+29-02-2016,Florida,Top Quantile House Vales,359304.99
+29-02-2020,Florida,Bottom Quantile House Values,150697.7358
+29-02-2020,Florida,Top Quantile House Vales,422904.3815
+30-04-2000,Florida,Bottom Quantile House Values,53888.60892
+30-04-2000,Florida,Top Quantile House Vales,211632.743
+30-04-2001,Florida,Bottom Quantile House Values,58080.185
+30-04-2001,Florida,Top Quantile House Vales,227929.2133
+30-04-2002,Florida,Bottom Quantile House Values,63887.52603
+30-04-2002,Florida,Top Quantile House Vales,251731.5056
+30-04-2003,Florida,Bottom Quantile House Values,70919.99278
+30-04-2003,Florida,Top Quantile House Vales,280287
+30-04-2004,Florida,Bottom Quantile House Values,80266.44086
+30-04-2004,Florida,Top Quantile House Vales,316574.0154
+30-04-2005,Florida,Bottom Quantile House Values,97452.73771
+30-04-2005,Florida,Top Quantile House Vales,383728.7919
+30-04-2006,Florida,Bottom Quantile House Values,123398.7178
+30-04-2006,Florida,Top Quantile House Vales,480242.191
+30-04-2007,Florida,Bottom Quantile House Values,127427.7403
+30-04-2007,Florida,Top Quantile House Vales,487435.3286
+30-04-2008,Florida,Bottom Quantile House Values,109201.2398
+30-04-2008,Florida,Top Quantile House Vales,413008.1388
+30-04-2009,Florida,Bottom Quantile House Values,85265.86501
+30-04-2009,Florida,Top Quantile House Vales,326986.4617
+30-04-2010,Florida,Bottom Quantile House Values,74429.97641
+30-04-2010,Florida,Top Quantile House Vales,295569.8531
+30-04-2011,Florida,Bottom Quantile House Values,66681.16388
+30-04-2011,Florida,Top Quantile House Vales,272143.3611
+30-04-2012,Florida,Bottom Quantile House Values,64233.73364
+30-04-2012,Florida,Top Quantile House Vales,264272.8753
+30-04-2013,Florida,Bottom Quantile House Values,71486.09701
+30-04-2013,Florida,Top Quantile House Vales,286929.9392
+30-04-2014,Florida,Bottom Quantile House Values,83608.51526
+30-04-2014,Florida,Top Quantile House Vales,320202.9428
+30-04-2015,Florida,Bottom Quantile House Values,92227.98622
+30-04-2015,Florida,Top Quantile House Vales,341324.1169
+30-04-2016,Florida,Bottom Quantile House Values,104799.427
+30-04-2016,Florida,Top Quantile House Vales,361886.2914
+30-04-2017,Florida,Bottom Quantile House Values,117585.7995
+30-04-2017,Florida,Top Quantile House Vales,376907.3491
+30-04-2018,Florida,Bottom Quantile House Values,131050.0856
+30-04-2018,Florida,Top Quantile House Vales,393769.0874
+30-04-2019,Florida,Bottom Quantile House Values,142422.0322
+30-04-2019,Florida,Top Quantile House Vales,410920.7976
+30-04-2020,Florida,Bottom Quantile House Values,152809.6666
+30-04-2020,Florida,Top Quantile House Vales,426488.3752
+30-04-2021,Florida,Bottom Quantile House Values,171853.3195
+30-04-2021,Florida,Top Quantile House Vales,476621.1474
+30-04-2022,Florida,Bottom Quantile House Values,220489.5703
+30-04-2022,Florida,Top Quantile House Vales,617429.6769
+30-04-2023,Florida,Bottom Quantile House Values,240387.083
+30-04-2023,Florida,Top Quantile House Vales,654055.1438
+30-06-2000,Florida,Bottom Quantile House Values,54539.86217
+30-06-2000,Florida,Top Quantile House Vales,214129.4602
+30-06-2001,Florida,Bottom Quantile House Values,58994.07753
+30-06-2001,Florida,Top Quantile House Vales,231583.3571
+30-06-2002,Florida,Bottom Quantile House Values,64951.59298
+30-06-2002,Florida,Top Quantile House Vales,256031.459
+30-06-2003,Florida,Bottom Quantile House Values,72411.81768
+30-06-2003,Florida,Top Quantile House Vales,286191.8587
+30-06-2004,Florida,Bottom Quantile House Values,82538.15041
+30-06-2004,Florida,Top Quantile House Vales,325341.1692
+30-06-2005,Florida,Bottom Quantile House Values,101944.9983
+30-06-2005,Florida,Top Quantile House Vales,401225.3324
+30-06-2006,Florida,Bottom Quantile House Values,127056.7344
+30-06-2006,Florida,Top Quantile House Vales,492839.9095
+30-06-2007,Florida,Bottom Quantile House Values,125582.2131
+30-06-2007,Florida,Top Quantile House Vales,479031.8979
+30-06-2008,Florida,Bottom Quantile House Values,105212.5065
+30-06-2008,Florida,Top Quantile House Vales,397716.307
+30-06-2009,Florida,Bottom Quantile House Values,81971.31245
+30-06-2009,Florida,Top Quantile House Vales,316620.7464
+30-06-2010,Florida,Bottom Quantile House Values,73720.51593
+30-06-2010,Florida,Top Quantile House Vales,293717.197
+30-06-2011,Florida,Bottom Quantile House Values,65419.86129
+30-06-2011,Florida,Top Quantile House Vales,268090.9027
+30-06-2012,Florida,Bottom Quantile House Values,64783.37303
+30-06-2012,Florida,Top Quantile House Vales,266326.9279
+30-06-2013,Florida,Bottom Quantile House Values,73876.64939
+30-06-2013,Florida,Top Quantile House Vales,293251.7703
+30-06-2014,Florida,Bottom Quantile House Values,85306.87151
+30-06-2014,Florida,Top Quantile House Vales,323844
+30-06-2015,Florida,Bottom Quantile House Values,93985.28889
+30-06-2015,Florida,Top Quantile House Vales,344478.7898
+30-06-2016,Florida,Bottom Quantile House Values,106956.1469
+30-06-2016,Florida,Top Quantile House Vales,364574.626
+30-06-2017,Florida,Bottom Quantile House Values,119723.9571
+30-06-2017,Florida,Top Quantile House Vales,379452.8487
+30-06-2018,Florida,Bottom Quantile House Values,132946.6426
+30-06-2018,Florida,Top Quantile House Vales,397123.1452
+30-06-2019,Florida,Bottom Quantile House Values,143227.0514
+30-06-2019,Florida,Top Quantile House Vales,410619.5214
+30-06-2020,Florida,Bottom Quantile House Values,153273.3503
+30-06-2020,Florida,Top Quantile House Vales,425947.9536
+30-06-2021,Florida,Bottom Quantile House Values,178614.7972
+30-06-2021,Florida,Top Quantile House Vales,497386.7323
+30-06-2022,Florida,Bottom Quantile House Values,232382.6372
+30-06-2022,Florida,Top Quantile House Vales,650872.211
+30-06-2023,Florida,Bottom Quantile House Values,242583.0192
+30-06-2023,Florida,Top Quantile House Vales,658713.5554
+30-09-2000,Florida,Bottom Quantile House Values,55540.89105
+30-09-2000,Florida,Top Quantile House Vales,218040.9884
+30-09-2001,Florida,Bottom Quantile House Values,60540.13692
+30-09-2001,Florida,Top Quantile House Vales,238077.3058
+30-09-2002,Florida,Bottom Quantile House Values,66662.76758
+30-09-2002,Florida,Top Quantile House Vales,263047.3251
+30-09-2003,Florida,Bottom Quantile House Values,74700.35606
+30-09-2003,Florida,Top Quantile House Vales,295083.5809
+30-09-2004,Florida,Bottom Quantile House Values,86840.04742
+30-09-2004,Florida,Top Quantile House Vales,342071
+30-09-2005,Florida,Bottom Quantile House Values,109453.4797
+30-09-2005,Florida,Top Quantile House Vales,430219.1485
+30-09-2006,Florida,Bottom Quantile House Values,129521.0541
+30-09-2006,Florida,Top Quantile House Vales,499901.9332
+30-09-2007,Florida,Bottom Quantile House Values,121333.0349
+30-09-2007,Florida,Top Quantile House Vales,461576.6777
+30-09-2008,Florida,Bottom Quantile House Values,98877.67135
+30-09-2008,Florida,Top Quantile House Vales,374643.3542
+30-09-2009,Florida,Bottom Quantile House Values,78099.55455
+30-09-2009,Florida,Top Quantile House Vales,304967.976
+30-09-2010,Florida,Bottom Quantile House Values,71768.4052
+30-09-2010,Florida,Top Quantile House Vales,287689.5812
+30-09-2011,Florida,Bottom Quantile House Values,64138.15268
+30-09-2011,Florida,Top Quantile House Vales,263708.6572
+30-09-2012,Florida,Bottom Quantile House Values,65586.1756
+30-09-2012,Florida,Top Quantile House Vales,270144.8841
+30-09-2013,Florida,Bottom Quantile House Values,76959.03585
+30-09-2013,Florida,Top Quantile House Vales,301963.1129
+30-09-2014,Florida,Bottom Quantile House Values,87424.75863
+30-09-2014,Florida,Top Quantile House Vales,328082.1139
+30-09-2015,Florida,Bottom Quantile House Values,97356.52732
+30-09-2015,Florida,Top Quantile House Vales,350253.6549
+30-09-2016,Florida,Bottom Quantile House Values,110203.9861
+30-09-2016,Florida,Top Quantile House Vales,367738.096
+30-09-2017,Florida,Bottom Quantile House Values,123384.7802
+30-09-2017,Florida,Top Quantile House Vales,383567.895
+30-09-2018,Florida,Bottom Quantile House Values,136155.9428
+30-09-2018,Florida,Top Quantile House Vales,402684.4262
+30-09-2019,Florida,Bottom Quantile House Values,145023.3348
+30-09-2019,Florida,Top Quantile House Vales,412081.0531
+30-09-2020,Florida,Bottom Quantile House Values,156168.9882
+30-09-2020,Florida,Top Quantile House Vales,432234.7832
+30-09-2021,Florida,Bottom Quantile House Values,188307.0965
+30-09-2021,Florida,Top Quantile House Vales,527724.3038
+30-09-2022,Florida,Bottom Quantile House Values,240415.5947
+30-09-2022,Florida,Top Quantile House Vales,662999.9352
+30-09-2023,Florida,Bottom Quantile House Values,245555.7308
+30-09-2023,Florida,Top Quantile House Vales,666298.0727
+30-11-2000,Florida,Bottom Quantile House Values,56263.81748
+30-11-2000,Florida,Top Quantile House Vales,220798.1568
+30-11-2001,Florida,Bottom Quantile House Values,61611.73787
+30-11-2001,Florida,Top Quantile House Vales,242450.1517
+30-11-2002,Florida,Bottom Quantile House Values,67807.85692
+30-11-2002,Florida,Top Quantile House Vales,267553.5478
+30-11-2003,Florida,Bottom Quantile House Values,76314.14177
+30-11-2003,Florida,Top Quantile House Vales,301276.5291
+30-11-2004,Florida,Bottom Quantile House Values,89637.32553
+30-11-2004,Florida,Top Quantile House Vales,352949
+30-11-2005,Florida,Bottom Quantile House Values,113939.9455
+30-11-2005,Florida,Top Quantile House Vales,446573
+30-11-2006,Florida,Bottom Quantile House Values,129530.34
+30-11-2006,Florida,Top Quantile House Vales,498651.8251
+30-11-2007,Florida,Bottom Quantile House Values,118168.7245
+30-11-2007,Florida,Top Quantile House Vales,449038.0115
+30-11-2008,Florida,Bottom Quantile House Values,94525.39344
+30-11-2008,Florida,Top Quantile House Vales,358898.6586
+30-11-2009,Florida,Bottom Quantile House Values,76379.41572
+30-11-2009,Florida,Top Quantile House Vales,299856.7524
+30-11-2010,Florida,Bottom Quantile House Values,70198.44556
+30-11-2010,Florida,Top Quantile House Vales,282879.3744
+30-11-2011,Florida,Bottom Quantile House Values,63877.97465
+30-11-2011,Florida,Top Quantile House Vales,262817.3343
+30-11-2012,Florida,Bottom Quantile House Values,66639.09066
+30-11-2012,Florida,Top Quantile House Vales,273389.7228
+30-11-2013,Florida,Bottom Quantile House Values,78942.00567
+30-11-2013,Florida,Top Quantile House Vales,307321.1694
+30-11-2014,Florida,Bottom Quantile House Values,88589.659
+30-11-2014,Florida,Top Quantile House Vales,331100.7668
+30-11-2015,Florida,Bottom Quantile House Values,99704.19079
+30-11-2015,Florida,Top Quantile House Vales,354917.2238
+30-11-2016,Florida,Bottom Quantile House Values,112818.3649
+30-11-2016,Florida,Top Quantile House Vales,370516.0933
+30-11-2017,Florida,Bottom Quantile House Values,125713.003
+30-11-2017,Florida,Top Quantile House Vales,386917.1935
+30-11-2018,Florida,Bottom Quantile House Values,138054.1552
+30-11-2018,Florida,Top Quantile House Vales,405767.2073
+30-11-2019,Florida,Bottom Quantile House Values,146685.7153
+30-11-2019,Florida,Top Quantile House Vales,415197.7374
+30-11-2020,Florida,Bottom Quantile House Values,160195.6418
+30-11-2020,Florida,Top Quantile House Vales,443377.5423
+30-11-2021,Florida,Bottom Quantile House Values,193950.8489
+30-11-2021,Florida,Top Quantile House Vales,545479.1053
+30-11-2022,Florida,Bottom Quantile House Values,241204.4391
+30-11-2022,Florida,Top Quantile House Vales,659533
+30-11-2023,Florida,Bottom Quantile House Values,246667.965
+30-11-2023,Florida,Top Quantile House Vales,671345.8149
+31-01-2000,Florida,Bottom Quantile House Values,53341.96004
+31-01-2000,Florida,Top Quantile House Vales,209454.3912
+31-01-2001,Florida,Bottom Quantile House Values,56974.13885
+31-01-2001,Florida,Top Quantile House Vales,223570.237
+31-01-2002,Florida,Bottom Quantile House Values,62586.00767
+31-01-2002,Florida,Top Quantile House Vales,246391.8388
+31-01-2003,Florida,Bottom Quantile House Values,68992.83861
+31-01-2003,Florida,Top Quantile House Vales,272372.4171
+31-01-2004,Florida,Bottom Quantile House Values,77814.93308
+31-01-2004,Florida,Top Quantile House Vales,307123
+31-01-2005,Florida,Bottom Quantile House Values,92405.62528
+31-01-2005,Florida,Top Quantile House Vales,363802.1226
+31-01-2006,Florida,Bottom Quantile House Values,117822.4748
+31-01-2006,Florida,Top Quantile House Vales,460411.9849
+31-01-2007,Florida,Bottom Quantile House Values,128852.3692
+31-01-2007,Florida,Top Quantile House Vales,495081.7069
+31-01-2008,Florida,Bottom Quantile House Values,114650.3392
+31-01-2008,Florida,Top Quantile House Vales,435177.6107
+31-01-2009,Florida,Bottom Quantile House Values,90481.43313
+31-01-2009,Florida,Top Quantile House Vales,344553.7053
+31-01-2010,Florida,Bottom Quantile House Values,75408.8271
+31-01-2010,Florida,Top Quantile House Vales,297315.13
+31-01-2011,Florida,Bottom Quantile House Values,68736.5733
+31-01-2011,Florida,Top Quantile House Vales,278390.7766
+31-01-2012,Florida,Bottom Quantile House Values,63884.43329
+31-01-2012,Florida,Top Quantile House Vales,262804
+31-01-2013,Florida,Bottom Quantile House Values,68459.55738
+31-01-2013,Florida,Top Quantile House Vales,278661.0466
+31-01-2014,Florida,Bottom Quantile House Values,80771.6205
+31-01-2014,Florida,Top Quantile House Vales,312581.0484
+31-01-2015,Florida,Bottom Quantile House Values,90196.99373
+31-01-2015,Florida,Top Quantile House Vales,335621.6059
+31-01-2016,Florida,Bottom Quantile House Values,101756.2727
+31-01-2016,Florida,Top Quantile House Vales,358041
+31-01-2017,Florida,Bottom Quantile House Values,114701.5197
+31-01-2017,Florida,Top Quantile House Vales,372446.7057
+31-01-2018,Florida,Bottom Quantile House Values,127915.9075
+31-01-2018,Florida,Top Quantile House Vales,390201.686
+31-01-2019,Florida,Bottom Quantile House Values,140270.6787
+31-01-2019,Florida,Top Quantile House Vales,409099
+31-01-2020,Florida,Bottom Quantile House Values,149263.3704
+31-01-2020,Florida,Top Quantile House Vales,420238.1466
+31-01-2021,Florida,Bottom Quantile House Values,164519.5209
+31-01-2021,Florida,Top Quantile House Vales,456036.8768
+31-01-2022,Florida,Bottom Quantile House Values,202001.8384
+31-01-2022,Florida,Top Quantile House Vales,567472.07
+31-01-2023,Florida,Bottom Quantile House Values,240427.2898
+31-01-2023,Florida,Top Quantile House Vales,656310.7835
+31-01-2024,Florida,Bottom Quantile House Values,247692.1039
+31-01-2024,Florida,Top Quantile House Vales,674964.0929
+31-03-2000,Florida,Bottom Quantile House Values,53596.56586
+31-03-2000,Florida,Top Quantile House Vales,210486.9333
+31-03-2001,Florida,Bottom Quantile House Values,57661.85567
+31-03-2001,Florida,Top Quantile House Vales,226295.0254
+31-03-2002,Florida,Bottom Quantile House Values,63418.8376
+31-03-2002,Florida,Top Quantile House Vales,249825.7146
+31-03-2003,Florida,Bottom Quantile House Values,70216.19761
+31-03-2003,Florida,Top Quantile House Vales,277457.2868
+31-03-2004,Florida,Bottom Quantile House Values,79345.001
+31-03-2004,Florida,Top Quantile House Vales,313089.9068
+31-03-2005,Florida,Bottom Quantile House Values,95517.55008
+31-03-2005,Florida,Top Quantile House Vales,376152.6311
+31-03-2006,Florida,Bottom Quantile House Values,121356.0623
+31-03-2006,Florida,Top Quantile House Vales,473070.7806
+31-03-2007,Florida,Bottom Quantile House Values,127996.1628
+31-03-2007,Florida,Top Quantile House Vales,490408.3694
+31-03-2008,Florida,Bottom Quantile House Values,111021.0391
+31-03-2008,Florida,Top Quantile House Vales,420346.5747
+31-03-2009,Florida,Bottom Quantile House Values,86990.71737
+31-03-2009,Florida,Top Quantile House Vales,332640.2488
+31-03-2010,Florida,Bottom Quantile House Values,74699.69903
+31-03-2010,Florida,Top Quantile House Vales,295991.6196
+31-03-2011,Florida,Bottom Quantile House Values,67356.5061
+31-03-2011,Florida,Top Quantile House Vales,274187.1047
+31-03-2012,Florida,Bottom Quantile House Values,64060.43559
+31-03-2012,Florida,Top Quantile House Vales,263561.1507
+31-03-2013,Florida,Bottom Quantile House Values,70423.13623
+31-03-2013,Florida,Top Quantile House Vales,284220.7182
+31-03-2014,Florida,Bottom Quantile House Values,82702.45152
+31-03-2014,Florida,Top Quantile House Vales,317987.5819
+31-03-2015,Florida,Bottom Quantile House Values,91496.52332
+31-03-2015,Florida,Top Quantile House Vales,339768.4122
+31-03-2016,Florida,Bottom Quantile House Values,103727.4571
+31-03-2016,Florida,Top Quantile House Vales,360576.4883
+31-03-2017,Florida,Bottom Quantile House Values,116542.7406
+31-03-2017,Florida,Top Quantile House Vales,375169.0542
+31-03-2018,Florida,Bottom Quantile House Values,129995.7688
+31-03-2018,Florida,Top Quantile House Vales,392416.5695
+31-03-2019,Florida,Bottom Quantile House Values,141953.1514
+31-03-2019,Florida,Top Quantile House Vales,410660.8035
+31-03-2020,Florida,Bottom Quantile House Values,151965.7874
+31-03-2020,Florida,Top Quantile House Vales,425186.0605
+31-03-2021,Florida,Bottom Quantile House Values,169222.9194
+31-03-2021,Florida,Top Quantile House Vales,468983.5332
+31-03-2022,Florida,Bottom Quantile House Values,213987.4903
+31-03-2022,Florida,Top Quantile House Vales,598934.2942
+31-03-2023,Florida,Bottom Quantile House Values,239711.9483
+31-03-2023,Florida,Top Quantile House Vales,653189.9365
+31-05-2000,Florida,Bottom Quantile House Values,54213.42399
+31-05-2000,Florida,Top Quantile House Vales,212867.9232
+31-05-2001,Florida,Bottom Quantile House Values,58532.88583
+31-05-2001,Florida,Top Quantile House Vales,229710.5913
+31-05-2002,Florida,Bottom Quantile House Values,64409.7705
+31-05-2002,Florida,Top Quantile House Vales,253827.0916
+31-05-2003,Florida,Bottom Quantile House Values,71669.0342
+31-05-2003,Florida,Top Quantile House Vales,283263.7358
+31-05-2004,Florida,Bottom Quantile House Values,81337.89959
+31-05-2004,Florida,Top Quantile House Vales,320675.5034
+31-05-2005,Florida,Bottom Quantile House Values,99607.28446
+31-05-2005,Florida,Top Quantile House Vales,392164.048
+31-05-2006,Florida,Bottom Quantile House Values,125371.1252
+31-05-2006,Florida,Top Quantile House Vales,487082.1693
+31-05-2007,Florida,Bottom Quantile House Values,126628.9122
+31-05-2007,Florida,Top Quantile House Vales,483622.7442
+31-05-2008,Florida,Bottom Quantile House Values,107208.0394
+31-05-2008,Florida,Top Quantile House Vales,405203.9145
+31-05-2009,Florida,Bottom Quantile House Values,83578.70126
+31-05-2009,Florida,Top Quantile House Vales,321585.6873
+31-05-2010,Florida,Bottom Quantile House Values,74123.24893
+31-05-2010,Florida,Top Quantile House Vales,294892.6947
+31-05-2011,Florida,Bottom Quantile House Values,66010.38157
+31-05-2011,Florida,Top Quantile House Vales,270029.0295
+31-05-2012,Florida,Bottom Quantile House Values,64462.08532
+31-05-2012,Florida,Top Quantile House Vales,265132.6386
+31-05-2013,Florida,Bottom Quantile House Values,72716.72543
+31-05-2013,Florida,Top Quantile House Vales,290044.6913
+31-05-2014,Florida,Bottom Quantile House Values,84514.99481
+31-05-2014,Florida,Top Quantile House Vales,322258.9427
+31-05-2015,Florida,Bottom Quantile House Values,93087.88143
+31-05-2015,Florida,Top Quantile House Vales,342947.8775
+31-05-2016,Florida,Bottom Quantile House Values,105845.6637
+31-05-2016,Florida,Top Quantile House Vales,363206
+31-05-2017,Florida,Bottom Quantile House Values,118601.6023
+31-05-2017,Florida,Top Quantile House Vales,378177.1829
+31-05-2018,Florida,Bottom Quantile House Values,132086.7639
+31-05-2018,Florida,Top Quantile House Vales,395591.9816
+31-05-2019,Florida,Bottom Quantile House Values,142779.237
+31-05-2019,Florida,Top Quantile House Vales,410684.9572
+31-05-2020,Florida,Bottom Quantile House Values,153113.014
+31-05-2020,Florida,Top Quantile House Vales,426463.0993
+31-05-2021,Florida,Bottom Quantile House Values,174874.1871
+31-05-2021,Florida,Top Quantile House Vales,486092.809
+31-05-2022,Florida,Bottom Quantile House Values,226601.5443
+31-05-2022,Florida,Top Quantile House Vales,635395.3049
+31-05-2023,Florida,Bottom Quantile House Values,241355.4268
+31-05-2023,Florida,Top Quantile House Vales,655941.3782
+31-07-2000,Florida,Bottom Quantile House Values,54863.96117
+31-07-2000,Florida,Top Quantile House Vales,215415.4754
+31-07-2001,Florida,Bottom Quantile House Values,59482.75748
+31-07-2001,Florida,Top Quantile House Vales,233629.1376
+31-07-2002,Florida,Bottom Quantile House Values,65498.77926
+31-07-2002,Florida,Top Quantile House Vales,258286.5067
+31-07-2003,Florida,Bottom Quantile House Values,73146.888
+31-07-2003,Florida,Top Quantile House Vales,289077.6309
+31-07-2004,Florida,Bottom Quantile House Values,83868.78733
+31-07-2004,Florida,Top Quantile House Vales,330542.5046
+31-07-2005,Florida,Bottom Quantile House Values,104407.6878
+31-07-2005,Florida,Top Quantile House Vales,410862.5867
+31-07-2006,Florida,Bottom Quantile House Values,128248.1288
+31-07-2006,Florida,Top Quantile House Vales,496693.5126
+31-07-2007,Florida,Bottom Quantile House Values,124284.5636
+31-07-2007,Florida,Top Quantile House Vales,473609.7776
+31-07-2008,Florida,Bottom Quantile House Values,103172.5931
+31-07-2008,Florida,Top Quantile House Vales,390183.5107
+31-07-2009,Florida,Bottom Quantile House Values,80577.54506
+31-07-2009,Florida,Top Quantile House Vales,312445.6451
+31-07-2010,Florida,Bottom Quantile House Values,73186.54155
+31-07-2010,Florida,Top Quantile House Vales,292034.6443
+31-07-2011,Florida,Bottom Quantile House Values,64882.44787
+31-07-2011,Florida,Top Quantile House Vales,266265.3011
+31-07-2012,Florida,Bottom Quantile House Values,65084.60408
+31-07-2012,Florida,Top Quantile House Vales,267592.4973
+31-07-2013,Florida,Bottom Quantile House Values,74950.68733
+31-07-2013,Florida,Top Quantile House Vales,296321.4047
+31-07-2014,Florida,Bottom Quantile House Values,86093.62105
+31-07-2014,Florida,Top Quantile House Vales,325386
+31-07-2015,Florida,Bottom Quantile House Values,95023.4058
+31-07-2015,Florida,Top Quantile House Vales,346190.3186
+31-07-2016,Florida,Bottom Quantile House Values,107914.7098
+31-07-2016,Florida,Top Quantile House Vales,365739.9158
+31-07-2017,Florida,Bottom Quantile House Values,120910.178
+31-07-2017,Florida,Top Quantile House Vales,380559.604
+31-07-2018,Florida,Bottom Quantile House Values,134030.6012
+31-07-2018,Florida,Top Quantile House Vales,399084.1164
+31-07-2019,Florida,Bottom Quantile House Values,143775.815
+31-07-2019,Florida,Top Quantile House Vales,410752.5566
+31-07-2020,Florida,Bottom Quantile House Values,153640.936
+31-07-2020,Florida,Top Quantile House Vales,426104.6547
+31-07-2021,Florida,Bottom Quantile House Values,182419.317
+31-07-2021,Florida,Top Quantile House Vales,508860.0066
+31-07-2022,Florida,Bottom Quantile House Values,236675.8894
+31-07-2022,Florida,Top Quantile House Vales,660494.312
+31-07-2023,Florida,Bottom Quantile House Values,243695.1666
+31-07-2023,Florida,Top Quantile House Vales,661389.6102
+31-08-2000,Florida,Bottom Quantile House Values,55192.87873
+31-08-2000,Florida,Top Quantile House Vales,216708.2715
+31-08-2001,Florida,Bottom Quantile House Values,59996.70526
+31-08-2001,Florida,Top Quantile House Vales,235812.3968
+31-08-2002,Florida,Bottom Quantile House Values,66080.9633
+31-08-2002,Florida,Top Quantile House Vales,260691.899
+31-08-2003,Florida,Bottom Quantile House Values,73903.52635
+31-08-2003,Florida,Top Quantile House Vales,292014.2749
+31-08-2004,Florida,Bottom Quantile House Values,85337.46911
+31-08-2004,Florida,Top Quantile House Vales,336247.0839
+31-08-2005,Florida,Bottom Quantile House Values,106950.8975
+31-08-2005,Florida,Top Quantile House Vales,420703.6536
+31-08-2006,Florida,Bottom Quantile House Values,129095.4759
+31-08-2006,Florida,Top Quantile House Vales,499085.9163
+31-08-2007,Florida,Bottom Quantile House Values,122826.4438
+31-08-2007,Florida,Top Quantile House Vales,467669.2476
+31-08-2008,Florida,Bottom Quantile House Values,101038.5285
+31-08-2008,Florida,Top Quantile House Vales,382481.2117
+31-08-2009,Florida,Bottom Quantile House Values,79287.77408
+31-08-2009,Florida,Top Quantile House Vales,308568.8559
+31-08-2010,Florida,Bottom Quantile House Values,72516.5753
+31-08-2010,Florida,Top Quantile House Vales,289953.8922
+31-08-2011,Florida,Bottom Quantile House Values,64458.59798
+31-08-2011,Florida,Top Quantile House Vales,264804.7898
+31-08-2012,Florida,Bottom Quantile House Values,65298.97355
+31-08-2012,Florida,Top Quantile House Vales,268901.9164
+31-08-2013,Florida,Bottom Quantile House Values,75959.98287
+31-08-2013,Florida,Top Quantile House Vales,299167.8088
+31-08-2014,Florida,Bottom Quantile House Values,86757.38993
+31-08-2014,Florida,Top Quantile House Vales,326673.1465
+31-08-2015,Florida,Bottom Quantile House Values,96151.59603
+31-08-2015,Florida,Top Quantile House Vales,348060.8987
+31-08-2016,Florida,Bottom Quantile House Values,109007.656
+31-08-2016,Florida,Top Quantile House Vales,366721.149
+31-08-2017,Florida,Bottom Quantile House Values,122179.1622
+31-08-2017,Florida,Top Quantile House Vales,382012.9938
+31-08-2018,Florida,Bottom Quantile House Values,135087.5265
+31-08-2018,Florida,Top Quantile House Vales,400870.8804
+31-08-2019,Florida,Bottom Quantile House Values,144430.4241
+31-08-2019,Florida,Top Quantile House Vales,411336.7792
+31-08-2020,Florida,Bottom Quantile House Values,154613.5156
+31-08-2020,Florida,Top Quantile House Vales,428207.8475
+31-08-2021,Florida,Bottom Quantile House Values,185765.5354
+31-08-2021,Florida,Top Quantile House Vales,519024.2185
+31-08-2022,Florida,Bottom Quantile House Values,239333.6624
+31-08-2022,Florida,Top Quantile House Vales,664284.6579
+31-08-2023,Florida,Bottom Quantile House Values,244824.8565
+31-08-2023,Florida,Top Quantile House Vales,664038.3084
+31-10-2000,Florida,Bottom Quantile House Values,55897.62314
+31-10-2000,Florida,Top Quantile House Vales,219387.246
+31-10-2001,Florida,Bottom Quantile House Values,61085.8961
+31-10-2001,Florida,Top Quantile House Vales,240316.0125
+31-10-2002,Florida,Bottom Quantile House Values,67248.56006
+31-10-2002,Florida,Top Quantile House Vales,265364.4409
+31-10-2003,Florida,Bottom Quantile House Values,75514.0331
+31-10-2003,Florida,Top Quantile House Vales,298196.095
+31-10-2004,Florida,Bottom Quantile House Values,88284.66998
+31-10-2004,Florida,Top Quantile House Vales,347680.3616
+31-10-2005,Florida,Bottom Quantile House Values,111774.1208
+31-10-2005,Florida,Top Quantile House Vales,438813.8685
+31-10-2006,Florida,Bottom Quantile House Values,129636.0302
+31-10-2006,Florida,Top Quantile House Vales,499529.3687
+31-10-2007,Florida,Bottom Quantile House Values,119787.6731
+31-10-2007,Florida,Top Quantile House Vales,455493.6103
+31-10-2008,Florida,Bottom Quantile House Values,96685.32779
+31-10-2008,Florida,Top Quantile House Vales,366680.6107
+31-10-2009,Florida,Bottom Quantile House Values,77079.94739
+31-10-2009,Florida,Top Quantile House Vales,301890.0363
+31-10-2010,Florida,Bottom Quantile House Values,70977.38752
+31-10-2010,Florida,Top Quantile House Vales,285293.3364
+31-10-2011,Florida,Bottom Quantile House Values,63961.72484
+31-10-2011,Florida,Top Quantile House Vales,263094.3263
+31-10-2012,Florida,Bottom Quantile House Values,65997.88688
+31-10-2012,Florida,Top Quantile House Vales,271531.2168
+31-10-2013,Florida,Bottom Quantile House Values,78025.38483
+31-10-2013,Florida,Top Quantile House Vales,304804.6168
+31-10-2014,Florida,Bottom Quantile House Values,87939.84604
+31-10-2014,Florida,Top Quantile House Vales,329389
+31-10-2015,Florida,Bottom Quantile House Values,98588.47823
+31-10-2015,Florida,Top Quantile House Vales,352681.346
+31-10-2016,Florida,Bottom Quantile House Values,111576.4289
+31-10-2016,Florida,Top Quantile House Vales,369147.2254
+31-10-2017,Florida,Bottom Quantile House Values,124549.9941
+31-10-2017,Florida,Top Quantile House Vales,385229.2389
+31-10-2018,Florida,Bottom Quantile House Values,137054.3046
+31-10-2018,Florida,Top Quantile House Vales,404129.4833
+31-10-2019,Florida,Bottom Quantile House Values,145756.7701
+31-10-2019,Florida,Top Quantile House Vales,413343.4514
+31-10-2020,Florida,Bottom Quantile House Values,158034.0952
+31-10-2020,Florida,Top Quantile House Vales,437317.8994
+31-10-2021,Florida,Bottom Quantile House Values,190881.6048
+31-10-2021,Florida,Top Quantile House Vales,536249.3851
+31-10-2022,Florida,Bottom Quantile House Values,240900.559
+31-10-2022,Florida,Top Quantile House Vales,661050.0052
+31-10-2023,Florida,Bottom Quantile House Values,246168.0378
+31-10-2023,Florida,Top Quantile House Vales,668900.5571
+31-12-2000,Florida,Bottom Quantile House Values,56636.1248
+31-12-2000,Florida,Top Quantile House Vales,222242.5177
+31-12-2001,Florida,Bottom Quantile House Values,62125.91468
+31-12-2001,Florida,Top Quantile House Vales,244516.5213
+31-12-2002,Florida,Bottom Quantile House Values,68406.13477
+31-12-2002,Florida,Top Quantile House Vales,269949.5427
+31-12-2003,Florida,Bottom Quantile House Values,77083.08214
+31-12-2003,Florida,Top Quantile House Vales,304229
+31-12-2004,Florida,Bottom Quantile House Values,91007.03336
+31-12-2004,Florida,Top Quantile House Vales,358315.3666
+31-12-2005,Florida,Bottom Quantile House Values,115965.1919
+31-12-2005,Florida,Top Quantile House Vales,453731.3297
+31-12-2006,Florida,Bottom Quantile House Values,129233.8993
+31-12-2006,Florida,Top Quantile House Vales,497063.3301
+31-12-2007,Florida,Bottom Quantile House Values,116476.9991
+31-12-2007,Florida,Top Quantile House Vales,442486.3373
+31-12-2008,Florida,Bottom Quantile House Values,92451.47177
+31-12-2008,Florida,Top Quantile House Vales,351495.1746
+31-12-2009,Florida,Bottom Quantile House Values,75839.09059
+31-12-2009,Florida,Top Quantile House Vales,298354.7966
+31-12-2010,Florida,Bottom Quantile House Values,69462.05045
+31-12-2010,Florida,Top Quantile House Vales,280636.3513
+31-12-2011,Florida,Bottom Quantile House Values,63855.29441
+31-12-2011,Florida,Top Quantile House Vales,262686.127
+31-12-2012,Florida,Bottom Quantile House Values,67493.46395
+31-12-2012,Florida,Top Quantile House Vales,275810.7902
+31-12-2013,Florida,Bottom Quantile House Values,79879.06429
+31-12-2013,Florida,Top Quantile House Vales,309933.8474
+31-12-2014,Florida,Bottom Quantile House Values,89387.42332
+31-12-2014,Florida,Top Quantile House Vales,333180.7402
+31-12-2015,Florida,Bottom Quantile House Values,100783.2222
+31-12-2015,Florida,Top Quantile House Vales,356616.5236
+31-12-2016,Florida,Bottom Quantile House Values,113839.4921
+31-12-2016,Florida,Top Quantile House Vales,371629.0379
+31-12-2017,Florida,Bottom Quantile House Values,126875.0812
+31-12-2017,Florida,Top Quantile House Vales,388697.5148
+31-12-2018,Florida,Bottom Quantile House Values,139144.0264
+31-12-2018,Florida,Top Quantile House Vales,407646.7088
+31-12-2019,Florida,Bottom Quantile House Values,147848.2821
+31-12-2019,Florida,Top Quantile House Vales,417521.9951
+31-12-2020,Florida,Bottom Quantile House Values,162321.7901
+31-12-2020,Florida,Top Quantile House Vales,449612.8854
+31-12-2021,Florida,Bottom Quantile House Values,197368.2907
+31-12-2021,Florida,Top Quantile House Vales,555306.7095
+31-12-2022,Florida,Bottom Quantile House Values,241115.9074
+31-12-2022,Florida,Top Quantile House Vales,658542.4549
+31-12-2023,Florida,Bottom Quantile House Values,247128.0701
+31-12-2023,Florida,Top Quantile House Vales,673498
+28-02-2001,New York,Bottom Quantile House Values,73136.57631
+28-02-2001,New York,Top Quantile House Vales,372234.7065
+28-02-2002,New York,Bottom Quantile House Values,78968.15967
+28-02-2002,New York,Top Quantile House Vales,411345.4839
+28-02-2003,New York,Bottom Quantile House Values,85396.21817
+28-02-2003,New York,Top Quantile House Vales,456870.0382
+28-02-2005,New York,Bottom Quantile House Values,102166.4922
+28-02-2005,New York,Top Quantile House Vales,571133.7262
+28-02-2006,New York,Bottom Quantile House Values,111764.156
+28-02-2006,New York,Top Quantile House Vales,640204.3211
+28-02-2007,New York,Bottom Quantile House Values,116623.8299
+28-02-2007,New York,Top Quantile House Vales,653548
+28-02-2009,New York,Bottom Quantile House Values,115121.7925
+28-02-2009,New York,Top Quantile House Vales,611288.8132
+28-02-2010,New York,Bottom Quantile House Values,113009.145
+28-02-2010,New York,Top Quantile House Vales,583121.4875
+28-02-2011,New York,Bottom Quantile House Values,112531.2907
+28-02-2011,New York,Top Quantile House Vales,578160.5074
+28-02-2013,New York,Bottom Quantile House Values,110904.3842
+28-02-2013,New York,Top Quantile House Vales,571647.3592
+28-02-2014,New York,Bottom Quantile House Values,113788.9966
+28-02-2014,New York,Top Quantile House Vales,602033.5947
+28-02-2015,New York,Bottom Quantile House Values,115420.2775
+28-02-2015,New York,Top Quantile House Vales,629813.8246
+28-02-2017,New York,Bottom Quantile House Values,125741.3021
+28-02-2017,New York,Top Quantile House Vales,690063.6279
+28-02-2018,New York,Bottom Quantile House Values,131560.7407
+28-02-2018,New York,Top Quantile House Vales,718073
+28-02-2019,New York,Bottom Quantile House Values,139003.715
+28-02-2019,New York,Top Quantile House Vales,744331
+28-02-2021,New York,Bottom Quantile House Values,165177.1403
+28-02-2021,New York,Top Quantile House Vales,772978.7207
+28-02-2022,New York,Bottom Quantile House Values,182462.3222
+28-02-2022,New York,Top Quantile House Vales,829671.6453
+28-02-2023,New York,Bottom Quantile House Values,195155.913
+28-02-2023,New York,Top Quantile House Vales,840433.8819
+29-02-2000,New York,Bottom Quantile House Values,67918.83518
+29-02-2000,New York,Top Quantile House Vales,336411.824
+29-02-2004,New York,Bottom Quantile House Values,93598.426
+29-02-2004,New York,Top Quantile House Vales,509601
+29-02-2008,New York,Bottom Quantile House Values,118675.4445
+29-02-2008,New York,Top Quantile House Vales,647687
+29-02-2012,New York,Bottom Quantile House Values,110368.0691
+29-02-2012,New York,Top Quantile House Vales,563376.4114
+29-02-2016,New York,Bottom Quantile House Values,120195.497
+29-02-2016,New York,Top Quantile House Vales,661854
+29-02-2020,New York,Bottom Quantile House Values,146933.6119
+29-02-2020,New York,Top Quantile House Vales,748434.5493
+30-04-2000,New York,Bottom Quantile House Values,68599.11202
+30-04-2000,New York,Top Quantile House Vales,340879.3313
+30-04-2001,New York,Bottom Quantile House Values,73836.64065
+30-04-2001,New York,Top Quantile House Vales,377712.0095
+30-04-2002,New York,Bottom Quantile House Values,79753.86653
+30-04-2002,New York,Top Quantile House Vales,416534.3347
+30-04-2003,New York,Bottom Quantile House Values,86497.88914
+30-04-2003,New York,Top Quantile House Vales,465873.0177
+30-04-2004,New York,Bottom Quantile House Values,94594.70118
+30-04-2004,New York,Top Quantile House Vales,516786.3951
+30-04-2005,New York,Bottom Quantile House Values,103568.2433
+30-04-2005,New York,Top Quantile House Vales,581571.3152
+30-04-2006,New York,Bottom Quantile House Values,112916.1285
+30-04-2006,New York,Top Quantile House Vales,647334.9001
+30-04-2007,New York,Bottom Quantile House Values,116880.7543
+30-04-2007,New York,Top Quantile House Vales,653230.0829
+30-04-2008,New York,Bottom Quantile House Values,118761.1525
+30-04-2008,New York,Top Quantile House Vales,645163.4021
+30-04-2009,New York,Bottom Quantile House Values,114668.3521
+30-04-2009,New York,Top Quantile House Vales,604146.3123
+30-04-2010,New York,Bottom Quantile House Values,113449.5424
+30-04-2010,New York,Top Quantile House Vales,583502.8221
+30-04-2011,New York,Bottom Quantile House Values,112222.7976
+30-04-2011,New York,Top Quantile House Vales,576801.1702
+30-04-2012,New York,Bottom Quantile House Values,110892.4386
+30-04-2012,New York,Top Quantile House Vales,563924.1422
+30-04-2013,New York,Bottom Quantile House Values,111853.2629
+30-04-2013,New York,Top Quantile House Vales,574200.2592
+30-04-2014,New York,Bottom Quantile House Values,114421.0091
+30-04-2014,New York,Top Quantile House Vales,609021.5925
+30-04-2015,New York,Bottom Quantile House Values,115847.2725
+30-04-2015,New York,Top Quantile House Vales,631263.7187
+30-04-2016,New York,Bottom Quantile House Values,120608.6487
+30-04-2016,New York,Top Quantile House Vales,665105.9923
+30-04-2017,New York,Bottom Quantile House Values,126301.1478
+30-04-2017,New York,Top Quantile House Vales,697952.6894
+30-04-2018,New York,Bottom Quantile House Values,132615.9108
+30-04-2018,New York,Top Quantile House Vales,724107.5434
+30-04-2019,New York,Bottom Quantile House Values,140319.3725
+30-04-2019,New York,Top Quantile House Vales,746464.1643
+30-04-2020,New York,Bottom Quantile House Values,148291.3339
+30-04-2020,New York,Top Quantile House Vales,749451.3381
+30-04-2021,New York,Bottom Quantile House Values,169511.4251
+30-04-2021,New York,Top Quantile House Vales,785442
+30-04-2022,New York,Bottom Quantile House Values,188877.008
+30-04-2022,New York,Top Quantile House Vales,847841.5304
+30-04-2023,New York,Bottom Quantile House Values,196437.4955
+30-04-2023,New York,Top Quantile House Vales,835784.0467
+30-06-2000,New York,Bottom Quantile House Values,69658.75224
+30-06-2000,New York,Top Quantile House Vales,347318.3322
+30-06-2001,New York,Bottom Quantile House Values,74726.79001
+30-06-2001,New York,Top Quantile House Vales,383787.4998
+30-06-2002,New York,Bottom Quantile House Values,80689.26954
+30-06-2002,New York,Top Quantile House Vales,422505.7624
+30-06-2003,New York,Bottom Quantile House Values,87619.21775
+30-06-2003,New York,Top Quantile House Vales,474406.0857
+30-06-2004,New York,Bottom Quantile House Values,95930.77608
+30-06-2004,New York,Top Quantile House Vales,525408.9464
+30-06-2005,New York,Bottom Quantile House Values,105049.0652
+30-06-2005,New York,Top Quantile House Vales,593073.4292
+30-06-2006,New York,Bottom Quantile House Values,114013.579
+30-06-2006,New York,Top Quantile House Vales,653042.199
+30-06-2007,New York,Bottom Quantile House Values,117164.0266
+30-06-2007,New York,Top Quantile House Vales,652268.4135
+30-06-2008,New York,Bottom Quantile House Values,118526.8835
+30-06-2008,New York,Top Quantile House Vales,640890.2748
+30-06-2009,New York,Bottom Quantile House Values,114219.3461
+30-06-2009,New York,Top Quantile House Vales,598597.6872
+30-06-2010,New York,Bottom Quantile House Values,114080.7691
+30-06-2010,New York,Top Quantile House Vales,585438.5583
+30-06-2011,New York,Bottom Quantile House Values,111708.9367
+30-06-2011,New York,Top Quantile House Vales,574503.5167
+30-06-2012,New York,Bottom Quantile House Values,111000.5264
+30-06-2012,New York,Top Quantile House Vales,566920.8052
+30-06-2013,New York,Bottom Quantile House Values,112777.0991
+30-06-2013,New York,Top Quantile House Vales,578428.3315
+30-06-2014,New York,Bottom Quantile House Values,115207.4149
+30-06-2014,New York,Top Quantile House Vales,615444
+30-06-2015,New York,Bottom Quantile House Values,116603.7515
+30-06-2015,New York,Top Quantile House Vales,635219.1396
+30-06-2016,New York,Bottom Quantile House Values,121513.1945
+30-06-2016,New York,Top Quantile House Vales,669455.4241
+30-06-2017,New York,Bottom Quantile House Values,127270.5144
+30-06-2017,New York,Top Quantile House Vales,703394.6877
+30-06-2018,New York,Bottom Quantile House Values,134100.0106
+30-06-2018,New York,Top Quantile House Vales,732307.4389
+30-06-2019,New York,Bottom Quantile House Values,141290.1725
+30-06-2019,New York,Top Quantile House Vales,747033.0384
+30-06-2020,New York,Bottom Quantile House Values,149418.7324
+30-06-2020,New York,Top Quantile House Vales,749042.7547
+30-06-2021,New York,Bottom Quantile House Values,174699.3781
+30-06-2021,New York,Top Quantile House Vales,797370.7879
+30-06-2022,New York,Bottom Quantile House Values,194369.8752
+30-06-2022,New York,Top Quantile House Vales,865134.2533
+30-06-2023,New York,Bottom Quantile House Values,199999.3468
+30-06-2023,New York,Top Quantile House Vales,840171
+30-09-2000,New York,Bottom Quantile House Values,70886.54534
+30-09-2000,New York,Top Quantile House Vales,356658.8625
+30-09-2001,New York,Bottom Quantile House Values,76267.11984
+30-09-2001,New York,Top Quantile House Vales,393883.0895
+30-09-2002,New York,Bottom Quantile House Values,82334.40256
+30-09-2002,New York,Top Quantile House Vales,434891.7935
+30-09-2003,New York,Bottom Quantile House Values,89948.22392
+30-09-2003,New York,Top Quantile House Vales,488199.7002
+30-09-2004,New York,Bottom Quantile House Values,98263.1476
+30-09-2004,New York,Top Quantile House Vales,543132.4098
+30-09-2005,New York,Bottom Quantile House Values,107542.8781
+30-09-2005,New York,Top Quantile House Vales,611385.7236
+30-09-2006,New York,Bottom Quantile House Values,115358.9522
+30-09-2006,New York,Top Quantile House Vales,658134.0389
+30-09-2007,New York,Bottom Quantile House Values,117724.0914
+30-09-2007,New York,Top Quantile House Vales,649690.0381
+30-09-2008,New York,Bottom Quantile House Values,117522.3444
+30-09-2008,New York,Top Quantile House Vales,631784.8369
+30-09-2009,New York,Bottom Quantile House Values,113396.8676
+30-09-2009,New York,Top Quantile House Vales,589297.6013
+30-09-2010,New York,Bottom Quantile House Values,114113.8827
+30-09-2010,New York,Top Quantile House Vales,586911.5735
+30-09-2011,New York,Bottom Quantile House Values,111101.4062
+30-09-2011,New York,Top Quantile House Vales,570380.1227
+30-09-2012,New York,Bottom Quantile House Values,110581.4955
+30-09-2012,New York,Top Quantile House Vales,570166.3895
+30-09-2013,New York,Bottom Quantile House Values,113045.0544
+30-09-2013,New York,Top Quantile House Vales,588228.2856
+30-09-2014,New York,Bottom Quantile House Values,115453.5039
+30-09-2014,New York,Top Quantile House Vales,619881.2642
+30-09-2015,New York,Bottom Quantile House Values,118284.7893
+30-09-2015,New York,Top Quantile House Vales,644737.3679
+30-09-2016,New York,Bottom Quantile House Values,122811.1511
+30-09-2016,New York,Top Quantile House Vales,672596.1979
+30-09-2017,New York,Bottom Quantile House Values,128845.7257
+30-09-2017,New York,Top Quantile House Vales,708523.4974
+30-09-2018,New York,Bottom Quantile House Values,137113.5429
+30-09-2018,New York,Top Quantile House Vales,742355.0632
+30-09-2019,New York,Bottom Quantile House Values,143083.9609
+30-09-2019,New York,Top Quantile House Vales,745696.8757
+30-09-2020,New York,Bottom Quantile House Values,153029.6455
+30-09-2020,New York,Top Quantile House Vales,745186.046
+30-09-2021,New York,Bottom Quantile House Values,177527.0646
+30-09-2021,New York,Top Quantile House Vales,805865.5293
+30-09-2022,New York,Bottom Quantile House Values,196813.232
+30-09-2022,New York,Top Quantile House Vales,864921.5492
+30-09-2023,New York,Bottom Quantile House Values,205496.0714
+30-09-2023,New York,Top Quantile House Vales,847598.2617
+30-11-2000,New York,Bottom Quantile House Values,71732.52325
+30-11-2000,New York,Top Quantile House Vales,362747.25
+30-11-2001,New York,Bottom Quantile House Values,77333.73037
+30-11-2001,New York,Top Quantile House Vales,400750.0024
+30-11-2002,New York,Bottom Quantile House Values,83533.93941
+30-11-2002,New York,Top Quantile House Vales,443392.7232
+30-11-2003,New York,Bottom Quantile House Values,91643.35755
+30-11-2003,New York,Top Quantile House Vales,497080.3283
+30-11-2004,New York,Bottom Quantile House Values,99847.82006
+30-11-2004,New York,Top Quantile House Vales,555250.1172
+30-11-2005,New York,Bottom Quantile House Values,109385.1994
+30-11-2005,New York,Top Quantile House Vales,623637.9047
+30-11-2006,New York,Bottom Quantile House Values,115952.4299
+30-11-2006,New York,Top Quantile House Vales,656710.6279
+30-11-2007,New York,Bottom Quantile House Values,118211.9749
+30-11-2007,New York,Top Quantile House Vales,649271.2
+30-11-2008,New York,Bottom Quantile House Values,116500.6084
+30-11-2008,New York,Top Quantile House Vales,624102.8589
+30-11-2009,New York,Bottom Quantile House Values,113065.2053
+30-11-2009,New York,Top Quantile House Vales,585376.9608
+30-11-2010,New York,Bottom Quantile House Values,113306.0578
+30-11-2010,New York,Top Quantile House Vales,583685.7038
+30-11-2011,New York,Bottom Quantile House Values,110682.0969
+30-11-2011,New York,Top Quantile House Vales,567174.3814
+30-11-2012,New York,Bottom Quantile House Values,110568.0497
+30-11-2012,New York,Top Quantile House Vales,570324.8158
+30-11-2013,New York,Bottom Quantile House Values,113278.7963
+30-11-2013,New York,Top Quantile House Vales,595130.3348
+30-11-2014,New York,Bottom Quantile House Values,115158.9888
+30-11-2014,New York,Top Quantile House Vales,625240.135
+30-11-2015,New York,Bottom Quantile House Values,119265.285
+30-11-2015,New York,Top Quantile House Vales,653442.747
+30-11-2016,New York,Bottom Quantile House Values,124059.2761
+30-11-2016,New York,Top Quantile House Vales,676857.3038
+30-11-2017,New York,Bottom Quantile House Values,129939.7872
+30-11-2017,New York,Top Quantile House Vales,711207.1098
+30-11-2018,New York,Bottom Quantile House Values,137920.5799
+30-11-2018,New York,Top Quantile House Vales,745008.7074
+30-11-2019,New York,Bottom Quantile House Values,144551.5867
+30-11-2019,New York,Top Quantile House Vales,744362.8071
+30-11-2020,New York,Bottom Quantile House Values,158280.9204
+30-11-2020,New York,Top Quantile House Vales,753885.98
+30-11-2021,New York,Bottom Quantile House Values,177557.9058
+30-11-2021,New York,Top Quantile House Vales,813804.8121
+30-11-2022,New York,Bottom Quantile House Values,196123.8019
+30-11-2022,New York,Top Quantile House Vales,855194.0715
+30-11-2023,New York,Bottom Quantile House Values,207504.1608
+30-11-2023,New York,Top Quantile House Vales,849320.5781
+31-01-2000,New York,Bottom Quantile House Values,67703.81057
+31-01-2000,New York,Top Quantile House Vales,334934.6833
+31-01-2001,New York,Bottom Quantile House Values,72733.09872
+31-01-2001,New York,Top Quantile House Vales,369292.3741
+31-01-2002,New York,Bottom Quantile House Values,78479.65197
+31-01-2002,New York,Top Quantile House Vales,408062
+31-01-2003,New York,Bottom Quantile House Values,84810.25037
+31-01-2003,New York,Top Quantile House Vales,452379.0407
+31-01-2004,New York,Bottom Quantile House Values,92969.27195
+31-01-2004,New York,Top Quantile House Vales,505443.6632
+31-01-2005,New York,Bottom Quantile House Values,101428.1978
+31-01-2005,New York,Top Quantile House Vales,565986.6923
+31-01-2006,New York,Bottom Quantile House Values,111069.0693
+31-01-2006,New York,Top Quantile House Vales,634929.7595
+31-01-2007,New York,Bottom Quantile House Values,116444.4431
+31-01-2007,New York,Top Quantile House Vales,654477.7701
+31-01-2008,New York,Bottom Quantile House Values,118590.702
+31-01-2008,New York,Top Quantile House Vales,648636.2215
+31-01-2009,New York,Bottom Quantile House Values,115476.6388
+31-01-2009,New York,Top Quantile House Vales,615568.7837
+31-01-2010,New York,Bottom Quantile House Values,112959.7214
+31-01-2010,New York,Top Quantile House Vales,583392.808
+31-01-2011,New York,Bottom Quantile House Values,112712.3989
+31-01-2011,New York,Top Quantile House Vales,579576.0736
+31-01-2012,New York,Bottom Quantile House Values,110301.3158
+31-01-2012,New York,Top Quantile House Vales,564233.5531
+31-01-2013,New York,Bottom Quantile House Values,110633.3655
+31-01-2013,New York,Top Quantile House Vales,570642.3256
+31-01-2014,New York,Bottom Quantile House Values,113580.3191
+31-01-2014,New York,Top Quantile House Vales,599604.0343
+31-01-2015,New York,Bottom Quantile House Values,115298.0027
+31-01-2015,New York,Top Quantile House Vales,629183.4599
+31-01-2016,New York,Bottom Quantile House Values,119867.1526
+31-01-2016,New York,Top Quantile House Vales,659525.4726
+31-01-2017,New York,Bottom Quantile House Values,125329.0769
+31-01-2017,New York,Top Quantile House Vales,685784.2379
+31-01-2018,New York,Bottom Quantile House Values,131172.1494
+31-01-2018,New York,Top Quantile House Vales,715455.7545
+31-01-2019,New York,Bottom Quantile House Values,138478.1522
+31-01-2019,New York,Top Quantile House Vales,743750
+31-01-2020,New York,Bottom Quantile House Values,146220.8717
+31-01-2020,New York,Top Quantile House Vales,747924.7953
+31-01-2021,New York,Bottom Quantile House Values,163084.4214
+31-01-2021,New York,Top Quantile House Vales,766312.6257
+31-01-2022,New York,Bottom Quantile House Values,179973.8614
+31-01-2022,New York,Top Quantile House Vales,824090.353
+31-01-2023,New York,Bottom Quantile House Values,195437.5011
+31-01-2023,New York,Top Quantile House Vales,846131.7208
+31-01-2024,New York,Bottom Quantile House Values,208558.3597
+31-01-2024,New York,Top Quantile House Vales,852739.9962
+31-03-2000,New York,Bottom Quantile House Values,68133.29975
+31-03-2000,New York,Top Quantile House Vales,337878.6374
+31-03-2001,New York,Bottom Quantile House Values,73484.32888
+31-03-2001,New York,Top Quantile House Vales,374982.1039
+31-03-2002,New York,Bottom Quantile House Values,79360.26761
+31-03-2002,New York,Top Quantile House Vales,414079.8934
+31-03-2003,New York,Bottom Quantile House Values,85968.3392
+31-03-2003,New York,Top Quantile House Vales,461579.0698
+31-03-2004,New York,Bottom Quantile House Values,94096.79031
+31-03-2004,New York,Top Quantile House Vales,513365.8737
+31-03-2005,New York,Bottom Quantile House Values,102855.6062
+31-03-2005,New York,Top Quantile House Vales,576159.9698
+31-03-2006,New York,Bottom Quantile House Values,112366.8905
+31-03-2006,New York,Top Quantile House Vales,644242.0997
+31-03-2007,New York,Bottom Quantile House Values,116782.8901
+31-03-2007,New York,Top Quantile House Vales,653653
+31-03-2008,New York,Bottom Quantile House Values,118766.1615
+31-03-2008,New York,Top Quantile House Vales,646495.5106
+31-03-2009,New York,Bottom Quantile House Values,114855.2494
+31-03-2009,New York,Top Quantile House Vales,607414.384
+31-03-2010,New York,Bottom Quantile House Values,113153.9549
+31-03-2010,New York,Top Quantile House Vales,582960
+31-03-2011,New York,Bottom Quantile House Values,112414.5874
+31-03-2011,New York,Top Quantile House Vales,577587.0061
+31-03-2012,New York,Bottom Quantile House Values,110621.1181
+31-03-2012,New York,Top Quantile House Vales,563223.4973
+31-03-2013,New York,Bottom Quantile House Values,111346.4272
+31-03-2013,New York,Top Quantile House Vales,573031.9452
+31-03-2014,New York,Bottom Quantile House Values,114057.683
+31-03-2014,New York,Top Quantile House Vales,605335
+31-03-2015,New York,Bottom Quantile House Values,115522.3678
+31-03-2015,New York,Top Quantile House Vales,630469.4191
+31-03-2016,New York,Bottom Quantile House Values,120368.4587
+31-03-2016,New York,Top Quantile House Vales,663343.3673
+31-03-2017,New York,Bottom Quantile House Values,125949.2616
+31-03-2017,New York,Top Quantile House Vales,693557
+31-03-2018,New York,Bottom Quantile House Values,132094.4895
+31-03-2018,New York,Top Quantile House Vales,721011.9625
+31-03-2019,New York,Bottom Quantile House Values,139730.3035
+31-03-2019,New York,Top Quantile House Vales,745332.7569
+31-03-2020,New York,Bottom Quantile House Values,147612.2602
+31-03-2020,New York,Top Quantile House Vales,748994.8
+31-03-2021,New York,Bottom Quantile House Values,167296.1552
+31-03-2021,New York,Top Quantile House Vales,779221.4579
+31-03-2022,New York,Bottom Quantile House Values,185743.2208
+31-03-2022,New York,Top Quantile House Vales,838562.1727
+31-03-2023,New York,Bottom Quantile House Values,195393.3646
+31-03-2023,New York,Top Quantile House Vales,836510
+31-05-2000,New York,Bottom Quantile House Values,69104.40791
+31-05-2000,New York,Top Quantile House Vales,343953.8201
+31-05-2001,New York,Bottom Quantile House Values,74253.33542
+31-05-2001,New York,Top Quantile House Vales,380569.784
+31-05-2002,New York,Bottom Quantile House Values,80192.58406
+31-05-2002,New York,Top Quantile House Vales,419202.1774
+31-05-2003,New York,Bottom Quantile House Values,87037.49991
+31-05-2003,New York,Top Quantile House Vales,470173
+31-05-2004,New York,Bottom Quantile House Values,95179.78943
+31-05-2004,New York,Top Quantile House Vales,520682.1229
+31-05-2005,New York,Bottom Quantile House Values,104305.6487
+31-05-2005,New York,Top Quantile House Vales,587327
+31-05-2006,New York,Bottom Quantile House Values,113470.7019
+31-05-2006,New York,Top Quantile House Vales,650129.662
+31-05-2007,New York,Bottom Quantile House Values,117031.8842
+31-05-2007,New York,Top Quantile House Vales,653276.058
+31-05-2008,New York,Bottom Quantile House Values,118711.6885
+31-05-2008,New York,Top Quantile House Vales,643143.1153
+31-05-2009,New York,Bottom Quantile House Values,114474.4897
+31-05-2009,New York,Top Quantile House Vales,601490.7819
+31-05-2010,New York,Bottom Quantile House Values,113744.54
+31-05-2010,New York,Top Quantile House Vales,584019.3277
+31-05-2011,New York,Bottom Quantile House Values,112010.2787
+31-05-2011,New York,Top Quantile House Vales,575950
+31-05-2012,New York,Bottom Quantile House Values,111042.7962
+31-05-2012,New York,Top Quantile House Vales,565449.121
+31-05-2013,New York,Bottom Quantile House Values,112370.8043
+31-05-2013,New York,Top Quantile House Vales,575757.0814
+31-05-2014,New York,Bottom Quantile House Values,114880.7181
+31-05-2014,New York,Top Quantile House Vales,612622
+31-05-2015,New York,Bottom Quantile House Values,116209.0171
+31-05-2015,New York,Top Quantile House Vales,633120.1827
+31-05-2016,New York,Bottom Quantile House Values,120951.4885
+31-05-2016,New York,Top Quantile House Vales,667119.468
+31-05-2017,New York,Bottom Quantile House Values,126738.2215
+31-05-2017,New York,Top Quantile House Vales,700931.5136
+31-05-2018,New York,Bottom Quantile House Values,133349.8293
+31-05-2018,New York,Top Quantile House Vales,728523.0399
+31-05-2019,New York,Bottom Quantile House Values,140768.7819
+31-05-2019,New York,Top Quantile House Vales,746726.6851
+31-05-2020,New York,Bottom Quantile House Values,148862.6118
+31-05-2020,New York,Top Quantile House Vales,750110.3253
+31-05-2021,New York,Bottom Quantile House Values,171997.2931
+31-05-2021,New York,Top Quantile House Vales,791721.805
+31-05-2022,New York,Bottom Quantile House Values,191629.6745
+31-05-2022,New York,Top Quantile House Vales,856796
+31-05-2023,New York,Bottom Quantile House Values,198022.7606
+31-05-2023,New York,Top Quantile House Vales,837367
+31-07-2000,New York,Bottom Quantile House Values,70142.27724
+31-07-2000,New York,Top Quantile House Vales,350667.4662
+31-07-2001,New York,Bottom Quantile House Values,75236.47336
+31-07-2001,New York,Top Quantile House Vales,387145.6256
+31-07-2002,New York,Bottom Quantile House Values,81206.75693
+31-07-2002,New York,Top Quantile House Vales,426199.2755
+31-07-2003,New York,Bottom Quantile House Values,88257.97063
+31-07-2003,New York,Top Quantile House Vales,478933.3212
+31-07-2004,New York,Bottom Quantile House Values,96724.58481
+31-07-2004,New York,Top Quantile House Vales,530951.8133
+31-07-2005,New York,Bottom Quantile House Values,105830.1731
+31-07-2005,New York,Top Quantile House Vales,598934.1963
+31-07-2006,New York,Bottom Quantile House Values,114517.7057
+31-07-2006,New York,Top Quantile House Vales,655574.9598
+31-07-2007,New York,Bottom Quantile House Values,117320.6243
+31-07-2007,New York,Top Quantile House Vales,651404.2174
+31-07-2008,New York,Bottom Quantile House Values,118222.7525
+31-07-2008,New York,Top Quantile House Vales,637898.803
+31-07-2009,New York,Bottom Quantile House Values,113948.2439
+31-07-2009,New York,Top Quantile House Vales,595647.3253
+31-07-2010,New York,Bottom Quantile House Values,114330.0311
+31-07-2010,New York,Top Quantile House Vales,586656.9362
+31-07-2011,New York,Bottom Quantile House Values,111456.0065
+31-07-2011,New York,Top Quantile House Vales,573145.7401
+31-07-2012,New York,Bottom Quantile House Values,110935.0973
+31-07-2012,New York,Top Quantile House Vales,568521.702
+31-07-2013,New York,Bottom Quantile House Values,112978.0575
+31-07-2013,New York,Top Quantile House Vales,581636.2093
+31-07-2014,New York,Bottom Quantile House Values,115409.2391
+31-07-2014,New York,Top Quantile House Vales,617215.3407
+31-07-2015,New York,Bottom Quantile House Values,117040.5047
+31-07-2015,New York,Top Quantile House Vales,637721.0191
+31-07-2016,New York,Bottom Quantile House Values,121930.3296
+31-07-2016,New York,Top Quantile House Vales,671294.0863
+31-07-2017,New York,Bottom Quantile House Values,127821.1583
+31-07-2017,New York,Top Quantile House Vales,704735.8772
+31-07-2018,New York,Bottom Quantile House Values,135102.5655
+31-07-2018,New York,Top Quantile House Vales,735857.942
+31-07-2019,New York,Bottom Quantile House Values,141877.8756
+31-07-2019,New York,Top Quantile House Vales,747326.3691
+31-07-2020,New York,Bottom Quantile House Values,150095.2996
+31-07-2020,New York,Top Quantile House Vales,746723
+31-07-2021,New York,Bottom Quantile House Values,176873.0611
+31-07-2021,New York,Top Quantile House Vales,802131.753
+31-07-2022,New York,Bottom Quantile House Values,196249.6043
+31-07-2022,New York,Top Quantile House Vales,870092.6479
+31-07-2023,New York,Bottom Quantile House Values,202038.5811
+31-07-2023,New York,Top Quantile House Vales,843081
+31-08-2000,New York,Bottom Quantile House Values,70543.87424
+31-08-2000,New York,Top Quantile House Vales,353812.421
+31-08-2001,New York,Bottom Quantile House Values,75755.53746
+31-08-2001,New York,Top Quantile House Vales,390616.1117
+31-08-2002,New York,Bottom Quantile House Values,81758.92466
+31-08-2002,New York,Top Quantile House Vales,430467.1809
+31-08-2003,New York,Bottom Quantile House Values,89057.56655
+31-08-2003,New York,Top Quantile House Vales,483608.3158
+31-08-2004,New York,Bottom Quantile House Values,97509.48259
+31-08-2004,New York,Top Quantile House Vales,536872.8395
+31-08-2005,New York,Bottom Quantile House Values,106650.6138
+31-08-2005,New York,Top Quantile House Vales,605009
+31-08-2006,New York,Bottom Quantile House Values,114985.4467
+31-08-2006,New York,Top Quantile House Vales,657510.1051
+31-08-2007,New York,Bottom Quantile House Values,117520.7171
+31-08-2007,New York,Top Quantile House Vales,650663.1783
+31-08-2008,New York,Bottom Quantile House Values,117883.9658
+31-08-2008,New York,Top Quantile House Vales,634964.8297
+31-08-2009,New York,Bottom Quantile House Values,113656.1865
+31-08-2009,New York,Top Quantile House Vales,592196.3653
+31-08-2010,New York,Bottom Quantile House Values,114336.5145
+31-08-2010,New York,Top Quantile House Vales,587294.6251
+31-08-2011,New York,Bottom Quantile House Values,111258.2581
+31-08-2011,New York,Top Quantile House Vales,571758.9849
+31-08-2012,New York,Bottom Quantile House Values,110686.1128
+31-08-2012,New York,Top Quantile House Vales,569291.7118
+31-08-2013,New York,Bottom Quantile House Values,113063.9334
+31-08-2013,New York,Top Quantile House Vales,584995.4322
+31-08-2014,New York,Bottom Quantile House Values,115436.0976
+31-08-2014,New York,Top Quantile House Vales,618200.9817
+31-08-2015,New York,Bottom Quantile House Values,117649.4475
+31-08-2015,New York,Top Quantile House Vales,640622.0468
+31-08-2016,New York,Bottom Quantile House Values,122365.9126
+31-08-2016,New York,Top Quantile House Vales,672132.3332
+31-08-2017,New York,Bottom Quantile House Values,128359.8262
+31-08-2017,New York,Top Quantile House Vales,706866.8495
+31-08-2018,New York,Bottom Quantile House Values,136147.3118
+31-08-2018,New York,Top Quantile House Vales,738975.4843
+31-08-2019,New York,Bottom Quantile House Values,142539.5739
+31-08-2019,New York,Top Quantile House Vales,747166.4964
+31-08-2020,New York,Bottom Quantile House Values,151166.2636
+31-08-2020,New York,Top Quantile House Vales,744255.3621
+31-08-2021,New York,Bottom Quantile House Values,177820.2968
+31-08-2021,New York,Top Quantile House Vales,804590.5289
+31-08-2022,New York,Bottom Quantile House Values,197102.5784
+31-08-2022,New York,Top Quantile House Vales,870434.2588
+31-08-2023,New York,Bottom Quantile House Values,203982.8295
+31-08-2023,New York,Top Quantile House Vales,845729.8503
+31-10-2000,New York,Bottom Quantile House Values,71268.94745
+31-10-2000,New York,Top Quantile House Vales,359554.4151
+31-10-2001,New York,Bottom Quantile House Values,76788.4524
+31-10-2001,New York,Top Quantile House Vales,397272.4942
+31-10-2002,New York,Bottom Quantile House Values,82928.4191
+31-10-2002,New York,Top Quantile House Vales,439216.1718
+31-10-2003,New York,Bottom Quantile House Values,90878.01613
+31-10-2003,New York,Top Quantile House Vales,492743.1647
+31-10-2004,New York,Bottom Quantile House Values,99033.81692
+31-10-2004,New York,Top Quantile House Vales,549306.9484
+31-10-2005,New York,Bottom Quantile House Values,108483.8489
+31-10-2005,New York,Top Quantile House Vales,617920.1479
+31-10-2006,New York,Bottom Quantile House Values,115689.2984
+31-10-2006,New York,Top Quantile House Vales,657851.6598
+31-10-2007,New York,Bottom Quantile House Values,117977.5194
+31-10-2007,New York,Top Quantile House Vales,649504.098
+31-10-2008,New York,Bottom Quantile House Values,117055.9966
+31-10-2008,New York,Top Quantile House Vales,628129.8306
+31-10-2009,New York,Bottom Quantile House Values,113185.1768
+31-10-2009,New York,Top Quantile House Vales,586885.8194
+31-10-2010,New York,Bottom Quantile House Values,113693.1232
+31-10-2010,New York,Top Quantile House Vales,585524.231
+31-10-2011,New York,Bottom Quantile House Values,110919.3921
+31-10-2011,New York,Top Quantile House Vales,568850.902
+31-10-2012,New York,Bottom Quantile House Values,110534.3767
+31-10-2012,New York,Top Quantile House Vales,570209.7833
+31-10-2013,New York,Bottom Quantile House Values,113166.8356
+31-10-2013,New York,Top Quantile House Vales,591766.7755
+31-10-2014,New York,Bottom Quantile House Values,115270.9565
+31-10-2014,New York,Top Quantile House Vales,622085.5668
+31-10-2015,New York,Bottom Quantile House Values,118900.9077
+31-10-2015,New York,Top Quantile House Vales,649395
+31-10-2016,New York,Bottom Quantile House Values,123420.6148
+31-10-2016,New York,Top Quantile House Vales,673944.2655
+31-10-2017,New York,Bottom Quantile House Values,129372.4563
+31-10-2017,New York,Top Quantile House Vales,710436.2162
+31-10-2018,New York,Bottom Quantile House Values,137583.4137
+31-10-2018,New York,Top Quantile House Vales,744335.7009
+31-10-2019,New York,Bottom Quantile House Values,143726.5991
+31-10-2019,New York,Top Quantile House Vales,743958.0746
+31-10-2020,New York,Bottom Quantile House Values,155447.0942
+31-10-2020,New York,Top Quantile House Vales,748475.4446
+31-10-2021,New York,Bottom Quantile House Values,177301.695
+31-10-2021,New York,Top Quantile House Vales,808809.7491
+31-10-2022,New York,Bottom Quantile House Values,196386.9124
+31-10-2022,New York,Top Quantile House Vales,859579.6898
+31-10-2023,New York,Bottom Quantile House Values,206634.3161
+31-10-2023,New York,Top Quantile House Vales,848556.2245
+31-12-2000,New York,Bottom Quantile House Values,72241.86414
+31-12-2000,New York,Top Quantile House Vales,366079.1023
+31-12-2001,New York,Bottom Quantile House Values,77917.61844
+31-12-2001,New York,Top Quantile House Vales,404362.8551
+31-12-2002,New York,Bottom Quantile House Values,84176.08662
+31-12-2002,New York,Top Quantile House Vales,447813.089
+31-12-2003,New York,Bottom Quantile House Values,92321.52908
+31-12-2003,New York,Top Quantile House Vales,501111.1066
+31-12-2004,New York,Bottom Quantile House Values,100661.4321
+31-12-2004,New York,Top Quantile House Vales,560785.7693
+31-12-2005,New York,Bottom Quantile House Values,110283.5443
+31-12-2005,New York,Top Quantile House Vales,629527.329
+31-12-2006,New York,Bottom Quantile House Values,116206.9322
+31-12-2006,New York,Top Quantile House Vales,655538.0792
+31-12-2007,New York,Bottom Quantile House Values,118403.2699
+31-12-2007,New York,Top Quantile House Vales,648998.071
+31-12-2008,New York,Bottom Quantile House Values,115950.1202
+31-12-2008,New York,Top Quantile House Vales,620017.6234
+31-12-2009,New York,Bottom Quantile House Values,113000.5158
+31-12-2009,New York,Top Quantile House Vales,584135
+31-12-2010,New York,Bottom Quantile House Values,112938.9697
+31-12-2010,New York,Top Quantile House Vales,581391.553
+31-12-2011,New York,Bottom Quantile House Values,110483.8616
+31-12-2011,New York,Top Quantile House Vales,565710
+31-12-2012,New York,Bottom Quantile House Values,110555.2493
+31-12-2012,New York,Top Quantile House Vales,570018.9552
+31-12-2013,New York,Bottom Quantile House Values,113431.7218
+31-12-2013,New York,Top Quantile House Vales,597452.9352
+31-12-2014,New York,Bottom Quantile House Values,115192.1491
+31-12-2014,New York,Top Quantile House Vales,627637.923
+31-12-2015,New York,Bottom Quantile House Values,119596.8003
+31-12-2015,New York,Top Quantile House Vales,656844.1
+31-12-2016,New York,Bottom Quantile House Values,124763.224
+31-12-2016,New York,Top Quantile House Vales,681546.8657
+31-12-2017,New York,Bottom Quantile House Values,130568.3084
+31-12-2017,New York,Top Quantile House Vales,712961.4744
+31-12-2018,New York,Bottom Quantile House Values,138064.8836
+31-12-2018,New York,Top Quantile House Vales,744230.1584
+31-12-2019,New York,Bottom Quantile House Values,145392.7939
+31-12-2019,New York,Top Quantile House Vales,745786.2113
+31-12-2020,New York,Bottom Quantile House Values,160894.1381
+31-12-2020,New York,Top Quantile House Vales,760360.8642
+31-12-2021,New York,Bottom Quantile House Values,178248.3378
+31-12-2021,New York,Top Quantile House Vales,819034.3485
+31-12-2022,New York,Bottom Quantile House Values,195907.0065
+31-12-2022,New York,Top Quantile House Vales,851160.1244
+31-12-2023,New York,Bottom Quantile House Values,208113.4987
+31-12-2023,New York,Top Quantile House Vales,850867.7792

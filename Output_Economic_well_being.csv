@@ -1,0 +1,369 @@
+﻿observation_date,State,Economic Indicator,Value
+01-01-2000,California,Civil Labor Force,16664807
+01-01-2000,California,Minimum Wage,5.75
+01-01-2000,California,Per Capita Per Person,33175
+01-01-2000,California,Total Personal Income,1092962.9
+01-01-2000,Florida,Civil Labor Force,7822185
+01-01-2000,Florida,Minimum Wage,4
+01-01-2000,Florida,Per Capita Per Person,29387
+01-01-2000,Florida,Total Personal Income,460076
+01-01-2000,New York,Civil Labor Force,9153721
+01-01-2000,New York,Minimum Wage,4.25
+01-01-2000,New York,Per Capita Per Person,35955
+01-01-2000,New York,Total Personal Income,665377
+01-01-2000,Texas,Civil Labor Force,10374888
+01-01-2000,Texas,Minimum Wage,3.35
+01-01-2000,Texas,Per Capita Per Person,28253
+01-01-2000,Texas,Total Personal Income,575999
+01-01-2001,California,Civil Labor Force,17036516
+01-01-2001,California,Minimum Wage,6.25
+01-01-2001,California,Per Capita Per Person,33915
+01-01-2001,California,Total Personal Income,1175565
+01-01-2001,Florida,Civil Labor Force,8031163
+01-01-2001,Florida,Minimum Wage,5
+01-01-2001,Florida,Per Capita Per Person,30405
+01-01-2001,Florida,Total Personal Income,493228.4
+01-01-2001,New York,Civil Labor Force,9128039
+01-01-2001,New York,Minimum Wage,5.15
+01-01-2001,New York,Per Capita Per Person,37176
+01-01-2001,New York,Total Personal Income,713520.7
+01-01-2001,Texas,Civil Labor Force,10462250
+01-01-2001,Texas,Minimum Wage,3.35
+01-01-2001,Texas,Per Capita Per Person,29601
+01-01-2001,Texas,Total Personal Income,630080.5
+01-01-2002,California,Civil Labor Force,17200139
+01-01-2002,California,Minimum Wage,6.75
+01-01-2002,California,Per Capita Per Person,34047
+01-01-2002,California,Total Personal Income,1171907.9
+01-01-2002,Florida,Civil Labor Force,8008565
+01-01-2002,Florida,Minimum Wage,5
+01-01-2002,Florida,Per Capita Per Person,30815
+01-01-2002,Florida,Total Personal Income,505526.9
+01-01-2002,New York,Civil Labor Force,9225509
+01-01-2002,New York,Minimum Wage,5.15
+01-01-2002,New York,Per Capita Per Person,36972
+01-01-2002,New York,Total Personal Income,699534.5
+01-01-2002,Texas,Civil Labor Force,10636473
+01-01-2002,Texas,Minimum Wage,5.15
+01-01-2002,Texas,Per Capita Per Person,29481
+01-01-2002,Texas,Total Personal Income,631440.4
+01-01-2003,California,Civil Labor Force,17257209
+01-01-2003,California,Minimum Wage,6.75
+01-01-2003,California,Per Capita Per Person,35191
+01-01-2003,California,Total Personal Income,1214766.6
+01-01-2003,Florida,Civil Labor Force,8090994
+01-01-2003,Florida,Minimum Wage,5
+01-01-2003,Florida,Per Capita Per Person,31779
+01-01-2003,Florida,Total Personal Income,528488.2
+01-01-2003,New York,Civil Labor Force,9315785
+01-01-2003,New York,Minimum Wage,5.15
+01-01-2003,New York,Per Capita Per Person,37420
+01-01-2003,New York,Total Personal Income,701640.3
+01-01-2003,Texas,Civil Labor Force,10852761
+01-01-2003,Texas,Minimum Wage,5.15
+01-01-2003,Texas,Per Capita Per Person,30176
+01-01-2003,Texas,Total Personal Income,653510.2
+01-01-2004,California,Civil Labor Force,17309407
+01-01-2004,California,Minimum Wage,6.75
+01-01-2004,California,Per Capita Per Person,36969
+01-01-2004,California,Total Personal Income,1285348.8
+01-01-2004,Florida,Civil Labor Force,8222986
+01-01-2004,Florida,Minimum Wage,5
+01-01-2004,Florida,Per Capita Per Person,33706
+01-01-2004,Florida,Total Personal Income,567454.8
+01-01-2004,New York,Civil Labor Force,9275669
+01-01-2004,New York,Minimum Wage,5.15
+01-01-2004,New York,Per Capita Per Person,39093
+01-01-2004,New York,Total Personal Income,728345.7
+01-01-2004,Texas,Civil Labor Force,10928063
+01-01-2004,Texas,Minimum Wage,5.15
+01-01-2004,Texas,Per Capita Per Person,31097
+01-01-2004,Texas,Total Personal Income,681942.8
+01-01-2005,California,Civil Labor Force,17439739
+01-01-2005,California,Minimum Wage,6.75
+01-01-2005,California,Per Capita Per Person,38737
+01-01-2005,California,Total Personal Income,1351103.9
+01-01-2005,Florida,Civil Labor Force,8492386
+01-01-2005,Florida,Minimum Wage,5.5
+01-01-2005,Florida,Per Capita Per Person,35736
+01-01-2005,Florida,Total Personal Income,617325.8
+01-01-2005,New York,Civil Labor Force,9395352
+01-01-2005,New York,Minimum Wage,6
+01-01-2005,New York,Per Capita Per Person,40645
+01-01-2005,New York,Total Personal Income,759184.4
+01-01-2005,Texas,Civil Labor Force,11104720
+01-01-2005,Texas,Minimum Wage,5.15
+01-01-2005,Texas,Per Capita Per Person,33136
+01-01-2005,Texas,Total Personal Income,732005.3
+01-01-2006,California,Civil Labor Force,17582550
+01-01-2006,California,Minimum Wage,6.75
+01-01-2006,California,Per Capita Per Person,41454
+01-01-2006,California,Total Personal Income,1472105.4
+01-01-2006,Florida,Civil Labor Force,8789465
+01-01-2006,Florida,Minimum Wage,6.4
+01-01-2006,Florida,Per Capita Per Person,38009
+01-01-2006,Florida,Total Personal Income,677753.4
+01-01-2006,New York,Civil Labor Force,9522997
+01-01-2006,New York,Minimum Wage,6.75
+01-01-2006,New York,Per Capita Per Person,43760
+01-01-2006,New York,Total Personal Income,815868.9
+01-01-2006,Texas,Civil Labor Force,11240453
+01-01-2006,Texas,Minimum Wage,5.15
+01-01-2006,Texas,Per Capita Per Person,35422
+01-01-2006,Texas,Total Personal Income,810488.1
+01-01-2007,California,Civil Labor Force,17811829
+01-01-2007,California,Minimum Wage,7.5
+01-01-2007,California,Per Capita Per Person,43070
+01-01-2007,California,Total Personal Income,1544257.3
+01-01-2007,Florida,Civil Labor Force,9079865
+01-01-2007,Florida,Minimum Wage,6.67
+01-01-2007,Florida,Per Capita Per Person,39184
+01-01-2007,Florida,Total Personal Income,709292.6
+01-01-2007,New York,Civil Labor Force,9499799
+01-01-2007,New York,Minimum Wage,7.15
+01-01-2007,New York,Per Capita Per Person,47020
+01-01-2007,New York,Total Personal Income,899532.5
+01-01-2007,Texas,Civil Labor Force,11413662
+01-01-2007,Texas,Minimum Wage,5.15
+01-01-2007,Texas,Per Capita Per Person,36879
+01-01-2007,Texas,Total Personal Income,858039.2
+01-01-2008,California,Civil Labor Force,18047064
+01-01-2008,California,Minimum Wage,8
+01-01-2008,California,Per Capita Per Person,43391
+01-01-2008,California,Total Personal Income,1581045.9
+01-01-2008,Florida,Civil Labor Force,9166494
+01-01-2008,Florida,Minimum Wage,6.79
+01-01-2008,Florida,Per Capita Per Person,39185
+01-01-2008,Florida,Total Personal Income,722493.4
+01-01-2008,New York,Civil Labor Force,9577044
+01-01-2008,New York,Minimum Wage,7.15
+01-01-2008,New York,Per Capita Per Person,47909
+01-01-2008,New York,Total Personal Income,922840.8
+01-01-2008,Texas,Civil Labor Force,11551722
+01-01-2008,Texas,Minimum Wage,5.85
+01-01-2008,Texas,Per Capita Per Person,39841
+01-01-2008,Texas,Total Personal Income,935125.7
+01-01-2009,California,Civil Labor Force,18341252
+01-01-2009,California,Minimum Wage,8
+01-01-2009,California,Per Capita Per Person,41660
+01-01-2009,California,Total Personal Income,1539232.3
+01-01-2009,Florida,Civil Labor Force,9052178
+01-01-2009,Florida,Minimum Wage,7.21
+01-01-2009,Florida,Per Capita Per Person,36777
+01-01-2009,Florida,Total Personal Income,688709.2
+01-01-2009,New York,Civil Labor Force,9719617
+01-01-2009,New York,Minimum Wage,7.15
+01-01-2009,New York,Per Capita Per Person,46936
+01-01-2009,New York,Total Personal Income,889216.8
+01-01-2009,Texas,Civil Labor Force,11794357
+01-01-2009,Texas,Minimum Wage,6.55
+01-01-2009,Texas,Per Capita Per Person,37234
+01-01-2009,Texas,Total Personal Income,937065.7
+01-01-2010,California,Civil Labor Force,18288466
+01-01-2010,California,Minimum Wage,8
+01-01-2010,California,Per Capita Per Person,43138
+01-01-2010,California,Total Personal Income,1576815.7
+01-01-2010,Florida,Civil Labor Force,9011633
+01-01-2010,Florida,Minimum Wage,7.25
+01-01-2010,Florida,Per Capita Per Person,38778
+01-01-2010,Florida,Total Personal Income,711849.4
+01-01-2010,New York,Civil Labor Force,9644070
+01-01-2010,New York,Minimum Wage,7.25
+01-01-2010,New York,Per Capita Per Person,48579
+01-01-2010,New York,Total Personal Income,929774.8
+01-01-2010,Texas,Civil Labor Force,12108919
+01-01-2010,Texas,Minimum Wage,7.25
+01-01-2010,Texas,Per Capita Per Person,38910
+01-01-2010,Texas,Total Personal Income,952994.9
+01-01-2011,California,Civil Labor Force,18363805
+01-01-2011,California,Minimum Wage,8
+01-01-2011,California,Per Capita Per Person,45509
+01-01-2011,California,Total Personal Income,1696444.5
+01-01-2011,Florida,Civil Labor Force,9251721
+01-01-2011,Florida,Minimum Wage,7.25
+01-01-2011,Florida,Per Capita Per Person,40433
+01-01-2011,Florida,Total Personal Income,758764.6
+01-01-2011,New York,Civil Labor Force,9559651
+01-01-2011,New York,Minimum Wage,7.25
+01-01-2011,New York,Per Capita Per Person,50775
+01-01-2011,New York,Total Personal Income,993535
+01-01-2011,Texas,Civil Labor Force,12391831
+01-01-2011,Texas,Minimum Wage,7.25
+01-01-2011,Texas,Per Capita Per Person,41937
+01-01-2011,Texas,Total Personal Income,1053245.2
+01-01-2012,California,Civil Labor Force,18456650
+01-01-2012,California,Minimum Wage,8
+01-01-2012,California,Per Capita Per Person,47794
+01-01-2012,California,Total Personal Income,1775723.2
+01-01-2012,Florida,Civil Labor Force,9292160
+01-01-2012,Florida,Minimum Wage,7.67
+01-01-2012,Florida,Per Capita Per Person,41204
+01-01-2012,Florida,Total Personal Income,783296.3
+01-01-2012,New York,Civil Labor Force,9564435
+01-01-2012,New York,Minimum Wage,7.25
+01-01-2012,New York,Per Capita Per Person,52628
+01-01-2012,New York,Total Personal Income,1020188.8
+01-01-2012,Texas,Civil Labor Force,12571937
+01-01-2012,Texas,Minimum Wage,7.25
+01-01-2012,Texas,Per Capita Per Person,43863
+01-01-2012,Texas,Total Personal Income,1126725.3
+01-01-2013,California,Civil Labor Force,18564212
+01-01-2013,California,Minimum Wage,8
+01-01-2013,California,Per Capita Per Person,48076
+01-01-2013,California,Total Personal Income,1801626.6
+01-01-2013,Florida,Civil Labor Force,9383321
+01-01-2013,Florida,Minimum Wage,7.79
+01-01-2013,Florida,Per Capita Per Person,40733
+01-01-2013,Florida,Total Personal Income,784880
+01-01-2013,New York,Civil Labor Force,9643243
+01-01-2013,New York,Minimum Wage,7.25
+01-01-2013,New York,Per Capita Per Person,52875
+01-01-2013,New York,Total Personal Income,1038161.3
+01-01-2013,Texas,Civil Labor Force,12743658
+01-01-2013,Texas,Minimum Wage,7.25
+01-01-2013,Texas,Per Capita Per Person,44396
+01-01-2013,Texas,Total Personal Income,1152225.2
+01-01-2014,California,Civil Labor Force,18569356
+01-01-2014,California,Minimum Wage,9
+01-01-2014,California,Per Capita Per Person,50619
+01-01-2014,California,Total Personal Income,1902645.1
+01-01-2014,Florida,Civil Labor Force,9479786
+01-01-2014,Florida,Minimum Wage,7.93
+01-01-2014,Florida,Per Capita Per Person,42865
+01-01-2014,Florida,Total Personal Income,822886.5
+01-01-2014,New York,Civil Labor Force,9568507
+01-01-2014,New York,Minimum Wage,8
+01-01-2014,New York,Per Capita Per Person,54495
+01-01-2014,New York,Total Personal Income,1069979.9
+01-01-2014,Texas,Civil Labor Force,12926206
+01-01-2014,Texas,Minimum Wage,7.25
+01-01-2014,Texas,Per Capita Per Person,46739
+01-01-2014,Texas,Total Personal Income,1229454.9
+01-01-2015,California,Civil Labor Force,18794302
+01-01-2015,California,Minimum Wage,9
+01-01-2015,California,Per Capita Per Person,53817
+01-01-2015,California,Total Personal Income,2055502.8
+01-01-2015,Florida,Civil Labor Force,9588873
+01-01-2015,Florida,Minimum Wage,8.05
+01-01-2015,Florida,Per Capita Per Person,44945
+01-01-2015,Florida,Total Personal Income,890419
+01-01-2015,New York,Civil Labor Force,9524954
+01-01-2015,New York,Minimum Wage,8.75
+01-01-2015,New York,Per Capita Per Person,56603
+01-01-2015,New York,Total Personal Income,1118656.5
+01-01-2015,Texas,Civil Labor Force,13045727
+01-01-2015,Texas,Minimum Wage,7.25
+01-01-2015,Texas,Per Capita Per Person,46760
+01-01-2015,Texas,Total Personal Income,1285232.6
+01-01-2016,California,Civil Labor Force,18917326
+01-01-2016,California,Minimum Wage,10
+01-01-2016,California,Per Capita Per Person,55863
+01-01-2016,California,Total Personal Income,2160710.9
+01-01-2016,Florida,Civil Labor Force,9746916
+01-01-2016,Florida,Minimum Wage,8.05
+01-01-2016,Florida,Per Capita Per Person,45720
+01-01-2016,Florida,Total Personal Income,921364.3
+01-01-2016,New York,Civil Labor Force,9554664
+01-01-2016,New York,Minimum Wage,9
+01-01-2016,New York,Per Capita Per Person,58392
+01-01-2016,New York,Total Personal Income,1165397.6
+01-01-2016,Texas,Civil Labor Force,13224910
+01-01-2016,Texas,Minimum Wage,7.25
+01-01-2016,Texas,Per Capita Per Person,45862
+01-01-2016,Texas,Total Personal Income,1262423.3
+01-01-2017,California,Civil Labor Force,19107737
+01-01-2017,California,Minimum Wage,10.5
+01-01-2017,California,Per Capita Per Person,58214
+01-01-2017,California,Total Personal Income,2251305.9
+01-01-2017,Florida,Civil Labor Force,9895826
+01-01-2017,Florida,Minimum Wage,8.1
+01-01-2017,Florida,Per Capita Per Person,48439
+01-01-2017,Florida,Total Personal Income,983406.3
+01-01-2017,New York,Civil Labor Force,9786877
+01-01-2017,New York,Minimum Wage,9.7
+01-01-2017,New York,Per Capita Per Person,62196
+01-01-2017,New York,Total Personal Income,1228098.1
+01-01-2017,Texas,Civil Labor Force,13383543
+01-01-2017,Texas,Minimum Wage,7.25
+01-01-2017,Texas,Per Capita Per Person,48518
+01-01-2017,Texas,Total Personal Income,1332393.6
+01-01-2018,California,Civil Labor Force,19196954
+01-01-2018,California,Minimum Wage,11
+01-01-2018,California,Per Capita Per Person,60984
+01-01-2018,California,Total Personal Income,2359551.7
+01-01-2018,Florida,Civil Labor Force,10035695
+01-01-2018,Florida,Minimum Wage,8.25
+01-01-2018,Florida,Per Capita Per Person,51009
+01-01-2018,Florida,Total Personal Income,1053639.7
+01-01-2018,New York,Civil Labor Force,9802719
+01-01-2018,New York,Minimum Wage,10.4
+01-01-2018,New York,Per Capita Per Person,64218
+01-01-2018,New York,Total Personal Income,1279906.8
+01-01-2018,Texas,Civil Labor Force,13599540
+01-01-2018,Texas,Minimum Wage,7.25
+01-01-2018,Texas,Per Capita Per Person,51341
+01-01-2018,Texas,Total Personal Income,1429974.3
+01-01-2019,California,Civil Labor Force,19367080
+01-01-2019,California,Minimum Wage,12
+01-01-2019,California,Per Capita Per Person,64174
+01-01-2019,California,Total Personal Income,2500309.9
+01-01-2019,Florida,Civil Labor Force,10180557
+01-01-2019,Florida,Minimum Wage,8.46
+01-01-2019,Florida,Per Capita Per Person,53640
+01-01-2019,Florida,Total Personal Income,1128766.9
+01-01-2019,New York,Civil Labor Force,9843200
+01-01-2019,New York,Minimum Wage,11.1
+01-01-2019,New York,Per Capita Per Person,66415
+01-01-2019,New York,Total Personal Income,1328377.6
+01-01-2019,Texas,Civil Labor Force,13800436
+01-01-2019,Texas,Minimum Wage,7.25
+01-01-2019,Texas,Per Capita Per Person,53247
+01-01-2019,Texas,Total Personal Income,1514937.8
+01-01-2020,California,Civil Labor Force,19590529
+01-01-2020,California,Minimum Wage,12
+01-01-2020,California,Per Capita Per Person,70061
+01-01-2020,California,Total Personal Income,2620751.8
+01-01-2020,Florida,Civil Labor Force,10387092
+01-01-2020,Florida,Minimum Wage,8.56
+01-01-2020,Florida,Per Capita Per Person,56561
+01-01-2020,Florida,Total Personal Income,1173940.8
+01-01-2020,New York,Civil Labor Force,9909100
+01-01-2020,New York,Minimum Wage,11.8
+01-01-2020,New York,Per Capita Per Person,69873
+01-01-2020,New York,Total Personal Income,1350053.9
+01-01-2020,Texas,Civil Labor Force,14064669
+01-01-2020,Texas,Minimum Wage,7.25
+01-01-2020,Texas,Per Capita Per Person,55118
+01-01-2020,Texas,Total Personal Income,1553244.2
+01-01-2021,California,Civil Labor Force,18730775
+01-01-2021,California,Minimum Wage,13
+01-01-2021,California,Per Capita Per Person,76991
+01-01-2021,California,Total Personal Income,3097752.7
+01-01-2021,Florida,Civil Labor Force,10146298
+01-01-2021,Florida,Minimum Wage,10
+01-01-2021,Florida,Per Capita Per Person,63078
+01-01-2021,Florida,Total Personal Income,1413941.9
+01-01-2021,New York,Civil Labor Force,9529706
+01-01-2021,New York,Minimum Wage,12.5
+01-01-2021,New York,Per Capita Per Person,75948
+01-01-2021,New York,Total Personal Income,1566720.1
+01-01-2021,Texas,Civil Labor Force,14146900
+01-01-2021,Texas,Minimum Wage,7.25
+01-01-2021,Texas,Per Capita Per Person,60548
+01-01-2021,Texas,Total Personal Income,1839896.9
+01-01-2022,California,Civil Labor Force,19200001
+01-01-2022,California,Minimum Wage,14
+01-01-2022,California,Per Capita Per Person,77036
+01-01-2022,California,Total Personal Income,2969021.5
+01-01-2022,Florida,Civil Labor Force,10595755
+01-01-2022,Florida,Minimum Wage,10
+01-01-2022,Florida,Per Capita Per Person,64806
+01-01-2022,Florida,Total Personal Income,1397659.1
+01-01-2022,New York,Civil Labor Force,9602911
+01-01-2022,New York,Minimum Wage,13.2
+01-01-2022,New York,Per Capita Per Person,75407
+01-01-2022,New York,Total Personal Income,1467916.4
+01-01-2022,Texas,Civil Labor Force,14536799
+01-01-2022,Texas,Minimum Wage,7.25
+01-01-2022,Texas,Per Capita Per Person,62586
+01-01-2022,Texas,Total Personal Income,1825797.9

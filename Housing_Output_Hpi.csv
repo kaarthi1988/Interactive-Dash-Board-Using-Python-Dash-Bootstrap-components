@@ -1,0 +1,1141 @@
+﻿observation_date,State,Housing,Housing Values
+01-01-2000,California,HPI,260.97
+01-01-2000,California,Housing Permits,11951.086643014
+01-01-2000,California,Total Personal income,1092962.9
+01-01-2000,Florida,HPI,200.78
+01-01-2000,Florida,Housing Permits,11628.801210835
+01-01-2000,Florida,Total Personal income,460076
+01-01-2000,NewYork,HPI,335.61
+01-01-2000,NewYork,Housing Permits,2246
+01-01-2000,NewYork,Total Personal income,665377
+01-01-2000,Texas,HPI,158.95
+01-01-2000,Texas,Housing Permits,10623.766520203
+01-01-2000,Texas,Total Personal income,575999
+01-04-2000,California,HPI,268
+01-04-2000,California,Housing Permits,10757.563256773
+01-04-2000,California,Total Personal income,1112732.3
+01-04-2000,Florida,HPI,204.36
+01-04-2000,Florida,Housing Permits,11212.697294425
+01-04-2000,Florida,Total Personal income,466519.1
+01-04-2000,NewYork,HPI,345.64
+01-04-2000,NewYork,Housing Permits,4511
+01-04-2000,NewYork,Total Personal income,676790.3
+01-04-2000,Texas,HPI,161.6
+01-04-2000,Texas,Housing Permits,10122.885410723
+01-04-2000,Texas,Total Personal income,586305.4
+01-07-2000,California,HPI,276.99
+01-07-2000,California,Housing Permits,10824.2487003
+01-07-2000,California,Total Personal income,1150264.1
+01-07-2000,Florida,HPI,208.67
+01-07-2000,Florida,Housing Permits,10747.002469418
+01-07-2000,Florida,Total Personal income,475356.3
+01-07-2000,NewYork,HPI,355.74
+01-07-2000,NewYork,Housing Permits,3874
+01-07-2000,NewYork,Total Personal income,687173.1
+01-07-2000,Texas,HPI,164
+01-07-2000,Texas,Housing Permits,10384.328715586
+01-07-2000,Texas,Total Personal income,598118.8
+01-10-2000,California,HPI,285.56
+01-10-2000,California,Housing Permits,11611.500512469
+01-10-2000,California,Total Personal income,1154241
+01-10-2000,Florida,HPI,213.02
+01-10-2000,Florida,Housing Permits,11826.505918104
+01-10-2000,Florida,Total Personal income,484400.8
+01-10-2000,NewYork,HPI,361.17
+01-10-2000,NewYork,Housing Permits,3534
+01-10-2000,NewYork,Total Personal income,703516.7
+01-10-2000,Texas,HPI,165.91
+01-10-2000,Texas,Housing Permits,11678.305482328
+01-10-2000,Texas,Total Personal income,606530.2
+01-01-2001,California,HPI,296.6
+01-01-2001,California,Housing Permits,15950.574450486
+01-01-2001,California,Total Personal income,1175565
+01-01-2001,Florida,HPI,219.19
+01-01-2001,Florida,Housing Permits,12934.762550234
+01-01-2001,Florida,Total Personal income,493228.4
+01-01-2001,NewYork,HPI,369.33
+01-01-2001,NewYork,Housing Permits,1832
+01-01-2001,NewYork,Total Personal income,713520.7
+01-01-2001,Texas,HPI,170.6
+01-01-2001,Texas,Housing Permits,13247.439058061
+01-01-2001,Texas,Total Personal income,630080.5
+01-04-2001,California,HPI,305.67
+01-04-2001,California,Housing Permits,12151.756636518
+01-04-2001,California,Total Personal income,1173015.5
+01-04-2001,Florida,HPI,224.7
+01-04-2001,Florida,Housing Permits,12907.224265792
+01-04-2001,Florida,Total Personal income,498291.3
+01-04-2001,NewYork,HPI,377.51
+01-04-2001,NewYork,Housing Permits,3843
+01-04-2001,NewYork,Total Personal income,706653.2
+01-04-2001,Texas,HPI,172.86
+01-04-2001,Texas,Housing Permits,12275.00193886
+01-04-2001,Texas,Total Personal income,631787.4
+01-07-2001,California,HPI,312.1
+01-07-2001,California,Housing Permits,10294.777187788
+01-07-2001,California,Total Personal income,1166764.8
+01-07-2001,Florida,HPI,229.86
+01-07-2001,Florida,Housing Permits,13731.699217329
+01-07-2001,Florida,Total Personal income,498801.5
+01-07-2001,NewYork,HPI,387.88
+01-07-2001,NewYork,Housing Permits,4272
+01-07-2001,NewYork,Total Personal income,718245.2
+01-07-2001,Texas,HPI,174.14
+01-07-2001,Texas,Housing Permits,11766.473832766
+01-07-2001,Texas,Total Personal income,631050
+01-10-2001,California,HPI,316.48
+01-10-2001,California,Housing Permits,12003.892148034
+01-10-2001,California,Total Personal income,1162120.1
+01-10-2001,Florida,HPI,235.4
+01-10-2001,Florida,Housing Permits,11254.746555252
+01-10-2001,Florida,Total Personal income,499020.4
+01-10-2001,NewYork,HPI,394.73
+01-10-2001,NewYork,Housing Permits,3763
+01-10-2001,NewYork,Total Personal income,699251.3
+01-10-2001,Texas,HPI,176.09
+01-10-2001,Texas,Housing Permits,11930.713099249
+01-10-2001,Texas,Total Personal income,631402.9
+01-01-2002,California,HPI,324.94
+01-01-2002,California,Housing Permits,11799.72924619
+01-01-2002,California,Total Personal income,1171907.9
+01-01-2002,Florida,HPI,240.09
+01-01-2002,Florida,Housing Permits,16015.533329121
+01-01-2002,Florida,Total Personal income,505526.9
+01-01-2002,NewYork,HPI,404.38
+01-01-2002,NewYork,Housing Permits,2772
+01-01-2002,NewYork,Total Personal income,699534.5
+01-01-2002,Texas,HPI,176.61
+01-01-2002,Texas,Housing Permits,12938.201974123
+01-01-2002,Texas,Total Personal income,631440.4
+01-04-2002,California,HPI,335.96
+01-04-2002,California,Housing Permits,12554.27242919
+01-04-2002,California,Total Personal income,1182603.6
+01-04-2002,Florida,HPI,247.41
+01-04-2002,Florida,Housing Permits,14197.856579085
+01-04-2002,Florida,Total Personal income,511728.7
+01-04-2002,NewYork,HPI,417.18
+01-04-2002,NewYork,Housing Permits,4070
+01-04-2002,NewYork,Total Personal income,710217.7
+01-04-2002,Texas,HPI,178.1
+01-04-2002,Texas,Housing Permits,13214.354852471
+01-04-2002,Texas,Total Personal income,637386.1
+01-07-2002,California,HPI,348.61
+01-07-2002,California,Housing Permits,13594.165486929
+01-07-2002,California,Total Personal income,1190704.7
+01-07-2002,Florida,HPI,254.4
+01-07-2002,Florida,Housing Permits,15896.685469342
+01-07-2002,Florida,Total Personal income,516224.1
+01-07-2002,NewYork,HPI,429.81
+01-07-2002,NewYork,Housing Permits,5227
+01-07-2002,NewYork,Total Personal income,709325.7
+01-07-2002,Texas,HPI,180.87
+01-07-2002,Texas,Housing Permits,13195.348645186
+01-07-2002,Texas,Total Personal income,641595.8
+01-10-2002,California,HPI,358.8
+01-10-2002,California,Housing Permits,18188.640594645
+01-10-2002,California,Total Personal income,1203907.6
+01-10-2002,Florida,HPI,260.16
+01-10-2002,Florida,Housing Permits,16077.830006831
+01-10-2002,Florida,Total Personal income,523675.6
+01-10-2002,NewYork,HPI,439.1
+01-10-2002,NewYork,Housing Permits,4052
+01-10-2002,NewYork,Total Personal income,711166.6
+01-10-2002,Texas,HPI,182.77
+01-10-2002,Texas,Housing Permits,13349.293853493
+01-10-2002,Texas,Total Personal income,647350.3
+01-01-2003,California,HPI,367.09
+01-01-2003,California,Housing Permits,15204.024912807
+01-01-2003,California,Total Personal income,1214766.6
+01-01-2003,Florida,HPI,265.71
+01-01-2003,Florida,Housing Permits,15636.638766713
+01-01-2003,Florida,Total Personal income,528488.2
+01-01-2003,NewYork,HPI,448.93
+01-01-2003,NewYork,Housing Permits,2526
+01-01-2003,NewYork,Total Personal income,701640.3
+01-01-2003,Texas,HPI,183.64
+01-01-2003,Texas,Housing Permits,13289.836671241
+01-01-2003,Texas,Total Personal income,653510.2
+01-04-2003,California,HPI,373.97
+01-04-2003,California,Housing Permits,14986.308611296
+01-04-2003,California,Total Personal income,1231040.6
+01-04-2003,Florida,HPI,272.13
+01-04-2003,Florida,Housing Permits,16770.110967399
+01-04-2003,Florida,Total Personal income,532783.9
+01-04-2003,NewYork,HPI,459.81
+01-04-2003,NewYork,Housing Permits,4050
+01-04-2003,NewYork,Total Personal income,714468
+01-04-2003,Texas,HPI,184.82
+01-04-2003,Texas,Housing Permits,14020.43966167
+01-04-2003,Texas,Total Personal income,661370
+01-07-2003,California,HPI,386.65
+01-07-2003,California,Housing Permits,15878.800718509
+01-07-2003,California,Total Personal income,1250937.1
+01-07-2003,Florida,HPI,278.66
+01-07-2003,Florida,Housing Permits,16280.802093174
+01-07-2003,Florida,Total Personal income,543326.1
+01-07-2003,NewYork,HPI,466.89
+01-07-2003,NewYork,Housing Permits,4289
+01-07-2003,NewYork,Total Personal income,722234.4
+01-07-2003,Texas,HPI,185.43
+01-07-2003,Texas,Housing Permits,14388.672695688
+01-07-2003,Texas,Total Personal income,669230.1
+01-10-2003,California,HPI,411.36
+01-10-2003,California,Housing Permits,20612.78299332
+01-10-2003,California,Total Personal income,1265672.4
+01-10-2003,Florida,HPI,291.61
+01-10-2003,Florida,Housing Permits,18543.553390096
+01-10-2003,Florida,Total Personal income,556867.1
+01-10-2003,NewYork,HPI,488.76
+01-10-2003,NewYork,Housing Permits,4660
+01-10-2003,NewYork,Total Personal income,731878.5
+01-10-2003,Texas,HPI,186.56
+01-10-2003,Texas,Housing Permits,15302.282676186
+01-10-2003,Texas,Total Personal income,675149.4
+01-01-2004,California,HPI,424.63
+01-01-2004,California,Housing Permits,16146.903637803
+01-01-2004,California,Total Personal income,1285348.8
+01-01-2004,Florida,HPI,300.48
+01-01-2004,Florida,Housing Permits,18217.998637429
+01-01-2004,Florida,Total Personal income,567454.8
+01-01-2004,NewYork,HPI,499.09
+01-01-2004,NewYork,Housing Permits,2716
+01-01-2004,NewYork,Total Personal income,728345.7
+01-01-2004,Texas,HPI,187.46
+01-01-2004,Texas,Housing Permits,14013.206805567
+01-01-2004,Texas,Total Personal income,681942.8
+01-04-2004,California,HPI,451.23
+01-04-2004,California,Housing Permits,16998.339534146
+01-04-2004,California,Total Personal income,1307329.4
+01-04-2004,Florida,HPI,314.62
+01-04-2004,Florida,Housing Permits,20671.641823498
+01-04-2004,Florida,Total Personal income,581082.6
+01-04-2004,NewYork,HPI,513.72
+01-04-2004,NewYork,Housing Permits,4468
+01-04-2004,NewYork,Total Personal income,741846.6
+01-04-2004,Texas,HPI,189.37
+01-04-2004,Texas,Housing Permits,15295.757144285
+01-04-2004,Texas,Total Personal income,689050.5
+01-07-2004,California,HPI,497.08
+01-07-2004,California,Housing Permits,16792.646210927
+01-07-2004,California,Total Personal income,1320853.4
+01-07-2004,Florida,HPI,334.32
+01-07-2004,Florida,Housing Permits,21616.298544289
+01-07-2004,Florida,Total Personal income,591701.5
+01-07-2004,NewYork,HPI,538.72
+01-07-2004,NewYork,Housing Permits,5556
+01-07-2004,NewYork,Total Personal income,756689.7
+01-07-2004,Texas,HPI,190.87
+01-07-2004,Texas,Housing Permits,14893.732715273
+01-07-2004,Texas,Total Personal income,699834.8
+01-10-2004,California,HPI,516.2
+01-10-2004,California,Housing Permits,17531.326661127
+01-10-2004,California,Total Personal income,1347157.3
+01-10-2004,Florida,HPI,349.61
+01-10-2004,Florida,Housing Permits,21678.597655572
+01-10-2004,Florida,Total Personal income,607773.1
+01-10-2004,NewYork,HPI,552.3
+01-10-2004,NewYork,Housing Permits,4831
+01-10-2004,NewYork,Total Personal income,770995.3
+01-10-2004,Texas,HPI,193.07
+01-10-2004,Texas,Housing Permits,14988.129908212
+01-10-2004,Texas,Total Personal income,714697.2
+01-01-2005,California,HPI,538.78
+01-01-2005,California,Housing Permits,16518.5009471
+01-01-2005,California,Total Personal income,1351103.9
+01-01-2005,Florida,HPI,368.28
+01-01-2005,Florida,Housing Permits,22021.547155515
+01-01-2005,Florida,Total Personal income,617325.8
+01-01-2005,NewYork,HPI,566.99
+01-01-2005,NewYork,Housing Permits,3183
+01-01-2005,NewYork,Total Personal income,759184.4
+01-01-2005,Texas,HPI,194.06
+01-01-2005,Texas,Housing Permits,17110.452619656
+01-01-2005,Texas,Total Personal income,732005.3
+01-04-2005,California,HPI,570.35
+01-04-2005,California,Housing Permits,16795.443976471
+01-04-2005,California,Total Personal income,1375257.3
+01-04-2005,Florida,HPI,395.85
+01-04-2005,Florida,Housing Permits,24222.381615875
+01-04-2005,Florida,Total Personal income,631071.3
+01-04-2005,NewYork,HPI,585.74
+01-04-2005,NewYork,Housing Permits,5566
+01-04-2005,NewYork,Total Personal income,769566.5
+01-04-2005,Texas,HPI,197.22
+01-04-2005,Texas,Housing Permits,16914.179826305
+01-04-2005,Texas,Total Personal income,744626.4
+01-07-2005,California,HPI,598.85
+01-07-2005,California,Housing Permits,17147.359802814
+01-07-2005,California,Total Personal income,1400078.8
+01-07-2005,Florida,HPI,423.45
+01-07-2005,Florida,Housing Permits,22890.931151286
+01-07-2005,Florida,Total Personal income,644804.6
+01-07-2005,NewYork,HPI,604.95
+01-07-2005,NewYork,Housing Permits,5270
+01-07-2005,NewYork,Total Personal income,781692.2
+01-07-2005,Texas,HPI,200.39
+01-07-2005,Texas,Housing Permits,17509.907350138
+01-07-2005,Texas,Total Personal income,761141.9
+01-10-2005,California,HPI,625.57
+01-10-2005,California,Housing Permits,15046.808628511
+01-10-2005,California,Total Personal income,1425095.3
+01-10-2005,Florida,HPI,445.72
+01-10-2005,Florida,Housing Permits,19910.868614131
+01-10-2005,Florida,Total Personal income,657209.3
+01-10-2005,NewYork,HPI,618.64
+01-10-2005,NewYork,Housing Permits,4029
+01-10-2005,NewYork,Total Personal income,800169.8
+01-10-2005,Texas,HPI,202.73
+01-10-2005,Texas,Housing Permits,17948.403189728
+01-10-2005,Texas,Total Personal income,781329.9
+01-01-2006,California,HPI,638.54
+01-01-2006,California,Housing Permits,14210.746624945
+01-01-2006,California,Total Personal income,1472105.4
+01-01-2006,Florida,HPI,463.14
+01-01-2006,Florida,Housing Permits,22662.950964404
+01-01-2006,Florida,Total Personal income,677753.4
+01-01-2006,NewYork,HPI,629.62
+01-01-2006,NewYork,Housing Permits,3933
+01-01-2006,NewYork,Total Personal income,815868.9
+01-01-2006,Texas,HPI,205.14
+01-01-2006,Texas,Housing Permits,20191.099432751
+01-01-2006,Texas,Total Personal income,810488.1
+01-04-2006,California,HPI,644.4
+01-04-2006,California,Housing Permits,13498.2395059
+01-04-2006,California,Total Personal income,1482976.9
+01-04-2006,Florida,HPI,473.06
+01-04-2006,Florida,Housing Permits,18431.249774843
+01-04-2006,Florida,Total Personal income,688997
+01-04-2006,NewYork,HPI,631.55
+01-04-2006,NewYork,Housing Permits,4267
+01-04-2006,NewYork,Total Personal income,831234.8
+01-04-2006,Texas,HPI,208.37
+01-04-2006,Texas,Housing Permits,18044.826847348
+01-04-2006,Texas,Total Personal income,824387.9
+01-07-2006,California,HPI,646.49
+01-07-2006,California,Housing Permits,10680.045733521
+01-07-2006,California,Total Personal income,1500342.9
+01-07-2006,Florida,HPI,476.38
+01-07-2006,Florida,Housing Permits,16004.786460205
+01-07-2006,Florida,Total Personal income,693665.3
+01-07-2006,NewYork,HPI,630.87
+01-07-2006,NewYork,Housing Permits,4592
+01-07-2006,NewYork,Total Personal income,837998
+01-07-2006,Texas,HPI,211.46
+01-07-2006,Texas,Housing Permits,16306.036304024
+01-07-2006,Texas,Total Personal income,831883.1
+01-10-2006,California,HPI,642.76
+01-10-2006,California,Housing Permits,10546.743068322
+01-10-2006,California,Total Personal income,1517442.8
+01-10-2006,Florida,HPI,479.65
+01-10-2006,Florida,Housing Permits,12928.076483846
+01-10-2006,Florida,Total Personal income,701608.9
+01-10-2006,NewYork,HPI,638.96
+01-10-2006,NewYork,Housing Permits,4602
+01-10-2006,NewYork,Total Personal income,858988.9
+01-10-2006,Texas,HPI,214.36
+01-10-2006,Texas,Housing Permits,16788.157162236
+01-10-2006,Texas,Total Personal income,842999.6
+01-01-2007,California,HPI,633.98
+01-01-2007,California,Housing Permits,11884.252933601
+01-01-2007,California,Total Personal income,1544257.3
+01-01-2007,Florida,HPI,476.73
+01-01-2007,Florida,Housing Permits,10687.311537952
+01-01-2007,Florida,Total Personal income,709292.6
+01-01-2007,NewYork,HPI,642.08
+01-01-2007,NewYork,Housing Permits,4133
+01-01-2007,NewYork,Total Personal income,899532.5
+01-01-2007,Texas,HPI,217.15
+01-01-2007,Texas,Housing Permits,14350.903002546
+01-01-2007,Texas,Total Personal income,858039.2
+01-04-2007,California,HPI,623.34
+01-04-2007,California,Housing Permits,9462.603739243
+01-04-2007,California,Total Personal income,1560236.6
+01-04-2007,Florida,HPI,470.47
+01-04-2007,Florida,Housing Permits,9889.763554953
+01-04-2007,Florida,Total Personal income,720357.3
+01-04-2007,NewYork,HPI,639.97
+01-04-2007,NewYork,Housing Permits,4748
+01-04-2007,NewYork,Total Personal income,892803
+01-04-2007,Texas,HPI,220.79
+01-04-2007,Texas,Housing Permits,13184.554546125
+01-04-2007,Texas,Total Personal income,874080.7
+01-07-2007,California,HPI,600.05
+01-07-2007,California,Housing Permits,8577.770516634
+01-07-2007,California,Total Personal income,1562585.6
+01-07-2007,Florida,HPI,453.64
+01-07-2007,Florida,Housing Permits,8556.451410413
+01-07-2007,Florida,Total Personal income,723604.2
+01-07-2007,NewYork,HPI,630.76
+01-07-2007,NewYork,Housing Permits,5805
+01-07-2007,NewYork,Total Personal income,898971.8
+01-07-2007,Texas,HPI,221.53
+01-07-2007,Texas,Housing Permits,15333.028334639
+01-07-2007,Texas,Total Personal income,883677.9
+01-10-2007,California,HPI,575.57
+01-10-2007,California,Housing Permits,7998.806576622
+01-10-2007,California,Total Personal income,1578149.1
+01-10-2007,Florida,HPI,442.28
+01-10-2007,Florida,Housing Permits,6792.514588614
+01-10-2007,Florida,Total Personal income,725682.4
+01-10-2007,NewYork,HPI,632.66
+01-10-2007,NewYork,Housing Permits,5538
+01-10-2007,NewYork,Total Personal income,907132.2
+01-10-2007,Texas,HPI,223.18
+01-10-2007,Texas,Housing Permits,13928.161264324
+01-10-2007,Texas,Total Personal income,899811.9
+01-01-2008,California,HPI,543.28
+01-01-2008,California,Housing Permits,6351.698923338
+01-01-2008,California,Total Personal income,1581045.9
+01-01-2008,Florida,HPI,424.52
+01-01-2008,Florida,Housing Permits,7642.331344283
+01-01-2008,Florida,Total Personal income,722493.4
+01-01-2008,NewYork,HPI,635.97
+01-01-2008,NewYork,Housing Permits,3022
+01-01-2008,NewYork,Total Personal income,922840.8
+01-01-2008,Texas,HPI,224.43
+01-01-2008,Texas,Housing Permits,12898.366766676
+01-01-2008,Texas,Total Personal income,935125.7
+01-04-2008,California,HPI,498.42
+01-04-2008,California,Housing Permits,5894.361413973
+01-04-2008,California,Total Personal income,1602953.6
+01-04-2008,Florida,HPI,395.25
+01-04-2008,Florida,Housing Permits,5978.554644246
+01-04-2008,Florida,Total Personal income,743083.7
+01-04-2008,NewYork,HPI,623.99
+01-04-2008,NewYork,Housing Permits,3464
+01-04-2008,NewYork,Total Personal income,928947.7
+01-04-2008,Texas,HPI,225.14
+01-04-2008,Texas,Housing Permits,11965.057088612
+01-04-2008,Texas,Total Personal income,982017.6
+01-07-2008,California,HPI,460.59
+01-07-2008,California,Housing Permits,4810.588353021
+01-07-2008,California,Total Personal income,1598349.5
+01-07-2008,Florida,HPI,363.16
+01-07-2008,Florida,Housing Permits,4866.542395628
+01-07-2008,Florida,Total Personal income,726229.2
+01-07-2008,NewYork,HPI,607.85
+01-07-2008,NewYork,Housing Permits,4389
+01-07-2008,NewYork,Total Personal income,921698
+01-07-2008,Texas,HPI,224.37
+01-07-2008,Texas,Housing Permits,10769.74419192
+01-07-2008,Texas,Total Personal income,976561.8
+01-10-2008,California,HPI,444.69
+01-10-2008,California,Housing Permits,4067.455013646
+01-10-2008,California,Total Personal income,1570829.3
+01-10-2008,Florida,HPI,344.61
+01-10-2008,Florida,Housing Permits,3866.670789401
+01-10-2008,Florida,Total Personal income,712173.8
+01-10-2008,NewYork,HPI,602.06
+01-10-2008,NewYork,Housing Permits,2087
+01-10-2008,NewYork,Total Personal income,908339.6
+01-10-2008,Texas,HPI,224.75
+01-10-2008,Texas,Housing Permits,9532.004723851
+01-10-2008,Texas,Total Personal income,980292.1
+01-01-2009,California,HPI,440.71
+01-01-2009,California,Housing Permits,2610.871886919
+01-01-2009,California,Total Personal income,1539232.3
+01-01-2009,Florida,HPI,350.31
+01-01-2009,Florida,Housing Permits,2905.650031531
+01-01-2009,Florida,Total Personal income,688709.2
+01-01-2009,NewYork,HPI,609.22
+01-01-2009,NewYork,Housing Permits,1173
+01-01-2009,NewYork,Total Personal income,889216.8
+01-01-2009,Texas,HPI,227.4
+01-01-2009,Texas,Housing Permits,6891.837237159
+01-01-2009,Texas,Total Personal income,937065.7
+01-04-2009,California,HPI,420.6
+01-04-2009,California,Housing Permits,2864.331670986
+01-04-2009,California,Total Personal income,1540030.7
+01-04-2009,Florida,HPI,332.4
+01-04-2009,Florida,Housing Permits,2188.752131865
+01-04-2009,Florida,Total Personal income,687078.6
+01-04-2009,NewYork,HPI,596.12
+01-04-2009,NewYork,Housing Permits,1420
+01-04-2009,NewYork,Total Personal income,910319.7
+01-04-2009,Texas,HPI,225.89
+01-04-2009,Texas,Housing Permits,6678.803053252
+01-04-2009,Texas,Total Personal income,921956.6
+01-07-2009,California,HPI,411.32
+01-07-2009,California,Housing Permits,2846.126419906
+01-07-2009,California,Total Personal income,1533392
+01-07-2009,Florida,HPI,313.33
+01-07-2009,Florida,Housing Permits,3007.084366636
+01-07-2009,Florida,Total Personal income,680194.8
+01-07-2009,NewYork,HPI,582
+01-07-2009,NewYork,Housing Permits,1610
+01-07-2009,NewYork,Total Personal income,907910
+01-07-2009,Texas,HPI,223.69
+01-07-2009,Texas,Housing Permits,7106.767919737
+01-07-2009,Texas,Total Personal income,913513
+01-10-2009,California,HPI,412.63
+01-10-2009,California,Housing Permits,3059.626931476
+01-10-2009,California,Total Personal income,1546619.7
+01-10-2009,Florida,HPI,305.39
+01-10-2009,Florida,Housing Permits,3124.854607188
+01-10-2009,Florida,Total Personal income,687948.9
+01-10-2009,NewYork,HPI,576.83
+01-10-2009,NewYork,Housing Permits,1263
+01-10-2009,NewYork,Total Personal income,917306.5
+01-10-2009,Texas,HPI,223.12
+01-10-2009,Texas,Housing Permits,5898.184658059
+01-10-2009,Texas,Total Personal income,921347.5
+01-01-2010,California,HPI,409.57
+01-01-2010,California,Housing Permits,4049.172718393
+01-01-2010,California,Total Personal income,1576815.7
+01-01-2010,Florida,HPI,299.62
+01-01-2010,Florida,Housing Permits,3824.927625356
+01-01-2010,Florida,Total Personal income,711849.4
+01-01-2010,NewYork,HPI,573.13
+01-01-2010,NewYork,Housing Permits,848
+01-01-2010,NewYork,Total Personal income,929774.8
+01-01-2010,Texas,HPI,221.68
+01-01-2010,Texas,Housing Permits,6970.837530745
+01-01-2010,Texas,Total Personal income,952994.9
+01-04-2010,California,HPI,408.37
+01-04-2010,California,Housing Permits,3192.805497139
+01-04-2010,California,Total Personal income,1604032.1
+01-04-2010,Florida,HPI,291.27
+01-04-2010,Florida,Housing Permits,3614.379907917
+01-04-2010,Florida,Total Personal income,726970.7
+01-04-2010,NewYork,HPI,569.48
+01-04-2010,NewYork,Housing Permits,1666
+01-04-2010,NewYork,Total Personal income,949792.4
+01-04-2010,Texas,HPI,221.88
+01-04-2010,Texas,Housing Permits,7390.131012965
+01-04-2010,Texas,Total Personal income,974170.4
+01-07-2010,California,HPI,410.61
+01-07-2010,California,Housing Permits,3443.227935349
+01-07-2010,California,Total Personal income,1609613.5
+01-07-2010,Florida,HPI,294.71
+01-07-2010,Florida,Housing Permits,2853.246717393
+01-07-2010,Florida,Total Personal income,736954.5
+01-07-2010,NewYork,HPI,577.55
+01-07-2010,NewYork,Housing Permits,1753
+01-07-2010,NewYork,Total Personal income,946421.2
+01-07-2010,Texas,HPI,223.26
+01-07-2010,Texas,Housing Permits,6777.687336742
+01-07-2010,Texas,Total Personal income,992376.8
+01-10-2010,California,HPI,406.09
+01-10-2010,California,Housing Permits,3378.133125627
+01-10-2010,California,Total Personal income,1649528.6
+01-10-2010,Florida,HPI,289.43
+01-10-2010,Florida,Housing Permits,2867.77132329
+01-10-2010,Florida,Total Personal income,746986
+01-10-2010,NewYork,HPI,577.39
+01-10-2010,NewYork,Housing Permits,1575
+01-10-2010,NewYork,Total Personal income,947582.7
+01-10-2010,Texas,HPI,222.26
+01-10-2010,Texas,Housing Permits,5474.640647765
+01-10-2010,Texas,Total Personal income,1008668.9
+01-01-2011,California,HPI,391.58
+01-01-2011,California,Housing Permits,3419.225378332
+01-01-2011,California,Total Personal income,1696444.5
+01-01-2011,Florida,HPI,275.62
+01-01-2011,Florida,Housing Permits,2974.724877059
+01-01-2011,Florida,Total Personal income,758764.6
+01-01-2011,NewYork,HPI,568.72
+01-01-2011,NewYork,Housing Permits,1454
+01-01-2011,NewYork,Total Personal income,993535
+01-01-2011,Texas,HPI,218.99
+01-01-2011,Texas,Housing Permits,5976.504273651
+01-01-2011,Texas,Total Personal income,1053245.2
+01-04-2011,California,HPI,385.29
+01-04-2011,California,Housing Permits,3641.239698686
+01-04-2011,California,Total Personal income,1704323.9
+01-04-2011,Florida,HPI,267.22
+01-04-2011,Florida,Housing Permits,3111.174713734
+01-04-2011,Florida,Total Personal income,767620.5
+01-04-2011,NewYork,HPI,560.64
+01-04-2011,NewYork,Housing Permits,1495
+01-04-2011,NewYork,Total Personal income,991465.4
+01-04-2011,Texas,HPI,217.95
+01-04-2011,Texas,Housing Permits,7489.13549947
+01-04-2011,Texas,Total Personal income,1068266.2
+01-07-2011,California,HPI,386.89
+01-07-2011,California,Housing Permits,2299.265306793
+01-07-2011,California,Total Personal income,1725292.8
+01-07-2011,Florida,HPI,270
+01-07-2011,Florida,Housing Permits,4067.912153081
+01-07-2011,Florida,Total Personal income,773748.8
+01-07-2011,NewYork,HPI,558.07
+01-07-2011,NewYork,Housing Permits,1469
+01-07-2011,NewYork,Total Personal income,997679.5
+01-07-2011,Texas,HPI,219.79
+01-07-2011,Texas,Housing Permits,7736.499206792
+01-07-2011,Texas,Total Personal income,1085615.2
+01-10-2011,California,HPI,385.71
+01-10-2011,California,Housing Permits,3485.432163015
+01-10-2011,California,Total Personal income,1727650.9
+01-10-2011,Florida,HPI,272.46
+01-10-2011,Florida,Housing Permits,3644.63602172
+01-10-2011,Florida,Total Personal income,779059.9
+01-10-2011,NewYork,HPI,562.4
+01-10-2011,NewYork,Housing Permits,1616
+01-10-2011,NewYork,Total Personal income,998245.5
+01-10-2011,Texas,HPI,219.97
+01-10-2011,Texas,Housing Permits,8678.152656565
+01-10-2011,Texas,Total Personal income,1092305.3
+01-01-2012,California,HPI,381.42
+01-01-2012,California,Housing Permits,2895.736151274
+01-01-2012,California,Total Personal income,1775723.2
+01-01-2012,Florida,HPI,267.08
+01-01-2012,Florida,Housing Permits,4548.251714025
+01-01-2012,Florida,Total Personal income,783296.3
+01-01-2012,NewYork,HPI,558.17
+01-01-2012,NewYork,Housing Permits,1478
+01-01-2012,NewYork,Total Personal income,1020188.8
+01-01-2012,Texas,HPI,219.87
+01-01-2012,Texas,Housing Permits,9876.83481015
+01-01-2012,Texas,Total Personal income,1126725.3
+01-04-2012,California,HPI,382.06
+01-04-2012,California,Housing Permits,3178.629603463
+01-04-2012,California,Total Personal income,1796915.4
+01-04-2012,Florida,HPI,265.08
+01-04-2012,Florida,Housing Permits,4418.650430021
+01-04-2012,Florida,Total Personal income,788471.5
+01-04-2012,NewYork,HPI,552.39
+01-04-2012,NewYork,Housing Permits,2406
+01-04-2012,NewYork,Total Personal income,1034158.1
+01-04-2012,Texas,HPI,221.37
+01-04-2012,Texas,Housing Permits,9331.470189307
+01-04-2012,Texas,Total Personal income,1137664.4
+01-07-2012,California,HPI,390.98
+01-07-2012,California,Housing Permits,4986.20960585
+01-07-2012,California,Total Personal income,1794568.1
+01-07-2012,Florida,HPI,271.45
+01-07-2012,Florida,Housing Permits,5016.398574433
+01-07-2012,Florida,Total Personal income,786468.9
+01-07-2012,NewYork,HPI,554.26
+01-07-2012,NewYork,Housing Permits,2394
+01-07-2012,NewYork,Total Personal income,1031417.7
+01-07-2012,Texas,HPI,223.33
+01-07-2012,Texas,Housing Permits,11221.464171544
+01-07-2012,Texas,Total Personal income,1132864.8
+01-10-2012,California,HPI,399.29
+01-10-2012,California,Housing Permits,5281.888941932
+01-10-2012,California,Total Personal income,1891845.4
+01-10-2012,Florida,HPI,275.22
+01-10-2012,Florida,Housing Permits,5512.025291418
+01-10-2012,Florida,Total Personal income,818047.6
+01-10-2012,NewYork,HPI,556.03
+01-10-2012,NewYork,Housing Permits,2395
+01-10-2012,NewYork,Total Personal income,1073401.8
+01-10-2012,Texas,HPI,224.93
+01-10-2012,Texas,Housing Permits,12133.704054855
+01-10-2012,Texas,Total Personal income,1174295.5
+01-01-2013,California,HPI,407.71
+01-01-2013,California,Housing Permits,6694.365362943
+01-01-2013,California,Total Personal income,1801626.6
+01-01-2013,Florida,HPI,278.94
+01-01-2013,Florida,Housing Permits,6153.45806796
+01-01-2013,Florida,Total Personal income,784880
+01-01-2013,NewYork,HPI,556.77
+01-01-2013,NewYork,Housing Permits,2188
+01-01-2013,NewYork,Total Personal income,1038161.3
+01-01-2013,Texas,HPI,226.6
+01-01-2013,Texas,Housing Permits,12290.373185591
+01-01-2013,Texas,Total Personal income,1152225.2
+01-04-2013,California,HPI,426.42
+01-04-2013,California,Housing Permits,7152.171282621
+01-04-2013,California,Total Personal income,1833423.1
+01-04-2013,Florida,HPI,288.23
+01-04-2013,Florida,Housing Permits,9200.683000742
+01-04-2013,Florida,Total Personal income,791103.5
+01-04-2013,NewYork,HPI,558.2
+01-04-2013,NewYork,Housing Permits,2593
+01-04-2013,NewYork,Total Personal income,1051013.9
+01-04-2013,Texas,HPI,230.67
+01-04-2013,Texas,Housing Permits,12668.819726049
+01-04-2013,Texas,Total Personal income,1169747.4
+01-07-2013,California,HPI,447.4
+01-07-2013,California,Housing Permits,7049.332110172
+01-07-2013,California,Total Personal income,1851647.7
+01-07-2013,Florida,HPI,295.6
+01-07-2013,Florida,Housing Permits,7093.334005566
+01-07-2013,Florida,Total Personal income,797988.9
+01-07-2013,NewYork,HPI,560.98
+01-07-2013,NewYork,Housing Permits,2847
+01-07-2013,NewYork,Total Personal income,1055917.2
+01-07-2013,Texas,HPI,234.56
+01-07-2013,Texas,Housing Permits,11969.700430339
+01-07-2013,Texas,Total Personal income,1181130.2
+01-10-2013,California,HPI,462.25
+01-10-2013,California,Housing Permits,6933.396592584
+01-10-2013,California,Total Personal income,1876843.6
+01-10-2013,Florida,HPI,303.13
+01-10-2013,Florida,Housing Permits,7654.145977512
+01-10-2013,Florida,Total Personal income,804443.9
+01-10-2013,NewYork,HPI,559.97
+01-10-2013,NewYork,Housing Permits,2854
+01-10-2013,NewYork,Total Personal income,1062100
+01-10-2013,Texas,HPI,237.29
+01-10-2013,Texas,Housing Permits,15536.750843553
+01-10-2013,Texas,Total Personal income,1191886.8
+01-01-2014,California,HPI,471.87
+01-01-2014,California,Housing Permits,5451.609651112
+01-01-2014,California,Total Personal income,1902645.1
+01-01-2014,Florida,HPI,307.4
+01-01-2014,Florida,Housing Permits,7408.03847804
+01-01-2014,Florida,Total Personal income,822886.5
+01-01-2014,NewYork,HPI,560.42
+01-01-2014,NewYork,Housing Permits,1222
+01-01-2014,NewYork,Total Personal income,1069979.9
+01-01-2014,Texas,HPI,241.28
+01-01-2014,Texas,Housing Permits,13722.366514329
+01-01-2014,Texas,Total Personal income,1229454.9
+01-04-2014,California,HPI,484.65
+01-04-2014,California,Housing Permits,7960.515049313
+01-04-2014,California,Total Personal income,1937630.9
+01-04-2014,Florida,HPI,315.8
+01-04-2014,Florida,Housing Permits,6978.287328039
+01-04-2014,Florida,Total Personal income,842313.7
+01-04-2014,NewYork,HPI,566.01
+01-04-2014,NewYork,Housing Permits,3226
+01-04-2014,NewYork,Total Personal income,1079346
+01-04-2014,Texas,HPI,247.39
+01-04-2014,Texas,Housing Permits,16842.792668316
+01-04-2014,Texas,Total Personal income,1252629.1
+01-07-2014,California,HPI,494.78
+01-07-2014,California,Housing Permits,6998.750781739
+01-07-2014,California,Total Personal income,1976434.3
+01-07-2014,Florida,HPI,322.56
+01-07-2014,Florida,Housing Permits,7699.666522935
+01-07-2014,Florida,Total Personal income,855898.2
+01-07-2014,NewYork,HPI,574.14
+01-07-2014,NewYork,Housing Permits,3683
+01-07-2014,NewYork,Total Personal income,1096303.9
+01-07-2014,Texas,HPI,251.87
+01-07-2014,Texas,Housing Permits,13946.876091172
+01-07-2014,Texas,Total Personal income,1267767.2
+01-10-2014,California,HPI,500.39
+01-10-2014,California,Housing Permits,9591.308168899
+01-10-2014,California,Total Personal income,2006161.7
+01-10-2014,Florida,HPI,328.47
+01-10-2014,Florida,Housing Permits,8004.263058171
+01-10-2014,Florida,Total Personal income,873042.9
+01-10-2014,NewYork,HPI,577.52
+01-10-2014,NewYork,Housing Permits,2217
+01-10-2014,NewYork,Total Personal income,1114373.3
+01-10-2014,Texas,HPI,254.91
+01-10-2014,Texas,Housing Permits,13746.457878397
+01-10-2014,Texas,Total Personal income,1280707.2
+01-01-2015,California,HPI,505.63
+01-01-2015,California,Housing Permits,9075.594544514
+01-01-2015,California,Total Personal income,2055502.8
+01-01-2015,Florida,HPI,335.81
+01-01-2015,Florida,Housing Permits,7588.103013312
+01-01-2015,Florida,Total Personal income,890419
+01-01-2015,NewYork,HPI,582.92
+01-01-2015,NewYork,Housing Permits,2353
+01-01-2015,NewYork,Total Personal income,1118656.5
+01-01-2015,Texas,HPI,258.64
+01-01-2015,Texas,Housing Permits,12483.529556999
+01-01-2015,Texas,Total Personal income,1285232.6
+01-04-2015,California,HPI,516.97
+01-04-2015,California,Housing Permits,7803.738609856
+01-04-2015,California,Total Personal income,2089561.3
+01-04-2015,Florida,HPI,344.01
+01-04-2015,Florida,Housing Permits,7805.256607395
+01-04-2015,Florida,Total Personal income,902353.3
+01-04-2015,NewYork,HPI,587.67
+01-04-2015,NewYork,Housing Permits,7351
+01-04-2015,NewYork,Total Personal income,1135761.4
+01-04-2015,Texas,HPI,265.09
+01-04-2015,Texas,Housing Permits,14945.342084898
+01-04-2015,Texas,Total Personal income,1279785.2
+01-07-2015,California,HPI,530.14
+01-07-2015,California,Housing Permits,8532.304156527
+01-07-2015,California,Total Personal income,2111103.4
+01-07-2015,Florida,HPI,352.52
+01-07-2015,Florida,Housing Permits,8267.660898047
+01-07-2015,Florida,Total Personal income,910074.5
+01-07-2015,NewYork,HPI,592.55
+01-07-2015,NewYork,Housing Permits,3800
+01-07-2015,NewYork,Total Personal income,1146983.5
+01-07-2015,Texas,HPI,270.8
+01-07-2015,Texas,Housing Permits,14894.367199802
+01-07-2015,Texas,Total Personal income,1282380.6
+01-10-2015,California,HPI,537.46
+01-10-2015,California,Housing Permits,6249.278134327
+01-10-2015,California,Total Personal income,2132030.8
+01-10-2015,Florida,HPI,359.47
+01-10-2015,Florida,Housing Permits,8603.129229229
+01-10-2015,Florida,Total Personal income,918955.1
+01-10-2015,NewYork,HPI,593.42
+01-10-2015,NewYork,Housing Permits,3091
+01-10-2015,NewYork,Total Personal income,1146927.7
+01-10-2015,Texas,HPI,273.07
+01-10-2015,Texas,Housing Permits,15083.598091129
+01-10-2015,Texas,Total Personal income,1277282.2
+01-01-2016,California,HPI,544.5
+01-01-2016,California,Housing Permits,8200.942641748
+01-01-2016,California,Total Personal income,2160710.9
+01-01-2016,Florida,HPI,366.16
+01-01-2016,Florida,Housing Permits,7793.893542671
+01-01-2016,Florida,Total Personal income,921364.3
+01-01-2016,NewYork,HPI,596.54
+01-01-2016,NewYork,Housing Permits,1079
+01-01-2016,NewYork,Total Personal income,1165397.6
+01-01-2016,Texas,HPI,276.99
+01-01-2016,Texas,Housing Permits,12668.247092817
+01-01-2016,Texas,Total Personal income,1262423.3
+01-04-2016,California,HPI,554.15
+01-04-2016,California,Housing Permits,7419.349073477
+01-04-2016,California,Total Personal income,2174042.2
+01-04-2016,Florida,HPI,375.54
+01-04-2016,Florida,Housing Permits,8798.654454827
+01-04-2016,Florida,Total Personal income,930598.8
+01-04-2016,NewYork,HPI,606.08
+01-04-2016,NewYork,Housing Permits,2039
+01-04-2016,NewYork,Total Personal income,1168574.8
+01-04-2016,Texas,HPI,284.09
+01-04-2016,Texas,Housing Permits,12314.006106897
+01-04-2016,Texas,Total Personal income,1265145.6
+01-07-2016,California,HPI,566.28
+01-07-2016,California,Housing Permits,6263.192886507
+01-07-2016,California,Total Personal income,2202555.5
+01-07-2016,Florida,HPI,385.74
+01-07-2016,Florida,Housing Permits,8896.990034158
+01-07-2016,Florida,Total Personal income,945176.7
+01-07-2016,NewYork,HPI,614.46
+01-07-2016,NewYork,Housing Permits,2941
+01-07-2016,NewYork,Total Personal income,1176568.5
+01-07-2016,Texas,HPI,289.85
+01-07-2016,Texas,Housing Permits,13617.658389774
+01-07-2016,Texas,Total Personal income,1279380.3
+01-10-2016,California,HPI,573.09
+01-10-2016,California,Housing Permits,8464.94872613
+01-10-2016,California,Total Personal income,2227243.5
+01-10-2016,Florida,HPI,392.15
+01-10-2016,Florida,Housing Permits,9566.985650034
+01-10-2016,Florida,Total Personal income,958802.7
+01-10-2016,NewYork,HPI,619.86
+01-10-2016,NewYork,Housing Permits,2642
+01-10-2016,NewYork,Total Personal income,1196077.8
+01-10-2016,Texas,HPI,292.8
+01-10-2016,Texas,Housing Permits,12356.205163095
+01-10-2016,Texas,Total Personal income,1298373.1
+01-01-2017,California,HPI,579.06
+01-01-2017,California,Housing Permits,6110.228215309
+01-01-2017,California,Total Personal income,2251305.9
+01-01-2017,Florida,HPI,399.37
+01-01-2017,Florida,Housing Permits,9810.272335885
+01-01-2017,Florida,Total Personal income,983406.3
+01-01-2017,NewYork,HPI,621.45
+01-01-2017,NewYork,Housing Permits,4548
+01-01-2017,NewYork,Total Personal income,1228098.1
+01-01-2017,Texas,HPI,296.71
+01-01-2017,Texas,Housing Permits,15888.129527952
+01-01-2017,Texas,Total Personal income,1332393.6
+01-04-2017,California,HPI,591.07
+01-04-2017,California,Housing Permits,9310.502935294
+01-04-2017,California,Total Personal income,2278666.9
+01-04-2017,Florida,HPI,409.19
+01-04-2017,Florida,Housing Permits,10030.669804236
+01-04-2017,Florida,Total Personal income,1004716.9
+01-04-2017,NewYork,HPI,631.3
+01-04-2017,NewYork,Housing Permits,4168
+01-04-2017,NewYork,Total Personal income,1245621
+01-04-2017,Texas,HPI,305.59
+01-04-2017,Texas,Housing Permits,13846.495622311
+01-04-2017,Texas,Total Personal income,1355880
+01-07-2017,California,HPI,602.84
+01-07-2017,California,Housing Permits,8376.949431831
+01-07-2017,California,Total Personal income,2307389.9
+01-07-2017,Florida,HPI,416.39
+01-07-2017,Florida,Housing Permits,9843.552273847
+01-07-2017,Florida,Total Personal income,1019666.5
+01-07-2017,NewYork,HPI,643.87
+01-07-2017,NewYork,Housing Permits,2990
+01-07-2017,NewYork,Total Personal income,1260519.1
+01-07-2017,Texas,HPI,310.05
+01-07-2017,Texas,Housing Permits,12171.973919116
+01-07-2017,Texas,Total Personal income,1377510.1
+01-10-2017,California,HPI,611.48
+01-10-2017,California,Housing Permits,10488.137373748
+01-10-2017,California,Total Personal income,2342831.9
+01-10-2017,Florida,HPI,424.45
+01-10-2017,Florida,Housing Permits,10082.909738173
+01-10-2017,Florida,Total Personal income,1036219
+01-10-2017,NewYork,HPI,649.89
+01-10-2017,NewYork,Housing Permits,3116
+01-10-2017,NewYork,Total Personal income,1288868.7
+01-10-2017,Texas,HPI,312.8
+01-10-2017,Texas,Housing Permits,15474.800866259
+01-10-2017,Texas,Total Personal income,1405520.4
+01-01-2018,California,HPI,621.93
+01-01-2018,California,Housing Permits,9535.315681875
+01-01-2018,California,Total Personal income,2359551.7
+01-01-2018,Florida,HPI,433.01
+01-01-2018,Florida,Housing Permits,11125.549935368
+01-01-2018,Florida,Total Personal income,1053639.7
+01-01-2018,NewYork,HPI,656.84
+01-01-2018,NewYork,Housing Permits,2382
+01-01-2018,NewYork,Total Personal income,1279906.8
+01-01-2018,Texas,HPI,317.04
+01-01-2018,Texas,Housing Permits,15450.895183774
+01-01-2018,Texas,Total Personal income,1429974.3
+01-04-2018,California,HPI,633.79
+01-04-2018,California,Housing Permits,9956.189868867
+01-04-2018,California,Total Personal income,2395471.8
+01-04-2018,Florida,HPI,441.36
+01-04-2018,Florida,Housing Permits,12355.63231164
+01-04-2018,Florida,Total Personal income,1066705
+01-04-2018,NewYork,HPI,664.69
+01-04-2018,NewYork,Housing Permits,2300
+01-04-2018,NewYork,Total Personal income,1293471.1
+01-04-2018,Texas,HPI,324.04
+01-04-2018,Texas,Housing Permits,20036.908405516
+01-04-2018,Texas,Total Personal income,1450969.9
+01-07-2018,California,HPI,641.79
+01-07-2018,California,Housing Permits,9973.907623146
+01-07-2018,California,Total Personal income,2430234.3
+01-07-2018,Florida,HPI,448.78
+01-07-2018,Florida,Housing Permits,12921.669445302
+01-07-2018,Florida,Total Personal income,1087015.7
+01-07-2018,NewYork,HPI,675.58
+01-07-2018,NewYork,Housing Permits,4095
+01-07-2018,NewYork,Total Personal income,1307483.4
+01-07-2018,Texas,HPI,328.21
+01-07-2018,Texas,Housing Permits,15829.632373856
+01-07-2018,Texas,Total Personal income,1476734.5
+01-10-2018,California,HPI,641.72
+01-10-2018,California,Housing Permits,8731.069812597
+01-10-2018,California,Total Personal income,2458962.7
+01-10-2018,Florida,HPI,452.22
+01-10-2018,Florida,Housing Permits,11426.426886992
+01-10-2018,Florida,Total Personal income,1104681.9
+01-10-2018,NewYork,HPI,675.93
+01-10-2018,NewYork,Housing Permits,2748
+01-10-2018,NewYork,Total Personal income,1313814.7
+01-10-2018,Texas,HPI,329.22
+01-10-2018,Texas,Housing Permits,13467.248660085
+01-10-2018,Texas,Total Personal income,1497480.6
+01-01-2019,California,HPI,645.85
+01-01-2019,California,Housing Permits,10147.608595415
+01-01-2019,California,Total Personal income,2500309.9
+01-01-2019,Florida,HPI,459.19
+01-01-2019,Florida,Housing Permits,10949.725627022
+01-01-2019,Florida,Total Personal income,1128766.9
+01-01-2019,NewYork,HPI,681.55
+01-01-2019,NewYork,Housing Permits,4036
+01-01-2019,NewYork,Total Personal income,1328377.6
+01-01-2019,Texas,HPI,333.12
+01-01-2019,Texas,Housing Permits,14151.204601194
+01-01-2019,Texas,Total Personal income,1514937.8
+01-04-2019,California,HPI,652.44
+01-04-2019,California,Housing Permits,8861.55609567
+01-04-2019,California,Total Personal income,2527505.3
+01-04-2019,Florida,HPI,465.22
+01-04-2019,Florida,Housing Permits,12789.925234093
+01-04-2019,Florida,Total Personal income,1140760
+01-04-2019,NewYork,HPI,692.51
+01-04-2019,NewYork,Housing Permits,3752
+01-04-2019,NewYork,Total Personal income,1343241.5
+01-04-2019,Texas,HPI,339.07
+01-04-2019,Texas,Housing Permits,15837.816216714
+01-04-2019,Texas,Total Personal income,1528139.1
+01-07-2019,California,HPI,659.33
+01-07-2019,California,Housing Permits,10382.388752931
+01-07-2019,California,Total Personal income,2542313.3
+01-07-2019,Florida,HPI,472.86
+01-07-2019,Florida,Housing Permits,13063.254188988
+01-07-2019,Florida,Total Personal income,1149290.9
+01-07-2019,NewYork,HPI,702.7
+01-07-2019,NewYork,Housing Permits,3694
+01-07-2019,NewYork,Total Personal income,1346412.9
+01-07-2019,Texas,HPI,343.04
+01-07-2019,Texas,Housing Permits,16916.150042624
+01-07-2019,Texas,Total Personal income,1542899.2
+01-10-2019,California,HPI,663.63
+01-10-2019,California,Housing Permits,10090.1135122
+01-10-2019,California,Total Personal income,2581673.9
+01-10-2019,Florida,HPI,478.97
+01-10-2019,Florida,Housing Permits,14635.870419309
+01-10-2019,Florida,Total Personal income,1163025.3
+01-10-2019,NewYork,HPI,710.2
+01-10-2019,NewYork,Housing Permits,3976
+01-10-2019,NewYork,Total Personal income,1354233.4
+01-10-2019,Texas,HPI,345.62
+01-10-2019,Texas,Housing Permits,20126.071897742
+01-10-2019,Texas,Total Personal income,1560411.9
+01-01-2020,California,HPI,669.86
+01-01-2020,California,Housing Permits,9363.85197603
+01-01-2020,California,Total Personal income,2620751.8
+01-01-2020,Florida,HPI,486.24
+01-01-2020,Florida,Housing Permits,14255.463954839
+01-01-2020,Florida,Total Personal income,1173940.8
+01-01-2020,NewYork,HPI,716.78
+01-01-2020,NewYork,Housing Permits,4991
+01-01-2020,NewYork,Total Personal income,1350053.9
+01-01-2020,Texas,HPI,349.34
+01-01-2020,Texas,Housing Permits,17700.083911121
+01-01-2020,Texas,Total Personal income,1553244.2
+01-04-2020,California,HPI,677.54
+01-04-2020,California,Housing Permits,5833.287170892
+01-04-2020,California,Total Personal income,2782204.5
+01-04-2020,Florida,HPI,492.5
+01-04-2020,Florida,Housing Permits,10731.336874007
+01-04-2020,Florida,Total Personal income,1249795.5
+01-04-2020,NewYork,HPI,722.69
+01-04-2020,NewYork,Housing Permits,1077
+01-04-2020,NewYork,Total Personal income,1446798.6
+01-04-2020,Texas,HPI,351.92
+01-04-2020,Texas,Housing Permits,16134.88714081
+01-04-2020,Texas,Total Personal income,1649901
+01-07-2020,California,HPI,685.46
+01-07-2020,California,Housing Permits,10799.34910534
+01-07-2020,California,Total Personal income,2853265.6
+01-07-2020,Florida,HPI,500.97
+01-07-2020,Florida,Housing Permits,13122.345805017
+01-07-2020,Florida,Total Personal income,1228312.9
+01-07-2020,NewYork,HPI,734.52
+01-07-2020,NewYork,Housing Permits,3775
+01-07-2020,NewYork,Total Personal income,1432374.5
+01-07-2020,Texas,HPI,357.26
+01-07-2020,Texas,Housing Permits,19368.229560418
+01-07-2020,Texas,Total Personal income,1623058.2
+01-10-2020,California,HPI,699.6
+01-10-2020,California,Housing Permits,8657.725180791
+01-10-2020,California,Total Personal income,2813863.6
+01-10-2020,Florida,HPI,514.39
+01-10-2020,Florida,Housing Permits,15330.284657797
+01-10-2020,Florida,Total Personal income,1232437.1
+01-10-2020,NewYork,HPI,750.46
+01-10-2020,NewYork,Housing Permits,3375
+01-10-2020,NewYork,Total Personal income,1390888.3
+01-10-2020,Texas,HPI,365.47
+01-10-2020,Texas,Housing Permits,19213.769062103
+01-10-2020,Texas,Total Personal income,1618709.6
+01-01-2021,California,HPI,719.18
+01-01-2021,California,Housing Permits,10681.492851722
+01-01-2021,California,Total Personal income,3097752.7
+01-01-2021,Florida,HPI,531.05
+01-01-2021,Florida,Housing Permits,15823.269180257
+01-01-2021,Florida,Total Personal income,1413941.9
+01-01-2021,NewYork,HPI,768.24
+01-01-2021,NewYork,Housing Permits,3951
+01-01-2021,NewYork,Total Personal income,1566720.1
+01-01-2021,Texas,HPI,374.14
+01-01-2021,Texas,Housing Permits,22271.160583844
+01-01-2021,Texas,Total Personal income,1839896.9
+01-04-2021,California,HPI,761.85
+01-04-2021,California,Housing Permits,10259.154660362
+01-04-2021,California,Total Personal income,2972063.1
+01-04-2021,Florida,HPI,565.79
+01-04-2021,Florida,Housing Permits,17376.513287919
+01-04-2021,Florida,Total Personal income,1348830.6
+01-04-2021,NewYork,HPI,795.88
+01-04-2021,NewYork,Housing Permits,3008
+01-04-2021,NewYork,Total Personal income,1491299.2
+01-04-2021,Texas,HPI,396.03
+01-04-2021,Texas,Housing Permits,23249.86624192
+01-04-2021,Texas,Total Personal income,1751180.1
+01-07-2021,California,HPI,801.47
+01-07-2021,California,Housing Permits,10257.417224076
+01-07-2021,California,Total Personal income,2997363.9
+01-07-2021,Florida,HPI,607.59
+01-07-2021,Florida,Housing Permits,18008.622588281
+01-07-2021,Florida,Total Personal income,1360822.8
+01-07-2021,NewYork,HPI,835.94
+01-07-2021,NewYork,Housing Permits,3007
+01-07-2021,NewYork,Total Personal income,1489806.1
+01-07-2021,Texas,HPI,421.23
+01-07-2021,Texas,Housing Permits,19661.862933148
+01-07-2021,Texas,Total Personal income,1766118.1
+01-10-2021,California,HPI,833.99
+01-10-2021,California,Housing Permits,11262.477616567
+01-10-2021,California,Total Personal income,2987527.9
+01-10-2021,Florida,HPI,642
+01-10-2021,Florida,Housing Permits,16159.427625079
+01-10-2021,Florida,Total Personal income,1383922.5
+01-10-2021,NewYork,HPI,855.2
+01-10-2021,NewYork,Housing Permits,3122
+01-10-2021,NewYork,Total Personal income,1484714.9
+01-10-2021,Texas,HPI,438.77
+01-10-2021,Texas,Housing Permits,17729.033371168
+01-10-2021,Texas,Total Personal income,1801682.5
+01-01-2022,California,HPI,868.28
+01-01-2022,California,Housing Permits,9311.150790644
+01-01-2022,California,Total Personal income,2969021.5
+01-01-2022,Florida,HPI,678.12
+01-01-2022,Florida,Housing Permits,17827.15789695
+01-01-2022,Florida,Total Personal income,1397659.1
+01-01-2022,NewYork,HPI,876.85
+01-01-2022,NewYork,Housing Permits,3085
+01-01-2022,NewYork,Total Personal income,1467916.4
+01-01-2022,Texas,HPI,459.39
+01-01-2022,Texas,Housing Permits,23438.939537226
+01-01-2022,Texas,Total Personal income,1825797.9
+01-04-2022,California,HPI,922.4
+01-04-2022,California,Housing Permits,10258.261753901
+01-04-2022,California,Total Personal income,2979888
+01-04-2022,Florida,HPI,734.65
+01-04-2022,Florida,Housing Permits,17960.688469378
+01-04-2022,Florida,Total Personal income,1426529.6
+01-04-2022,NewYork,HPI,928.29
+01-04-2022,NewYork,Housing Permits,3674
+01-04-2022,NewYork,Total Personal income,1473485.4
+01-04-2022,Texas,HPI,492.36
+01-04-2022,Texas,Housing Permits,24337.430356277
+01-04-2022,Texas,Total Personal income,1861370.4
+01-07-2022,California,HPI,916.98
+01-07-2022,California,Housing Permits,8207.786643065
+01-07-2022,California,Total Personal income,3018949.2
+01-07-2022,Florida,HPI,765.92
+01-07-2022,Florida,Housing Permits,15843.290352701
+01-07-2022,Florida,Total Personal income,1459747.6
+01-07-2022,NewYork,HPI,949.05
+01-07-2022,NewYork,Housing Permits,3702
+01-07-2022,NewYork,Total Personal income,1489321.6
+01-07-2022,Texas,HPI,503.29
+01-07-2022,Texas,Housing Permits,22749.096133411
+01-07-2022,Texas,Total Personal income,1902672.1
+01-10-2022,California,HPI,895.87
+01-10-2022,California,Housing Permits,7537.111692749
+01-10-2022,California,Total Personal income,3058730.5
+01-10-2022,Florida,HPI,764.85
+01-10-2022,Florida,Housing Permits,15658.923830368
+01-10-2022,Florida,Total Personal income,1482459.4
+01-10-2022,NewYork,HPI,944.84
+01-10-2022,NewYork,Housing Permits,2304
+01-10-2022,NewYork,Total Personal income,1504485.7
+01-10-2022,Texas,HPI,499.65
+01-10-2022,Texas,Housing Permits,20706.477757054
+01-10-2022,Texas,Total Personal income,1927838.3
+01-01-2023,California,HPI,892.48
+01-01-2023,California,Housing Permits,8296.381405026
+01-01-2023,California,Total Personal income,3087577.6
+01-01-2023,Florida,HPI,767.64
+01-01-2023,Florida,Housing Permits,15327.603017752
+01-01-2023,Florida,Total Personal income,1522449.4
+01-01-2023,NewYork,HPI,944.86
+01-01-2023,NewYork,Housing Permits,1258
+01-01-2023,NewYork,Total Personal income,1525832.2
+01-01-2023,Texas,HPI,499.22
+01-01-2023,Texas,Housing Permits,17206.44081412
+01-01-2023,Texas,Total Personal income,1967104.7
+01-04-2023,California,HPI,915.69
+01-04-2023,California,Housing Permits,8851.694270406
+01-04-2023,California,Total Personal income,3129483.9
+01-04-2023,Florida,HPI,785.8
+01-04-2023,Florida,Housing Permits,13519.993561582
+01-04-2023,Florida,Total Personal income,1535379.8
+01-04-2023,NewYork,HPI,982.35
+01-04-2023,NewYork,Housing Permits,2011
+01-04-2023,NewYork,Total Personal income,1548666.5
+01-04-2023,Texas,HPI,506.84
+01-04-2023,Texas,Housing Permits,16388.118250194
+01-04-2023,Texas,Total Personal income,1977018.2
+01-07-2023,California,HPI,929.01
+01-07-2023,California,Housing Permits,8886.525893748
+01-07-2023,California,Total Personal income,3151805.1
+01-07-2023,Florida,HPI,803.85
+01-07-2023,Florida,Housing Permits,15924.686978201
+01-07-2023,Florida,Total Personal income,1548535.5
+01-07-2023,NewYork,HPI,1014.39
+01-07-2023,NewYork,Housing Permits,1912
+01-07-2023,NewYork,Total Personal income,1562882.2
+01-07-2023,Texas,HPI,514.18
+01-07-2023,Texas,Housing Permits,17982.263748459
+01-07-2023,Texas,Total Personal income,2002468
